@@ -1,0 +1,3160 @@
+Source,Target,Type,Id,Label,timeset,Weight
+Walmart,"C Douglas McMillon ""Doug""",Directed,0,,,1
+Walmart,Michael R Francis,Directed,1,,,1
+Walmart,M Brett Biggs,Directed,2,,,1
+Walmart,Suresh Kumar,Directed,3,,,1
+Walmart,Janey Whiteside,Directed,4,,,1
+Walmart,Steve Bratspies,Directed,5,,,1
+Walmart,Daniel Trujillo,Directed,6,,,1
+Walmart,Enrique Ostale Cambiaso,Directed,7,,,1
+Walmart,Dirk Van Den Berghe,Directed,8,,,1
+Walmart,John R Furner,Directed,9,,,1
+Walmart,Marc Lore,Directed,10,,,1
+Walmart,Judith McKenna,Directed,11,,,1
+Walmart,Kathryn McLay,Directed,12,,,1
+Walmart,Michael P Dastugue,Directed,13,,,1
+Walmart,Richard Mayfield,Directed,14,,,1
+Walmart,"John Peter Suarez ""JP""",Directed,15,,,1
+Walmart,Ashley Buchanan,Directed,16,,,1
+Walmart,Karen Roberts,Directed,17,,,1
+Walmart,"James A Barron ""Andy""",Directed,18,,,1
+Walmart,"Daniel J Bartlett ""Dan""",Directed,19,,,1
+Walmart,Rachel L Brand,Directed,20,,,1
+Walmart,Todd Harbaugh,Directed,21,,,1
+Walmart,Jamie Iannone,Directed,22,,,1
+Walmart,Mark Ibbotson,Directed,23,,,1
+Walmart,Julie Murphy,Directed,24,,,1
+Walmart,Charles Redfield,Directed,25,,,1
+Walmart,Greg Smith,Directed,26,,,1
+Walmart,Gordon Y Allison,Directed,27,,,1
+Walmart,Nuala O'Connor Kelly,Directed,28,,,1
+Walmart,Kerri L Ruttenberg,Directed,29,,,1
+Walmart,"Daniel Binder ""Dan""",Directed,30,,,1
+"C Douglas McMillon ""Doug""",Walmart,Directed,31,,,1
+Exxon Mobil,Darren W Woods,Directed,32,,,1
+Exxon Mobil,Andrew P Swiger,Directed,33,,,1
+Exxon Mobil,Neil A Chapman,Directed,34,,,1
+Exxon Mobil,Jack P Williams Jr,Directed,35,,,1
+Exxon Mobil,"Stephen M Greenlee ""Steven""",Directed,36,,,1
+Exxon Mobil,Liam M Mallon,Directed,37,,,1
+Exxon Mobil,Robert N Schleckser,Directed,38,,,1
+Exxon Mobil,Randall M Ebner,Directed,39,,,1
+Exxon Mobil,"James M Spellings Jr ""Jaime""",Directed,40,,,1
+Exxon Mobil,David S Rosenthal,Directed,41,,,1
+Exxon Mobil,Bryan W Milton,Directed,42,,,1
+Exxon Mobil,Karen McKee,Directed,43,,,1
+Exxon Mobil,Neil A Hansen,Directed,44,,,1
+Exxon Mobil,Tracey C Gunnlaugsson,Directed,45,,,1
+Exxon Mobil,Suzanne M McCarron,Directed,46,,,1
+Exxon Mobil,"Dennis G Wascom ""Jerry""",Directed,47,,,1
+Exxon Mobil,Theodore J Wojnar Jr,Directed,48,,,1
+Darren W Woods,Exxon Mobil,Directed,49,,,1
+Apple,"Timothy Donald Cook ""Tim""",Directed,50,,,1
+Apple,"Jeffrey E Williams ""Jeff""",Directed,51,,,1
+Apple,Mary Demby,Directed,52,,,1
+Apple,"Sir Jonathan Ive ""Jony""",Directed,53,,,1
+Apple,Luca Maestri,Directed,54,,,1
+Apple,"Katherine L Adams ""Kate""",Directed,55,,,1
+Apple,"Eduardo H Cue ""Eddy""",Directed,56,,,1
+Apple,Craig Federighi,Directed,57,,,1
+Apple,John Giannandrea,Directed,58,,,1
+Apple,Sabih Khan,Directed,59,,,1
+Apple,Deirdre O'Brien,Directed,60,,,1
+Apple,"Daniel Riccio ""Dan""",Directed,61,,,1
+Apple,"Philip W Schiller ""Phil""",Directed,62,,,1
+Apple,Johny Srouji,Directed,63,,,1
+Apple,David Smoley,Directed,64,,,1
+Apple,Isabel Ge Mahe,Directed,65,,,1
+Apple,Lisa Perez Jackson,Directed,66,,,1
+Apple,Tor Myhren,Directed,67,,,1
+Apple,Susan Prescott,Directed,68,,,1
+Apple,Adrian Perica,Directed,69,,,1
+Apple,Nancy Paxton,Directed,70,,,1
+"Timothy Donald Cook ""Tim""",Apple,Directed,71,,,1
+"Timothy Donald Cook ""Tim""",Nike,Directed,72,,,1
+Berkshire Hathaway,Warren E Buffett,Directed,73,,,1
+Berkshire Hathaway,"Charles T Munger ""Charlie""",Directed,74,,,1
+Berkshire Hathaway,"Gregory E Abel ""Greg""",Directed,75,,,1
+Berkshire Hathaway,Ajit B Jain,Directed,76,,,1
+Berkshire Hathaway,Marc D Hamburg,Directed,77,,,1
+Berkshire Hathaway,Daniel J Jaksich,Directed,78,,,1
+Berkshire Hathaway,Mark D Millard,Directed,79,,,1
+Berkshire Hathaway,Jo Ellen Rieck,Directed,80,,,1
+Berkshire Hathaway,Rebecca K Amick,Directed,81,,,1
+Berkshire Hathaway,Kerby S Ham,Directed,82,,,1
+Warren E Buffett,Berkshire Hathaway,Directed,83,,,1
+"Charles T Munger ""Charlie""",Berkshire Hathaway,Directed,84,,,1
+"Charles T Munger ""Charlie""",Costco Wholesale,Directed,85,,,1
+"Gregory E Abel ""Greg""",Berkshire Hathaway,Directed,86,,,1
+Ajit B Jain,Berkshire Hathaway,Directed,87,,,1
+Amazon.com,"Jeffrey P Bezos ""Jeff""",Directed,88,,,1
+Amazon.com,"Andrew R Jassy ""Andy""",Directed,89,,,1
+Amazon.com,"Jeffrey A Wilke ""Jeff""",Directed,90,,,1
+Amazon.com,Brian T Olsavsky,Directed,91,,,1
+Amazon.com,Steven Kessel,Directed,92,,,1
+Amazon.com,Dave Clark,Directed,93,,,1
+Amazon.com,David A Zapolsky,Directed,94,,,1
+Amazon.com,Jeffrey M Blackburn,Directed,95,,,1
+Amazon.com,"James Carney ""Jay""",Directed,96,,,1
+Amazon.com,Paul Kotas,Directed,97,,,1
+Amazon.com,Dr Werner Vogels,Directed,98,,,1
+Amazon.com,Shelley L Reynolds,Directed,99,,,1
+Amazon.com,Dave Fildes,Directed,100,,,1
+"Jeffrey P Bezos ""Jeff""",Amazon.com,Directed,101,,,1
+UnitedHealth Group,"David Scott Wichmann ""Dave""",Directed,102,,,1
+UnitedHealth Group,Sir Andrew Witty,Directed,103,,,1
+UnitedHealth Group,Larry C Renfro,Directed,104,,,1
+UnitedHealth Group,"Kenneth Ehlert ""Ken""",Directed,105,,,1
+UnitedHealth Group,John Franklin Rex,Directed,106,,,1
+UnitedHealth Group,Patricia L Lewis,Directed,107,,,1
+UnitedHealth Group,Marianne Dolores Short,Directed,108,,,1
+UnitedHealth Group,D Ellen Wilson,Directed,109,,,1
+UnitedHealth Group,"Dr Richard J Migliori ""Dick""",Directed,110,,,1
+UnitedHealth Group,Cory B Alexander,Directed,111,,,1
+UnitedHealth Group,Terry M Clark,Directed,112,,,1
+UnitedHealth Group,"Thomas Roos ""Tom""",Directed,113,,,1
+UnitedHealth Group,Jennifer M Whitlow,Directed,114,,,1
+UnitedHealth Group,Peter M Gill,Directed,115,,,1
+UnitedHealth Group,Brett Manderfeld,Directed,116,,,1
+"David Scott Wichmann ""Dave""",UnitedHealth Group,Directed,117,,,1
+McKesson,Dr Brian S Tyler,Directed,118,,,1
+McKesson,Chris Dimos,Directed,119,,,1
+McKesson,Kirk Kaminsky,Directed,120,,,1
+McKesson,Nathan Mott,Directed,121,,,1
+McKesson,Britt Vitalone,Directed,122,,,1
+McKesson,"Kathleen D McElligott ""Kathy""",Directed,123,,,1
+McKesson,Tracy Faber,Directed,124,,,1
+McKesson,Bansi Nagji,Directed,125,,,1
+McKesson,Lori A Schechter,Directed,126,,,1
+McKesson,Brian P Moore,Directed,127,,,1
+McKesson,Sundeep Reddy,Directed,128,,,1
+McKesson,Bonnie Jacobs,Directed,129,,,1
+McKesson,Craig Mercer,Directed,130,,,1
+McKesson,Paul Smith,Directed,131,,,1
+McKesson,Craig Stace,Directed,132,,,1
+McKesson,Michele Lau,Directed,133,,,1
+McKesson,Gunderson Dettmer,Directed,134,,,1
+CVS Health,Larry J Merlo,Directed,135,,,1
+CVS Health,Sreekanth Chaguturu,Directed,136,,,1
+CVS Health,Kathryn Metcalfe,Directed,137,,,1
+CVS Health,Eva C Boratto,Directed,138,,,1
+CVS Health,"Jonathan C Roberts ""Jon""",Directed,139,,,1
+CVS Health,Lisa G Bisaccia,Directed,140,,,1
+CVS Health,"Troyen A Brennan ""Troy""",Directed,141,,,1
+CVS Health,Dr Alan M Lotvin,Directed,142,,,1
+CVS Health,Thomas M Moriarty,Directed,143,,,1
+CVS Health,Roshan Navagamuwa,Directed,144,,,1
+CVS Health,Karen S Lynch,Directed,145,,,1
+CVS Health,C Daniel Haron,Directed,146,,,1
+CVS Health,Kevin Hourican,Directed,147,,,1
+CVS Health,John David Joyner,Directed,148,,,1
+CVS Health,Derica W Rice,Directed,149,,,1
+CVS Health,Joshua M Flum,Directed,150,,,1
+CVS Health,"Richard C Jelinek ""Rick""",Directed,151,,,1
+CVS Health,James D Clark,Directed,152,,,1
+CVS Health,David Falkowski,Directed,153,,,1
+CVS Health,John P Kennedy,Directed,154,,,1
+CVS Health,Carol A Denale,Directed,155,,,1
+CVS Health,Colleen M McIntosh,Directed,156,,,1
+CVS Health,Valerie C Haertel,Directed,157,,,1
+CVS Health,Adam Pellegrini,Directed,158,,,1
+Larry J Merlo,CVS Health,Directed,159,,,1
+Derica W Rice,Walt Disney,Directed,160,,,1
+AT&T,Randall L Stephenson,Directed,161,,,1
+AT&T,John T Stankey,Directed,162,,,1
+AT&T,Angela Santone,Directed,163,,,1
+AT&T,Jeffery McElfresh,Directed,164,,,1
+AT&T,Lori M Lee,Directed,165,,,1
+AT&T,Laurent Therivel,Directed,166,,,1
+AT&T,John J Stephens,Directed,167,,,1
+AT&T,David S Huntley,Directed,168,,,1
+AT&T,David R McAtee II,Directed,169,,,1
+AT&T,"William A Blase Jr ""Bill""",Directed,170,,,1
+AT&T,Chris Sambar,Directed,171,,,1
+AT&T,Rick Welday,Directed,172,,,1
+AT&T,Jason Porter,Directed,173,,,1
+AT&T,"Michael J Viola ""Mike""",Directed,174,,,1
+AT&T,Maria Lensing,Directed,175,,,1
+AT&T,Stacy Schwartz,Directed,176,,,1
+Randall L Stephenson,AT&T,Directed,177,,,1
+John T Stankey,United Parcel Service,Directed,178,,,1
+AmerisourceBergen,"Steven H Collis ""Steve""",Directed,179,,,1
+AmerisourceBergen,Albert G Morales,Directed,180,,,1
+AmerisourceBergen,James Francis Cleary Jr,Directed,181,,,1
+AmerisourceBergen,John G Chou,Directed,182,,,1
+AmerisourceBergen,Gina K Clark,Directed,183,,,1
+AmerisourceBergen,Dale B Danilewitz,Directed,184,,,1
+AmerisourceBergen,Silvana Battaglia,Directed,185,,,1
+AmerisourceBergen,Kathy H Gaddes,Directed,186,,,1
+AmerisourceBergen,Leslie E Donato,Directed,187,,,1
+AmerisourceBergen,"Robert P Mauch ""Bob""",Directed,188,,,1
+AmerisourceBergen,Rich Tremonte,Directed,189,,,1
+AmerisourceBergen,Sun Park,Directed,190,,,1
+AmerisourceBergen,Hyung J Bak,Directed,191,,,1
+AmerisourceBergen,Lazarus Krikorian,Directed,192,,,1
+AmerisourceBergen,Jack F Quinn,Directed,193,,,1
+"Steven H Collis ""Steve""",AmerisourceBergen,Directed,194,,,1
+Chevron,"Michael K Wirth ""Mike""",Directed,195,,,1
+Chevron,Mary A Francis,Directed,196,,,1
+Chevron,"Joseph C Geagea ""Joe""",Directed,197,,,1
+Chevron,"James W Johnson ""Jay""",Directed,198,,,1
+Chevron,Mark A Nelson,Directed,199,,,1
+Chevron,Pierre R Breber,Directed,200,,,1
+Chevron,Navin K Mahajan,Directed,201,,,1
+Chevron,"R Hewitt Pate ""Hew""",Directed,202,,,1
+Chevron,"Charles N Macfarlane ""Sandy""",Directed,203,,,1
+Chevron,"David A Inchausti ""Dave""",Directed,204,,,1
+Chevron,Colin E Parfitt,Directed,205,,,1
+Chevron,Rhonda J Morris,Directed,206,,,1
+Chevron,Bruce L Niemeyer,Directed,207,,,1
+Chevron,"J David Payne ""Dave""",Directed,208,,,1
+Chevron,"Joffrey R Pryor ""Jay""",Directed,209,,,1
+Chevron,Dale Walsh,Directed,210,,,1
+Chevron,Wayne Borduin,Directed,211,,,1
+"Michael K Wirth ""Mike""",Chevron,Directed,212,,,1
+Ford Motor,"William Clay Ford Jr ""Bill""",Directed,213,,,1
+Ford Motor,"James P Hackett ""Jim""",Directed,214,,,1
+Ford Motor,Tim Stone,Directed,215,,,1
+Ford Motor,Bradley M Gayton,Directed,216,,,1
+Ford Motor,Mitch Bainwol,Directed,217,,,1
+Ford Motor,Elena Ford,Directed,218,,,1
+Ford Motor,Hau Thai-Tang,Directed,219,,,1
+Ford Motor,Kiersten Robinson,Directed,220,,,1
+Ford Motor,John Lawler,Directed,221,,,1
+Ford Motor,Joy Falotico,Directed,222,,,1
+Ford Motor,"James D Farley Jr ""Jim""",Directed,223,,,1
+Ford Motor,"Joseph R Hinrichs ""Joe""",Directed,224,,,1
+Ford Motor,Mark Ovenden,Directed,225,,,1
+Ford Motor,Dr Ken Washington,Directed,226,,,1
+Ford Motor,Jeff Lemmer,Directed,227,,,1
+Ford Motor,Kumar A Galhotra,Directed,228,,,1
+Ford Motor,Cathy O'Callaghan,Directed,229,,,1
+Ford Motor,David Webb,Directed,230,,,1
+Ford Motor,Jim Baumbick,Directed,231,,,1
+Ford Motor,Nigel Brackenbury,Directed,232,,,1
+Ford Motor,Bob Holycross,Directed,233,,,1
+Ford Motor,Burt R Jordan,Directed,234,,,1
+Ford Motor,"Kimberly L Pittel ""Kim""",Directed,235,,,1
+Ford Motor,Kevin Legel,Directed,236,,,1
+Ford Motor,"Sundeep Madra ""Sunny""",Directed,237,,,1
+Ford Motor,David McClelland,Directed,238,,,1
+Ford Motor,John F Savona,Directed,239,,,1
+Ford Motor,Lynn Antipas Tyson,Directed,240,,,1
+Ford Motor,Roelant De Waard,Directed,241,,,1
+Ford Motor,Michael S Sheridan,Directed,242,,,1
+"William Clay Ford Jr ""Bill""",Ford Motor,Directed,243,,,1
+"James P Hackett ""Jim""",Ford Motor,Directed,244,,,1
+Dr Ken Washington,McKesson,Directed,245,,,1
+General Motors,Mary T Barra,Directed,246,,,1
+General Motors,Mark L Reuss,Directed,247,,,1
+General Motors,Dhivya Suryadevara,Directed,248,,,1
+General Motors,Deborah Wahl Meyer,Directed,249,,,1
+General Motors,Craig B Glidden,Directed,250,,,1
+General Motors,Barry L Engle,Directed,251,,,1
+General Motors,Gerald Johnson,Directed,252,,,1
+General Motors,"Randall D Mott ""Randy""",Directed,253,,,1
+General Motors,Doug Parks,Directed,254,,,1
+General Motors,"Matthew Tsien ""Matt""",Directed,255,,,1
+General Motors,"Daniel E Berce ""Dan""",Directed,256,,,1
+General Motors,"Stephen K Carlisle ""Steve""",Directed,257,,,1
+General Motors,"Steven A Kiefer ""Steve""",Directed,258,,,1
+General Motors,Julian Guy Blissett,Directed,259,,,1
+General Motors,"Kimberly Brycz ""Kim""",Directed,260,,,1
+General Motors,"Antonio D Cervone ""Tony""",Directed,261,,,1
+General Motors,Everett Eissenstat,Directed,262,,,1
+General Motors,Christopher T Hatto,Directed,263,,,1
+General Motors,Dave Kuhl,Directed,264,,,1
+General Motors,Rocky Gupta,Directed,265,,,1
+General Motors,Steve Hill,Directed,266,,,1
+General Motors,Brian Sweeney,Directed,267,,,1
+General Motors,Ann N Cathcart Chaplin,Directed,268,,,1
+Mary T Barra,General Motors,Directed,269,,,1
+Mary T Barra,Walt Disney,Directed,270,,,1
+Costco Wholesale,W Craig Jelinek,Directed,271,,,1
+Costco Wholesale,Richard A Galanti,Directed,272,,,1
+Costco Wholesale,Paul G Moulton,Directed,273,,,1
+Costco Wholesale,Jim C Klauer,Directed,274,,,1
+Costco Wholesale,James P Murphy,Directed,275,,,1
+Costco Wholesale,Russ D Miller,Directed,276,,,1
+Costco Wholesale,Joseph P Portera,Directed,277,,,1
+Costco Wholesale,"Roland Michael Vachris ""Ron""",Directed,278,,,1
+Costco Wholesale,Pat Callans,Directed,279,,,1
+Costco Wholesale,John Sullivan,Directed,280,,,1
+Costco Wholesale,"Daniel Hines ""Dan""",Directed,281,,,1
+Costco Wholesale,Jeff Abadir,Directed,282,,,1
+Costco Wholesale,Richard Chang,Directed,283,,,1
+Costco Wholesale,Gino Dorico,Directed,284,,,1
+Costco Wholesale,Caton Frates,Directed,285,,,1
+Costco Wholesale,John B Gaherty,Directed,286,,,1
+Costco Wholesale,Jaime Gonzalez,Directed,287,,,1
+Costco Wholesale,Jeffrey Long,Directed,288,,,1
+Costco Wholesale,Darby Greek,Directed,289,,,1
+Costco Wholesale,Mario Omoss,Directed,290,,,1
+Costco Wholesale,Stephen M Pappas,Directed,291,,,1
+Costco Wholesale,Pierre Riel,Directed,292,,,1
+Costco Wholesale,Yoram Rubanenko,Directed,293,,,1
+Costco Wholesale,David Skinner,Directed,294,,,1
+Costco Wholesale,Rich Wilcox,Directed,295,,,1
+Costco Wholesale,Claudine Adamo,Directed,296,,,1
+Costco Wholesale,Don Burdick,Directed,297,,,1
+Costco Wholesale,Richard C Chavez,Directed,298,,,1
+Costco Wholesale,Victor A Curtis,Directed,299,,,1
+Costco Wholesale,"Richard Delie ""Rick""",Directed,300,,,1
+Costco Wholesale,Paul W Latham,Directed,301,,,1
+Costco Wholesale,Ali Moayeri,Directed,302,,,1
+Costco Wholesale,"Robert Nelson ""Bob""",Directed,303,,,1
+Costco Wholesale,James W Rutherford,Directed,304,,,1
+Costco Wholesale,John Thelan,Directed,305,,,1
+Costco Wholesale,David Sherwood,Directed,306,,,1
+W Craig Jelinek,Costco Wholesale,Directed,307,,,1
+Richard A Galanti,Costco Wholesale,Directed,308,,,1
+Alphabet,"Lawrence E Page ""Larry""",Directed,309,,,1
+Alphabet,Sergey Brin,Directed,310,,,1
+Alphabet,Sundar Pichai,Directed,311,,,1
+Alphabet,Ruth Porat,Directed,312,,,1
+Alphabet,Philipp Schindler,Directed,313,,,1
+Alphabet,David C Drummond,Directed,314,,,1
+Alphabet,Amie Thuener O'Toole,Directed,315,,,1
+Alphabet,Ellen West,Directed,316,,,1
+"Lawrence E Page ""Larry""",Alphabet,Directed,317,,,1
+Sergey Brin,Alphabet,Directed,318,,,1
+Sundar Pichai,Alphabet,Directed,319,,,1
+Cardinal Health,"Michael C Kaufmann ""Mike""",Directed,320,,,1
+Cardinal Health,"David C Evans ""Dave""",Directed,321,,,1
+Cardinal Health,Jessica L Mayer,Directed,322,,,1
+Cardinal Health,Ola Snow,Directed,323,,,1
+Cardinal Health,Victor L Crawford,Directed,324,,,1
+Cardinal Health,Stephen M Mason,Directed,325,,,1
+Cardinal Health,Steve Blazejewski,Directed,326,,,1
+Cardinal Health,Scott Barnhart,Directed,327,,,1
+Cardinal Health,"Joseph I Depinto ""Joe""",Directed,328,,,1
+Cardinal Health,Patrick Holt,Directed,329,,,1
+Cardinal Health,Tiffany Olson,Directed,330,,,1
+Cardinal Health,Debbie Weitzman,Directed,331,,,1
+Cardinal Health,Brian S Rice,Directed,332,,,1
+Cardinal Health,Craig Cowman,Directed,333,,,1
+Cardinal Health,Michele Holcomb,Directed,334,,,1
+Cardinal Health,Bill Owad,Directed,335,,,1
+Cardinal Health,Robert Rajalingam,Directed,336,,,1
+Cardinal Health,Lisa Capodici,Directed,337,,,1
+"Michael C Kaufmann ""Mike""",Cardinal Health,Directed,338,,,1
+Walgreens Boots Alliance,"James A Skinner ""Jim""",Directed,339,,,1
+Walgreens Boots Alliance,Stefano Pessina,Directed,340,,,1
+Walgreens Boots Alliance,Ornella Barra,Directed,341,,,1
+Walgreens Boots Alliance,"Alexander W Gourlay ""Alex""",Directed,342,,,1
+Walgreens Boots Alliance,Gunjan Bhow,Directed,343,,,1
+Walgreens Boots Alliance,Annie Murphy,Directed,344,,,1
+Walgreens Boots Alliance,James Kehoe,Directed,345,,,1
+Walgreens Boots Alliance,Marco Pagni,Directed,346,,,1
+Walgreens Boots Alliance,Kathleen Wilson-Thompson,Directed,347,,,1
+Walgreens Boots Alliance,Vineet Mehra,Directed,348,,,1
+Walgreens Boots Alliance,Heather Dixon,Directed,349,,,1
+Walgreens Boots Alliance,"Charles Greener ""Chuck""",Directed,350,,,1
+Walgreens Boots Alliance,Colin Nelson,Directed,351,,,1
+Walgreens Boots Alliance,Aaron C Radelet,Directed,352,,,1
+Walgreens Boots Alliance,Patrick McLean,Directed,353,,,1
+Walgreens Boots Alliance,Francesco Tinto,Directed,354,,,1
+Walgreens Boots Alliance,Gerald Gradwell,Directed,355,,,1
+"James A Skinner ""Jim""",Walgreens Boots Alliance,Directed,356,,,1
+Stefano Pessina,Walgreens Boots Alliance,Directed,357,,,1
+Ornella Barra,AmerisourceBergen,Directed,358,,,1
+JPMorgan Chase,"James Dimon ""Jamie""",Directed,359,,,1
+JPMorgan Chase,Gordon A Smith,Directed,360,,,1
+JPMorgan Chase,Daniel Eduardo Pinto,Directed,361,,,1
+JPMorgan Chase,Jennifer A Piepszak,Directed,362,,,1
+JPMorgan Chase,Ashley Bacon,Directed,363,,,1
+JPMorgan Chase,Lori A Beer,Directed,364,,,1
+JPMorgan Chase,Kristin Lemkau,Directed,365,,,1
+JPMorgan Chase,Andrew Knott,Directed,366,,,1
+JPMorgan Chase,Thasunda Brown Duckett,Directed,367,,,1
+JPMorgan Chase,Mary Callahan Erdoes,Directed,368,,,1
+JPMorgan Chase,Marianne Lake,Directed,369,,,1
+JPMorgan Chase,"Douglas B Petno ""Doug""",Directed,370,,,1
+JPMorgan Chase,Mark W O'Donovan,Directed,371,,,1
+JPMorgan Chase,Sarah M Youngwood,Directed,372,,,1
+JPMorgan Chase,Stacey R Friedman,Directed,373,,,1
+JPMorgan Chase,Robin Leopold,Directed,374,,,1
+JPMorgan Chase,Peter L Scher,Directed,375,,,1
+JPMorgan Chase,Molly Carpenter,Directed,376,,,1
+JPMorgan Chase,Nicole Giles,Directed,377,,,1
+JPMorgan Chase,Jason R Scott,Directed,378,,,1
+"James Dimon ""Jamie""",JPMorgan Chase,Directed,379,,,1
+Thasunda Brown Duckett,Nike,Directed,380,,,1
+Verizon Communications,Hans Vestberg,Directed,381,,,1
+Verizon Communications,"James J Gerace ""Jim""",Directed,382,,,1
+Verizon Communications,Rose Stuckey Kirk,Directed,383,,,1
+Verizon Communications,"Matthew D Ellis ""Matt""",Directed,384,,,1
+Verizon Communications,Marc Christopher Reed,Directed,385,,,1
+Verizon Communications,Kyle J Malady,Directed,386,,,1
+Verizon Communications,Diego Scotti,Directed,387,,,1
+Verizon Communications,Rima Qureshi,Directed,388,,,1
+Verizon Communications,Ronan James Dunne,Directed,389,,,1
+Verizon Communications,Guru Gowrappan,Directed,390,,,1
+Verizon Communications,David Small,Directed,391,,,1
+Verizon Communications,Ed Chan,Directed,392,,,1
+Verizon Communications,William Lee Horton Jr,Directed,393,,,1
+Verizon Communications,"Anthony T Skiadas ""Tony""",Directed,394,,,1
+Verizon Communications,Eric Cevis,Directed,395,,,1
+Verizon Communications,George J Fischer,Directed,396,,,1
+Verizon Communications,George Brady Connor,Directed,397,,,1
+Hans Vestberg,Verizon Communications,Directed,398,,,1
+Kroger,W Rodney McMullen,Directed,399,,,1
+Kroger,Tim Brown,Directed,400,,,1
+Kroger,Paula Ginnett,Directed,401,,,1
+Kroger,Sonya Hostetler,Directed,402,,,1
+Kroger,Ken Deluca,Directed,403,,,1
+Kroger,Tom Schwilke,Directed,404,,,1
+Kroger,Victor Smith,Directed,405,,,1
+Kroger,"Michael J Donnelly ""Mike""",Directed,406,,,1
+Kroger,Gary Millerchip,Directed,407,,,1
+Kroger,Yael Cosset,Directed,408,,,1
+Kroger,Stuart W Aitken,Directed,409,,,1
+Kroger,Calvin J Kaufman,Directed,410,,,1
+Kroger,"Stephen M McKinney ""Steve""",Directed,411,,,1
+Kroger,Timothy A Massa,Directed,412,,,1
+Kroger,"Alessandro Tosolini ""Alex""",Directed,413,,,1
+Kroger,"Alessandro Tosolini ""Alex""",Directed,414,,,1
+Kroger,Mark C Tuffin,Directed,415,,,1
+Kroger,Carin Fike,Directed,416,,,1
+Kroger,Todd A Foley,Directed,417,,,1
+Kroger,Christine S Wheatley,Directed,418,,,1
+Kroger,Jack Breeding,Directed,419,,,1
+Kroger,Gil Phipps,Directed,420,,,1
+Kroger,Keith Dailey,Directed,421,,,1
+Kroger,Rebekah Manis,Directed,422,,,1
+Kroger,Guy Burgstahler,Directed,423,,,1
+W Rodney McMullen,Kroger,Directed,424,,,1
+General Electric,"H Lawrence Culp Jr ""Larry""",Directed,425,,,1
+General Electric,David L Joyce,Directed,426,,,1
+General Electric,Michael Keroulle,Directed,427,,,1
+General Electric,"Patrick J Byrne ""Pat""",Directed,428,,,1
+General Electric,Scott L Strazik,Directed,429,,,1
+General Electric,Jamie S Miller,Directed,430,,,1
+General Electric,"Victor Abate ""Vic""",Directed,431,,,1
+General Electric,L Kevin Cox,Directed,432,,,1
+General Electric,Rachel Duan,Directed,433,,,1
+General Electric,Kieran P Murphy,Directed,434,,,1
+General Electric,Russell Stokes,Directed,435,,,1
+General Electric,Jennifer Vanbelle,Directed,436,,,1
+General Electric,"Michael J Holston ""Mike""",Directed,437,,,1
+General Electric,Jerome Pecresse,Directed,438,,,1
+General Electric,"Daniel Janki ""Dan""",Directed,439,,,1
+General Electric,Chris Drumgoole,Directed,440,,,1
+General Electric,"Christoph Pereira ""Chris""",Directed,441,,,1
+General Electric,Jason Oliver,Directed,442,,,1
+General Electric,Linda W Boff,Directed,443,,,1
+General Electric,"Steven E Winoker ""Steve""",Directed,444,,,1
+General Electric,John Godsman,Directed,445,,,1
+"H Lawrence Culp Jr ""Larry""",General Electric,Directed,446,,,1
+"Patrick J Byrne ""Pat""",Micron Technology,Directed,447,,,1
+Fannie Mae,Hugh R Frater,Directed,448,,,1
+Fannie Mae,David C Benson,Directed,449,,,1
+Fannie Mae,Celeste Mellet Brown,Directed,450,,,1
+Fannie Mae,Kimberly H Johnson,Directed,451,,,1
+Fannie Mae,"Jeffery R Hayward ""Jeff""",Directed,452,,,1
+Fannie Mae,"Stergios Theologides ""Terry""",Directed,453,,,1
+Fannie Mae,Andrew J Bon Salle,Directed,454,,,1
+Fannie Mae,Elcio Barcelos,Directed,455,,,1
+Fannie Mae,Douglas G Duncan,Directed,456,,,1
+Fannie Mae,John S Forlines,Directed,457,,,1
+Fannie Mae,Nancy Jardini,Directed,458,,,1
+Fannie Mae,"J Douglas Watt ""Doug""",Directed,459,,,1
+Fannie Mae,Nadine Bates,Directed,460,,,1
+Fannie Mae,Bruce R Lee,Directed,461,,,1
+Fannie Mae,Stephen H McElhennon,Directed,462,,,1
+Hugh R Frater,Fannie Mae,Directed,463,,,1
+Phillips 66,Greg C Garland,Directed,464,,,1
+Phillips 66,Kevin J Mitchell,Directed,465,,,1
+Phillips 66,Paula A Johnson,Directed,466,,,1
+Phillips 66,"Robert A Herman ""Bob""",Directed,467,,,1
+Phillips 66,Brian Mandell,Directed,468,,,1
+Phillips 66,"Timothy D Roberts ""Tim""",Directed,469,,,1
+Phillips 66,Zhanna Golodryga,Directed,470,,,1
+Phillips 66,Jay D Churchill,Directed,471,,,1
+Phillips 66,Sonya Reed,Directed,472,,,1
+Phillips 66,Chukwuemeka A Oyolu,Directed,473,,,1
+Phillips 66,Jeff Dietert,Directed,474,,,1
+Greg C Garland,Phillips 66,Directed,475,,,1
+Valero Energy,"Joseph W Gorder ""Joe""",Directed,476,,,1
+Valero Energy,Donna M Titzman,Directed,477,,,1
+Valero Energy,R Lane Riggs,Directed,478,,,1
+Valero Energy,Jason W Fraser,Directed,479,,,1
+Valero Energy,Lawrence Mark Schmeltekopf,Directed,480,,,1
+Valero Energy,Cheryl Thomas,Directed,481,,,1
+Valero Energy,"Richard F Lashway ""Rich""",Directed,482,,,1
+Valero Energy,Martin Parrish,Directed,483,,,1
+Valero Energy,Gary K Simmons,Directed,484,,,1
+Valero Energy,Julia Rendon Reinhart,Directed,485,,,1
+Valero Energy,Chris Quinn,Directed,486,,,1
+Valero Energy,"Richard J Walsh ""Rich""",Directed,487,,,1
+Valero Energy,Ken Applegate,Directed,488,,,1
+Valero Energy,"Gregory R Bram ""Greg""",Directed,489,,,1
+Valero Energy,Eric Fisher,Directed,490,,,1
+Valero Energy,Eric Honeyman,Directed,491,,,1
+Valero Energy,J Stephen Gilbert,Directed,492,,,1
+Valero Energy,John P Locke,Directed,493,,,1
+"Joseph W Gorder ""Joe""",Valero Energy,Directed,494,,,1
+Bank of America,Brian T Moynihan,Directed,495,,,1
+Bank of America,Anne M Finucane,Directed,496,,,1
+Bank of America,Thong M Nguyen,Directed,497,,,1
+Bank of America,Bruce R Thompson,Directed,498,,,1
+Bank of America,Paul M Donofrio,Directed,499,,,1
+Bank of America,Thomas Kell Montag,Directed,500,,,1
+Bank of America,Andrea B Smith,Directed,501,,,1
+Bank of America,"Catherine P Bessant ""Cathy""",Directed,502,,,1
+Bank of America,"Rudolf A Bless ""Rudi""",Directed,503,,,1
+Bank of America,Meredith Verdone,Directed,504,,,1
+Bank of America,Dean C Athanasia,Directed,505,,,1
+Bank of America,"Kathleen A Knox ""Katy""",Directed,506,,,1
+Bank of America,Jason Foster,Directed,507,,,1
+Bank of America,Lee McEntire,Directed,508,,,1
+Bank of America,Ross Jeffries,Directed,509,,,1
+Bank of America,David G Leitch,Directed,510,,,1
+Brian T Moynihan,Bank of America,Directed,511,,,1
+Anne M Finucane,CVS Health,Directed,512,,,1
+Microsoft,Satya Nadella,Directed,513,,,1
+Microsoft,"Bradford L Smith ""Brad""",Directed,514,,,1
+Microsoft,Lindsay-Rae McIntyre,Directed,515,,,1
+Microsoft,Jacky Wright,Directed,516,,,1
+Microsoft,"Jeffrey Weiner ""Jeff""",Directed,517,,,1
+Microsoft,Jennifer Byrne,Directed,518,,,1
+Microsoft,Amy E Hood,Directed,519,,,1
+Microsoft,J Kevin Scott,Directed,520,,,1
+Microsoft,Jean-Philippe Courtois,Directed,521,,,1
+Microsoft,Judson Althoff,Directed,522,,,1
+Microsoft,"Christopher C Capossela ""Chris",Directed,523,,,1
+Microsoft,Kurt DelBene,Directed,524,,,1
+Microsoft,Kathleen T Hogan,Directed,525,,,1
+Microsoft,Scott Guthrie,Directed,526,,,1
+Microsoft,Rajesh Jha,Directed,527,,,1
+Microsoft,"Margaret L Johnson ""Peggy""",Directed,528,,,1
+Microsoft,Phil Spencer,Directed,529,,,1
+Microsoft,Dev Stahlkopf,Directed,530,,,1
+Microsoft,Bill Borden,Directed,531,,,1
+Microsoft,Frank H Brod,Directed,532,,,1
+Microsoft,Dr Gregory J Moore,Directed,533,,,1
+Microsoft,Patricia Obermaier,Directed,534,,,1
+Microsoft,David Rhew,Directed,535,,,1
+Microsoft,Mary Ellen Smith,Directed,536,,,1
+Microsoft,"William F Stasior ""Bill""",Directed,537,,,1
+Microsoft,Dmitry Khalin,Directed,538,,,1
+Microsoft,Lisa Maki,Directed,539,,,1
+Microsoft,"Michael Spencer ""Mike""",Directed,540,,,1
+Satya Nadella,Microsoft,Directed,541,,,1
+Amy E Hood,3M,Directed,542,,,1
+Home Depot,Craig A Menear,Directed,543,,,1
+Home Depot,Haydn Chilcott,Directed,544,,,1
+Home Depot,Crystal Hanlon,Directed,545,,,1
+Home Depot,Jeff Kinnaird,Directed,546,,,1
+Home Depot,Hector Padilla,Directed,547,,,1
+Home Depot,Jose Alberto Rodriguez,Directed,548,,,1
+Home Depot,Richard McPhail,Directed,549,,,1
+Home Depot,"Matthew A Carey ""Matt""",Directed,550,,,1
+Home Depot,Teresa Wynn Roseborough,Directed,551,,,1
+Home Depot,"Edward P Decker ""Ted""",Directed,552,,,1
+Home Depot,Mark Q Holifield,Directed,553,,,1
+Home Depot,"Timothy A Hourigan ""Tim""",Directed,554,,,1
+Home Depot,"William G Lennie ""Bill""",Directed,555,,,1
+Home Depot,Ann-Marie Campbell,Directed,556,,,1
+Home Depot,Jose Barra,Directed,557,,,1
+Home Depot,Giles Bowman,Directed,558,,,1
+Home Depot,Marc Brown,Directed,559,,,1
+Home Depot,John Deaton,Directed,560,,,1
+Home Depot,Jim Hovis,Directed,561,,,1
+Home Depot,Jeanine Huebner,Directed,562,,,1
+Home Depot,Shane O'Kelly,Directed,563,,,1
+Home Depot,Isabel Janci,Directed,564,,,1
+Craig A Menear,Home Depot,Directed,565,,,1
+Boeing,Dennis A Muilenburg,Directed,566,,,1
+Boeing,Donna J Hrinak,Directed,567,,,1
+Boeing,Bob Cantwell,Directed,568,,,1
+Boeing,"Stan A Deal ""Stan""",Directed,569,,,1
+Boeing,Leanne G Caret,Directed,570,,,1
+Boeing,"J Michael Luttig ""Mike""",Directed,571,,,1
+Boeing,"Timothy J Keating ""Tim""",Directed,572,,,1
+Boeing,"Gregory D Smith ""Greg""",Directed,573,,,1
+Boeing,Brett C Gerry,Directed,574,,,1
+Boeing,Dr Greg L Hyslop,Directed,575,,,1
+Boeing,Heidi B Capozzi,Directed,576,,,1
+Boeing,Jenette E Ramos,Directed,577,,,1
+Boeing,Diana L Sands,Directed,578,,,1
+Boeing,Anne C Toulouse,Directed,579,,,1
+Boeing,Vishwa Uddanwadiker,Directed,580,,,1
+Boeing,Kim Smith,Directed,581,,,1
+Boeing,Steve Parker,Directed,582,,,1
+Boeing,Ernesto Gonzalez-Beltranas,Directed,583,,,1
+Boeing,Beth Pasztor,Directed,584,,,1
+Boeing,"Christopher Raymond ""Chris""",Directed,585,,,1
+Boeing,Maurita Sutedja,Directed,586,,,1
+Boeing,Dan Gillian,Directed,587,,,1
+Dennis A Muilenburg,Caterpillar,Directed,588,,,1
+"Gregory D Smith ""Greg""",Intel,Directed,589,,,1
+Wells Fargo,"Charles W Scharf ""Charlie""",Directed,590,,,1
+Wells Fargo,Gary C Owen,Directed,591,,,1
+Wells Fargo,"William M Daley ""Bill""",Directed,592,,,1
+Wells Fargo,John R Shrewsberry,Directed,593,,,1
+Wells Fargo,"Amanda G Norton ""Mandy""",Directed,594,,,1
+Wells Fargo,Saul Van Beurden,Directed,595,,,1
+Wells Fargo,Derek Flowers,Directed,596,,,1
+Wells Fargo,David C Galloreese,Directed,597,,,1
+Wells Fargo,C Allen Parker,Directed,598,,,1
+Wells Fargo,Avid Modjtabai,Directed,599,,,1
+Wells Fargo,Mary Tabb Mack,Directed,600,,,1
+Wells Fargo,"Petros G Pelos ""Perry""",Directed,601,,,1
+Wells Fargo,Jonathan Geoffrey Weiss,Directed,602,,,1
+Wells Fargo,Douglas R Edwards,Directed,603,,,1
+Wells Fargo,"Richard D Levy ""Rich""",Directed,604,,,1
+Wells Fargo,Mark Myers,Directed,605,,,1
+Wells Fargo,Paul Whyte,Directed,606,,,1
+Wells Fargo,John M Campbell,Directed,607,,,1
+"Charles W Scharf ""Charlie""",Microsoft,Directed,608,,,1
+"Charles W Scharf ""Charlie""",Wells Fargo,Directed,609,,,1
+Citigroup,"Michael L Corbat ""Mike""",Directed,610,,,1
+Citigroup,Jane Fraser,Directed,611,,,1
+Citigroup,Mark Mason,Directed,612,,,1
+Citigroup,Raja J Akram,Directed,613,,,1
+Citigroup,Mark Carawan,Directed,614,,,1
+Citigroup,"Bradford Hu ""Brad""",Directed,615,,,1
+Citigroup,"Valerie Smith ""Val""",Directed,616,,,1
+Citigroup,David Livingstone,Directed,617,,,1
+Citigroup,Peter Babej,Directed,618,,,1
+Citigroup,Ernesto Torres Cantu,Directed,619,,,1
+Citigroup,Mary MCNIFF,Directed,620,,,1
+Citigroup,Kristine Braden,Directed,621,,,1
+Citigroup,"Edward Skyler ""Ed""",Directed,622,,,1
+Citigroup,Jason Harvey,Directed,623,,,1
+Citigroup,Elizabeth Lynn,Directed,624,,,1
+Citigroup,Rohan Seneka Weerasinghe,Directed,625,,,1
+Citigroup,Michael Parker,Directed,626,,,1
+Citigroup,Hamish Summerfield,Directed,627,,,1
+Citigroup,Jason Rekate,Directed,628,,,1
+Citigroup,Serra Akcaoglu,Directed,629,,,1
+Citigroup,Rafael Serrano,Directed,630,,,1
+Citigroup,Susan Shakespeare,Directed,631,,,1
+Citigroup,Anne-Maree Tassell,Directed,632,,,1
+Citigroup,Sara Wechter,Directed,633,,,1
+Citigroup,Mike Whitaker,Directed,634,,,1
+"Michael L Corbat ""Mike""",Citigroup,Directed,635,,,1
+Marathon Petroleum,Gary R Heminger,Directed,636,,,1
+Marathon Petroleum,"Gregory J Goff ""Greg""",Directed,637,,,1
+Marathon Petroleum,Fiona C Laird,Directed,638,,,1
+Marathon Petroleum,Donald C Templin,Directed,639,,,1
+Marathon Petroleum,"Anthony R Kenney ""Tony""",Directed,640,,,1
+Marathon Petroleum,Raymond L Brooks,Directed,641,,,1
+Marathon Petroleum,C Tacy Case,Directed,642,,,1
+Marathon Petroleum,Rick D Hessling,Directed,643,,,1
+Marathon Petroleum,Richard A Hernandez,Directed,644,,,1
+Marathon Petroleum,Brian K Partee,Directed,645,,,1
+Marathon Petroleum,"David Sauber ""Dave""",Directed,646,,,1
+Marathon Petroleum,David L Whikehart,Directed,647,,,1
+Marathon Petroleum,Molly R Benson,Directed,648,,,1
+Marathon Petroleum,Donald W Wehrly,Directed,649,,,1
+Marathon Petroleum,John J Quaid,Directed,650,,,1
+Marathon Petroleum,Suzanne Gagle,Directed,651,,,1
+Marathon Petroleum,Tom Kaczynski,Directed,652,,,1
+Marathon Petroleum,Kristina Kazarian,Directed,653,,,1
+Marathon Petroleum,David R Heppner,Directed,654,,,1
+Marathon Petroleum,Rick Linhardt,Directed,655,,,1
+Marathon Petroleum,Karma M Thomson,Directed,656,,,1
+Marathon Petroleum,James R Wilkins,Directed,657,,,1
+Gary R Heminger,Marathon Petroleum,Directed,658,,,1
+"Gregory J Goff ""Greg""",Marathon Petroleum,Directed,659,,,1
+Comcast,Brian L Roberts,Directed,660,,,1
+Comcast,Michael J Cavanagh,Directed,661,,,1
+Comcast,David L Cohen Esq,Directed,662,,,1
+Comcast,"Thomas J Reid ""Tom""",Directed,663,,,1
+Comcast,"Stephen B Burke ""Steve""",Directed,664,,,1
+Comcast,"David N Watson ""Dave""",Directed,665,,,1
+Comcast,D'Arcy Foster Rudnay,Directed,666,,,1
+Comcast,"Robert Eatroff ""Bob""",Directed,667,,,1
+Comcast,Geoffrey Sands,Directed,668,,,1
+Comcast,"Kathryn A Zachem ""Kathy""",Directed,669,,,1
+Comcast,"Daniel C Murdock ""Dan""",Directed,670,,,1
+Comcast,Noopur Davis,Directed,671,,,1
+Comcast,"William E Dordelman ""Bill""",Directed,672,,,1
+Comcast,Lisa Bonnell,Directed,673,,,1
+Comcast,Francis M Buono,Directed,674,,,1
+Comcast,Amy Lynch,Directed,675,,,1
+Comcast,Rodrigo Lopez,Directed,676,,,1
+Comcast,Fraser Stirling,Directed,677,,,1
+Comcast,Dalila Wilson-Scott,Directed,678,,,1
+Comcast,Matthew Zelesko,Directed,679,,,1
+Comcast,"Kenneth Folderauer ""Ken""",Directed,680,,,1
+Comcast,Toni Murphy,Directed,681,,,1
+Comcast,Aaron Mimran,Directed,682,,,1
+Comcast,David Tashjian,Directed,683,,,1
+Comcast,Robert Brenner,Directed,684,,,1
+Brian L Roberts,Comcast,Directed,685,,,1
+"Stephen B Burke ""Steve""",Berkshire Hathaway,Directed,686,,,1
+"Stephen B Burke ""Steve""",JPMorgan Chase,Directed,687,,,1
+Anthem,Gail Koziara Boudreaux,Directed,688,,,1
+Anthem,Rajeev Ronanki,Directed,689,,,1
+Anthem,John E Gallina,Directed,690,,,1
+Anthem,Gloria M McCarthy,Directed,691,,,1
+Anthem,"Jacquelyn H Wolf ""Jackie""",Directed,692,,,1
+Anthem,"Peter D Haytaian ""Pete""",Directed,693,,,1
+Anthem,Felicia Norwood,Directed,694,,,1
+Anthem,Dr Prakash R Patel,Directed,695,,,1
+Anthem,Thomas C Zielinski,Directed,696,,,1
+Anthem,Ronald W Penczek,Directed,697,,,1
+Anthem,Chris Rigg,Directed,698,,,1
+Anthem,Kathleen S Kiefer,Directed,699,,,1
+Gail Koziara Boudreaux,Anthem,Directed,700,,,1
+Dell Technologies,Allison Dew,Directed,701,,,1
+Dell Technologies,Mohammed Amin,Directed,702,,,1
+Dell Technologies,Vangelis Lagousakos,Directed,703,,,1
+DuPont de Nemours,"Edward D Breen ""Ed""",Directed,704,,,1
+DuPont de Nemours,C Marc Doyle,Directed,705,,,1
+DuPont de Nemours,Jeanmarie F Desmond,Directed,706,,,1
+DuPont de Nemours,Matthias Heinzel,Directed,707,,,1
+DuPont de Nemours,Jon D Kemp,Directed,708,,,1
+DuPont de Nemours,Rose Lee,Directed,709,,,1
+DuPont de Nemours,Randy L Stone,Directed,710,,,1
+DuPont de Nemours,Alexa Dembek,Directed,711,,,1
+DuPont de Nemours,Darrell Ford,Directed,712,,,1
+DuPont de Nemours,Steven Larrabee,Directed,713,,,1
+DuPont de Nemours,Raj Ratnakar,Directed,714,,,1
+DuPont de Nemours,Daryl Roberts,Directed,715,,,1
+DuPont de Nemours,Erik T Hoover,Directed,716,,,1
+DuPont de Nemours,Michael Goss,Directed,717,,,1
+"Edward D Breen ""Ed""",Comcast,Directed,718,,,1
+"Edward D Breen ""Ed""",DuPont de Nemours,Directed,719,,,1
+C Marc Doyle,DuPont de Nemours,Directed,720,,,1
+Johnson & Johnson,Alex Gorsky,Directed,721,,,1
+Johnson & Johnson,Ronald A Kapusta,Directed,722,,,1
+Johnson & Johnson,Joaquin Duato,Directed,723,,,1
+Johnson & Johnson,Dr Paulus Stoffels,Directed,724,,,1
+Johnson & Johnson,Joseph Wolk,Directed,725,,,1
+Johnson & Johnson,Peter M Fasolo,Directed,726,,,1
+Johnson & Johnson,Ashley McEvoy,Directed,727,,,1
+Johnson & Johnson,Thibaut Mongon,Directed,728,,,1
+Johnson & Johnson,Jennifer Taubert,Directed,729,,,1
+Johnson & Johnson,"Kathryn E Wengel ""Kathy""",Directed,730,,,1
+Johnson & Johnson,Michael H Ullmann,Directed,731,,,1
+Johnson & Johnson,Michael Sneed,Directed,732,,,1
+Johnson & Johnson,Chris Delorefice,Directed,733,,,1
+Johnson & Johnson,Michelle R Ryan,Directed,734,,,1
+Alex Gorsky,Johnson & Johnson,Directed,735,,,1
+Alex Gorsky,IBM,Directed,736,,,1
+IBM,"Virginia M Rometty ""Ginni""",Directed,737,,,1
+IBM,"Raymond F Day ""Ray""",Directed,738,,,1
+IBM,Jacqueline Woods,Directed,739,,,1
+IBM,"Bill Le Voir ""Barry""",Directed,740,,,1
+IBM,Dr John E Kelly III,Directed,741,,,1
+IBM,"James J Kavanaugh ""Jim""",Directed,742,,,1
+IBM,Diane J Gherson,Directed,743,,,1
+IBM,Martin Jetter,Directed,744,,,1
+IBM,Michelle A Peluso,Directed,745,,,1
+IBM,Michelle H Browdy,Directed,746,,,1
+IBM,Mark Foster,Directed,747,,,1
+IBM,John Granger,Directed,748,,,1
+IBM,Bridget A Van Kralingen,Directed,749,,,1
+IBM,"Kenneth M Keverian ""Ken""",Directed,750,,,1
+IBM,Arvind Krishna,Directed,751,,,1
+IBM,"Robert W Lord ""Bob""",Directed,752,,,1
+IBM,"Robert J Picciano ""Bob""",Directed,753,,,1
+IBM,"Thomas W Rosamilia ""Tom""",Directed,754,,,1
+IBM,Martin J Schroeter,Directed,755,,,1
+IBM,Juan A Zufiria Zatarain,Directed,756,,,1
+IBM,Christina M Montgomery,Directed,757,,,1
+IBM,Frank Sedlarcik,Directed,758,,,1
+IBM,Robert Del Bene,Directed,759,,,1
+IBM,Patricia Murphy,Directed,760,,,1
+IBM,Dr Heather Hinton Phd,Directed,761,,,1
+IBM,Simon J Beaumont,Directed,762,,,1
+"Virginia M Rometty ""Ginni""",IBM,Directed,763,,,1
+Michelle A Peluso,Nike,Directed,764,,,1
+Target,Brian C Cornell,Directed,765,,,1
+Target,Michael J Fiddelke,Directed,766,,,1
+Target,John J Mulligan,Directed,767,,,1
+Target,"Richard H Gomez ""Rick""",Directed,768,,,1
+Target,Melissa Kremer,Directed,769,,,1
+Target,Don H Liu,Directed,770,,,1
+Target,"Michael E McNamara ""Mike""",Directed,771,,,1
+Target,Minsok Pak,Directed,772,,,1
+Target,Arthur Valdez Jr,Directed,773,,,1
+Target,Laysha L Ward,Directed,774,,,1
+Target,Stephanie A Lundquist,Directed,775,,,1
+Target,Rich Agostino,Directed,776,,,1
+Target,Katie Boylan,Directed,777,,,1
+Target,Robert M Harrison,Directed,778,,,1
+Target,Todd Waterbury,Directed,779,,,1
+Target,Christina Hennington,Directed,780,,,1
+Target,Jill Sando,Directed,781,,,1
+Target,John Hulbert,Directed,782,,,1
+Brian C Cornell,Target,Directed,783,,,1
+Stephanie A Lundquist,Sysco,Directed,784,,,1
+Freddie Mac,David M Brickman,Directed,785,,,1
+Freddie Mac,"James G Mackey ""Jim""",Directed,786,,,1
+Freddie Mac,Jerry Weiss,Directed,787,,,1
+Freddie Mac,Anil D Hinduja,Directed,788,,,1
+Freddie Mac,Frank Nazzaro,Directed,789,,,1
+Freddie Mac,Deborah Jenkins,Directed,790,,,1
+Freddie Mac,Michael Thomas Hutchins,Directed,791,,,1
+Freddie Mac,"Christina K Boyle ""Chris""",Directed,792,,,1
+Freddie Mac,Donald Kish,Directed,793,,,1
+Freddie Mac,John Krenitsky,Directed,794,,,1
+Freddie Mac,Timothy Kitt,Directed,795,,,1
+Freddie Mac,Donna Corley,Directed,796,,,1
+Freddie Mac,Charlotte Catalfo,Directed,797,,,1
+Freddie Mac,Kevin Palmer,Directed,798,,,1
+Freddie Mac,Richard C Martinez,Directed,799,,,1
+Freddie Mac,Steve Lansbury,Directed,800,,,1
+Freddie Mac,Jacqueline M Welch,Directed,801,,,1
+Freddie Mac,Michael Case,Directed,802,,,1
+Freddie Mac,Catherine Evans,Directed,803,,,1
+Freddie Mac,Gina Healy,Directed,804,,,1
+Freddie Mac,Shaun Khalfan,Directed,805,,,1
+Freddie Mac,Geri Borger Urgo,Directed,806,,,1
+Freddie Mac,Rick Lang,Directed,807,,,1
+Freddie Mac,Amanda Nunnink,Directed,808,,,1
+United Parcel Service,David P Abney,Directed,809,,,1
+United Parcel Service,Ernie Caballero,Directed,810,,,1
+United Parcel Service,Charlene Thomas,Directed,811,,,1
+United Parcel Service,Kevin M Warren,Directed,812,,,1
+United Parcel Service,Nando Cesarone,Directed,813,,,1
+United Parcel Service,Jean-Francois Condamine,Directed,814,,,1
+United Parcel Service,Philippe Gilbert,Directed,815,,,1
+United Parcel Service,Kk Leung,Directed,816,,,1
+United Parcel Service,Jeffery Scott McCorstin,Directed,817,,,1
+United Parcel Service,Ross McCullough,Directed,818,,,1
+United Parcel Service,Lou Rivieccio,Directed,819,,,1
+United Parcel Service,Romaine M Seguin,Directed,820,,,1
+United Parcel Service,Rami Suleiman,Directed,821,,,1
+United Parcel Service,Michelle Ho,Directed,822,,,1
+United Parcel Service,George Willis,Directed,823,,,1
+United Parcel Service,"James Jay Barber Jr ""Jim""(Pe",Directed,824,,,1
+United Parcel Service,Brian Newman,Directed,825,,,1
+United Parcel Service,"Kathleen M Gutmann ""Kate""",Directed,826,,,1
+United Parcel Service,Scott A Price,Directed,827,,,1
+United Parcel Service,Norman M Brothers Jr,Directed,828,,,1
+United Parcel Service,Mark R Wallace,Directed,829,,,1
+United Parcel Service,Scott Childress,Directed,830,,,1
+David P Abney,United Parcel Service,Directed,831,,,1
+Lowe's,Marvin Ralph Ellison,Directed,832,,,1
+Lowe's,Jose Luis Pier Castello,Directed,833,,,1
+Lowe's,"Michael R Amend ""Mike""",Directed,834,,,1
+Lowe's,"Anthony T Hurst ""Tony""",Directed,835,,,1
+Lowe's,Tony Cioffi,Directed,836,,,1
+Lowe's,"David M Denton ""Dave""",Directed,837,,,1
+Lowe's,Seemantini Godbole,Directed,838,,,1
+Lowe's,"Ross W McCanless ""Bill""",Directed,839,,,1
+Lowe's,"William P Boltz ""Bill""",Directed,840,,,1
+Lowe's,Donald E Frieson,Directed,841,,,1
+Lowe's,"Joseph McFarland III ""Joe""",Directed,842,,,1
+Lowe's,Jennifer L Weber,Directed,843,,,1
+Lowe's,Matthew V Hollifield,Directed,844,,,1
+Lowe's,Vikram Singh,Directed,845,,,1
+Lowe's,"Jeffrey R Vining ""Jeff""",Directed,846,,,1
+Lowe's,Jocelyn Wong,Directed,847,,,1
+Lowe's,James A Brandt,Directed,848,,,1
+Lowe's,J Todd Bleckley,Directed,849,,,1
+Lowe's,Jeff Epstein,Directed,850,,,1
+Lowe's,Michael A Tummillo,Directed,851,,,1
+Lowe's,Tiffany L Mason,Directed,852,,,1
+Lowe's,Timothy L Cooksey,Directed,853,,,1
+Lowe's,Vincent Scalese,Directed,854,,,1
+Lowe's,Kelly Kent,Directed,855,,,1
+Lowe's,"Robert F Posthauer ""Rob""",Directed,856,,,1
+Lowe's,Margi Vagell,Directed,857,,,1
+Lowe's,Heather Hollander,Directed,858,,,1
+Marvin Ralph Ellison,Lowe's,Directed,859,,,1
+Marvin Ralph Ellison,FedEx,Directed,860,,,1
+Intel,Andy D Bryant,Directed,861,,,1
+Intel,"Robert Holmes Swan ""Bob""",Directed,862,,,1
+Intel,Dr Venkata S M Renduchintala,Directed,863,,,1
+Intel,George S Davis,Directed,864,,,1
+Intel,Sandra Rivera,Directed,865,,,1
+Intel,"Steven R Rodgers ""Steve""",Directed,866,,,1
+Intel,Gregory M Bryant,Directed,867,,,1
+Intel,Leslie S Culbertson,Directed,868,,,1
+Intel,Michelle Johnston Holthaus,Directed,869,,,1
+Intel,Navin Shenoy,Directed,870,,,1
+Intel,"Dr Michael C Mayberry ""Mike""",Directed,871,,,1
+Intel,Karen Walker,Directed,872,,,1
+Intel,Wendell R Brooks,Directed,873,,,1
+Intel,Allon Stabinsky,Directed,874,,,1
+Intel,Dr Craig H Barratt,Directed,875,,,1
+Intel,Robert B Crooke,Directed,876,,,1
+Intel,Douglas L Davis,Directed,877,,,1
+Intel,Dr Ann B Kelleher,Directed,878,,,1
+Intel,Jim Keller,Directed,879,,,1
+Intel,"Thomas P Lantzsch ""Tom""",Directed,880,,,1
+Intel,Daniel McNamara,Directed,881,,,1
+Intel,Joshua M Walden,Directed,882,,,1
+Intel,Prof Amnon Shashua,Directed,883,,,1
+Intel,Raja Koduri,Directed,884,,,1
+Intel,Claire E Dixon,Directed,885,,,1
+Intel,Paula Tolliver,Directed,886,,,1
+Intel,Sharon L Heck,Directed,887,,,1
+Intel,Susie Giordano,Directed,888,,,1
+Intel,Dan Rodriguez,Directed,889,,,1
+Intel,Dr Naveen Rao,Directed,890,,,1
+Intel,Amir Khosrowshahi,Directed,891,,,1
+Intel,Teresa Herd,Directed,892,,,1
+Intel,Lorie Wigle,Directed,893,,,1
+Intel,Mark H Henninger,Directed,894,,,1
+Intel,Todd M Underwood,Directed,895,,,1
+Andy D Bryant,Intel,Directed,896,,,1
+"Robert Holmes Swan ""Bob""",Intel,Directed,897,,,1
+MetLife,Michel Khalaf,Directed,898,,,1
+MetLife,Marlene B Debel,Directed,899,,,1
+MetLife,Patrik Ringstroem,Directed,900,,,1
+MetLife,"Randolph J Clerihue ""Randy""",Directed,901,,,1
+MetLife,Tim Ring,Directed,902,,,1
+MetLife,Kishore Ponnavolu,Directed,903,,,1
+MetLife,Oscar Schmidt,Directed,904,,,1
+MetLife,Ramy Tadros,Directed,905,,,1
+MetLife,"William O'Donnell ""Bill""",Directed,906,,,1
+MetLife,John McCallion,Directed,907,,,1
+MetLife,"Steven J Goulart ""Steve""",Directed,908,,,1
+MetLife,Esther Lee,Directed,909,,,1
+MetLife,Susan Podlogar,Directed,910,,,1
+MetLife,Tamara L Schock,Directed,911,,,1
+MetLife,Stephen W Gauster,Directed,912,,,1
+Michel Khalaf,MetLife,Directed,913,,,1
+Procter & Gamble,David S Taylor,Directed,914,,,1
+Procter & Gamble,Jon R Moeller,Directed,915,,,1
+Procter & Gamble,Deborah Platt Majoras,Directed,916,,,1
+Procter & Gamble,Philip J Duncan,Directed,917,,,1
+Procter & Gamble,"Kathleen B Fish ""Kathy""",Directed,918,,,1
+Procter & Gamble,Tracey Grabowski,Directed,919,,,1
+Procter & Gamble,Julio Nemeth,Directed,920,,,1
+Procter & Gamble,Javier Polit,Directed,921,,,1
+Procter & Gamble,Marc S Pritchard,Directed,922,,,1
+Procter & Gamble,Kirti V Singh,Directed,923,,,1
+Procter & Gamble,Gary A Coombe,Directed,924,,,1
+Procter & Gamble,Fama V Francisco,Directed,925,,,1
+Procter & Gamble,Mary Lynn Ferguson-McHugh,Directed,926,,,1
+Procter & Gamble,R Alexandra Keith,Directed,927,,,1
+Procter & Gamble,Shailesh G Jejurikar,Directed,928,,,1
+Procter & Gamble,"Steven D Bishop ""Steve""",Directed,929,,,1
+Procter & Gamble,Carolyn M Tastad,Directed,930,,,1
+Procter & Gamble,Laura Becker,Directed,931,,,1
+Procter & Gamble,Jennifer Davis,Directed,932,,,1
+Procter & Gamble,"Thomas M Finn ""Tom""",Directed,933,,,1
+Procter & Gamble,Henry Karamanoukian,Directed,934,,,1
+Procter & Gamble,Juan Fernando Posada,Directed,935,,,1
+Procter & Gamble,Matthew S Price,Directed,936,,,1
+Procter & Gamble,Sundar Raman,Directed,937,,,1
+Procter & Gamble,Markus Strobel,Directed,938,,,1
+Procter & Gamble,Loic Tassel,Directed,939,,,1
+Procter & Gamble,Valarie L Sheppard,Directed,940,,,1
+Procter & Gamble,Mindy Sherwood,Directed,941,,,1
+Procter & Gamble,Shelly McNamara,Directed,942,,,1
+Procter & Gamble,Monica Turner,Directed,943,,,1
+Procter & Gamble,Craig Buchholz,Directed,944,,,1
+Procter & Gamble,John Chevalier,Directed,945,,,1
+David S Taylor,Procter & Gamble,Directed,946,,,1
+David S Taylor,Delta Air Lines,Directed,947,,,1
+Deborah Platt Majoras,Valero Energy,Directed,948,,,1
+United Technologies,"Gregory J Hayes ""Greg""",Directed,949,,,1
+United Technologies,Neil G Mitchill Jr,Directed,950,,,1
+United Technologies,Mario Montag,Directed,951,,,1
+United Technologies,Alain M Bellemare,Directed,952,,,1
+United Technologies,"Robert K Ortberg ""Kelly""",Directed,953,,,1
+United Technologies,"Robert Francis Leduc ""Bob""",Directed,954,,,1
+United Technologies,"Judith F Marks ""Judy""",Directed,955,,,1
+United Technologies,David L Gitlin,Directed,956,,,1
+United Technologies,"Timothy R McLevish ""Tim""",Directed,957,,,1
+United Technologies,Elizabeth B Amato,Directed,958,,,1
+United Technologies,Charles D Gill,Directed,959,,,1
+United Technologies,Michael R Dumais,Directed,960,,,1
+United Technologies,Vince Campisi,Directed,961,,,1
+United Technologies,Kelli Parsons,Directed,962,,,1
+United Technologies,"Timothy J McBride ""Tim""",Directed,963,,,1
+United Technologies,David R Whitehouse,Directed,964,,,1
+United Technologies,Peter J Graber-Lipperman,Directed,965,,,1
+United Technologies,Ajay Agrawal,Directed,966,,,1
+United Technologies,Gail Baker,Directed,967,,,1
+United Technologies,John Paul Clarke,Directed,968,,,1
+United Technologies,Carroll Lane,Directed,969,,,1
+United Technologies,Bryan K Pollard,Directed,970,,,1
+"Gregory J Hayes ""Greg""",United Technologies,Directed,971,,,1
+FedEx,"Frederick Wallace Smith ""Fred""",Directed,972,,,1
+FedEx,"Rajesh Subramaniam ""Raj""",Directed,973,,,1
+FedEx,Alan B Graf Jr,Directed,974,,,1
+FedEx,Jill Brannon,Directed,975,,,1
+FedEx,Brie Carere,Directed,976,,,1
+FedEx,Mark R Allen,Directed,977,,,1
+FedEx,Robert B Carter,Directed,978,,,1
+FedEx,Judith H Edge,Directed,979,,,1
+FedEx,"A Mickelson Foster ""Mickey""",Directed,980,,,1
+"Frederick Wallace Smith ""Fred""",FedEx,Directed,981,,,1
+Alan B Graf Jr,Nike,Directed,982,,,1
+Robert B Carter,New York Life Insurance,Directed,983,,,1
+PepsiCo,Ramon L Laguarta,Directed,984,,,1
+PepsiCo,Hugh F Johnston,Directed,985,,,1
+PepsiCo,Umran Beba,Directed,986,,,1
+PepsiCo,Ram Krishnan,Directed,987,,,1
+PepsiCo,Simon David Lowden,Directed,988,,,1
+PepsiCo,Silviu Eugeniu Popovici,Directed,989,,,1
+PepsiCo,Paula Santilli,Directed,990,,,1
+PepsiCo,Kirk Tanner,Directed,991,,,1
+PepsiCo,Eugene Willemsen,Directed,992,,,1
+PepsiCo,Steven Williams,Directed,993,,,1
+PepsiCo,Anne Fink,Directed,994,,,1
+PepsiCo,Seth Kaufman,Directed,995,,,1
+PepsiCo,Roberto Martinez,Directed,996,,,1
+PepsiCo,Luis Montoya,Directed,997,,,1
+PepsiCo,Andy Williams,Directed,998,,,1
+PepsiCo,"James P Andrew ""Jim""",Directed,999,,,1
+PepsiCo,Rene Lammers,Directed,1000,,,1
+PepsiCo,Ronald Adrianus Wilhelmus Sch,Directed,1001,,,1
+PepsiCo,Jon Banner,Directed,1002,,,1
+PepsiCo,Grace Puma Whiteford,Directed,1003,,,1
+PepsiCo,"David Yawman ""Dave""",Directed,1004,,,1
+PepsiCo,Marie T Gallagher,Directed,1005,,,1
+PepsiCo,Jamie Caulfield,Directed,1006,,,1
+PepsiCo,Mauro Porcini,Directed,1007,,,1
+PepsiCo,Gibu Thomas,Directed,1008,,,1
+Ramon L Laguarta,PepsiCo,Directed,1009,,,1
+Hugh F Johnston,Microsoft,Directed,1010,,,1
+Archer Daniels Midland,Juan Ricardo Luciano,Directed,1011,,,1
+Archer Daniels Midland,"Benjamin I Bard ""Ben""",Directed,1012,,,1
+Archer Daniels Midland,Patricia L Logan,Directed,1013,,,1
+Archer Daniels Midland,Chris Boerm,Directed,1014,,,1
+Archer Daniels Midland,Pierre-Christophe Duprat,Directed,1015,,,1
+Archer Daniels Midland,Kevin Like,Directed,1016,,,1
+Archer Daniels Midland,Domingo A Lastra,Directed,1017,,,1
+Archer Daniels Midland,Thuy-Nga T Vo,Directed,1018,,,1
+Archer Daniels Midland,Ray G Young,Directed,1019,,,1
+Archer Daniels Midland,Dr Todd Werpy,Directed,1020,,,1
+Archer Daniels Midland,Kristy Folkwein,Directed,1021,,,1
+Archer Daniels Midland,Michael M D'Ambrose,Directed,1022,,,1
+Archer Daniels Midland,"Christopher M Cuddy ""Chris""",Directed,1023,,,1
+Archer Daniels Midland,Vikram Luthar,Directed,1024,,,1
+Archer Daniels Midland,"Gregory A Morris ""Greg""",Directed,1025,,,1
+Archer Daniels Midland,"Vincent F Macciocchi ""Vince""",Directed,1026,,,1
+Archer Daniels Midland,Ismael Roig,Directed,1027,,,1
+Archer Daniels Midland,Stefano Rettore,Directed,1028,,,1
+Archer Daniels Midland,"Joseph Daniel Taets ""Joe""",Directed,1029,,,1
+Archer Daniels Midland,Donald Cameron Findlay,Directed,1030,,,1
+Archer Daniels Midland,John P Stott,Directed,1031,,,1
+Archer Daniels Midland,Adriana Guiry,Directed,1032,,,1
+Archer Daniels Midland,Shannon S Herzfeld,Directed,1033,,,1
+Archer Daniels Midland,Ian P Pinner,Directed,1034,,,1
+Archer Daniels Midland,Mark Schweitzer,Directed,1035,,,1
+Juan Ricardo Luciano,Archer Daniels Midland,Directed,1036,,,1
+Prudential Financial,Charles F Lowrey,Directed,1037,,,1
+Prudential Financial,"Robert Michael Falzon ""Rob""",Directed,1038,,,1
+Prudential Financial,Brad Hearn,Directed,1039,,,1
+Prudential Financial,Ken Tanji,Directed,1040,,,1
+Prudential Financial,Stacey Goodman,Directed,1041,,,1
+Prudential Financial,Scott G Sleyster,Directed,1042,,,1
+Prudential Financial,Stephen Pelletier,Directed,1043,,,1
+Prudential Financial,Andrew Sullivan,Directed,1044,,,1
+Prudential Financial,Timothy P Harris,Directed,1045,,,1
+Prudential Financial,Naveen Agarwal,Directed,1046,,,1
+Prudential Financial,Lucien A Alziari,Directed,1047,,,1
+Prudential Financial,"Timothy Schmidt ""Tim""",Directed,1048,,,1
+Prudential Financial,"Nicholas C Silitch ""Nick""",Directed,1049,,,1
+Prudential Financial,Candace J Woods,Directed,1050,,,1
+Prudential Financial,Michael Domingos,Directed,1051,,,1
+Prudential Financial,Darin C Arita,Directed,1052,,,1
+Prudential Financial,Theresa Molloy,Directed,1053,,,1
+Prudential Financial,Nandini Mongia,Directed,1054,,,1
+Charles F Lowrey,Prudential Financial,Directed,1055,,,1
+"Robert Michael Falzon ""Rob""",Prudential Financial,Directed,1056,,,1
+Centene,Michael F Neidorff,Directed,1057,,,1
+Centene,Shannon Bagley,Directed,1058,,,1
+Centene,J Brian Ternan,Directed,1059,,,1
+Centene,"Jeffrey A Schwaneke ""Jeff""",Directed,1060,,,1
+Centene,Mark J Brooks,Directed,1061,,,1
+Centene,Jesse N Hunter,Directed,1062,,,1
+Centene,Brent Layton,Directed,1063,,,1
+Centene,Keith H Williamson,Directed,1064,,,1
+Centene,Brandy Burkhalter,Directed,1065,,,1
+Centene,David P Thomas,Directed,1066,,,1
+Centene,Christopher R Isaak,Directed,1067,,,1
+Centene,Kevin J Counihan,Directed,1068,,,1
+Centene,Matthew Snyder,Directed,1069,,,1
+Centene,Patrick J Frawley,Directed,1070,,,1
+Centene,Edmund E Kroll Jr,Directed,1071,,,1
+Michael F Neidorff,Centene,Directed,1072,,,1
+Albertsons,Vivek Sankaran,Directed,1073,,,1
+Albertsons,Robert C Taylor Jr,Directed,1074,,,1
+Albertsons,Todd Broderick,Directed,1075,,,1
+Albertsons,John Colgrove,Directed,1076,,,1
+Albertsons,Gineal Davidson,Directed,1077,,,1
+Albertsons,Paul Gossett,Directed,1078,,,1
+Albertsons,Michelle Larson,Directed,1079,,,1
+Albertsons,Tom Lofland,Directed,1080,,,1
+Albertsons,Karl Schroeder,Directed,1081,,,1
+Albertsons,Brad Street,Directed,1082,,,1
+Albertsons,"Robert B Dimond ""Bob""",Directed,1083,,,1
+Albertsons,Anuj Dhanda,Directed,1084,,,1
+Albertsons,Chris Rupp,Directed,1085,,,1
+Albertsons,Susan Morris,Directed,1086,,,1
+Albertsons,"Michael T Theilmann ""Mike""",Directed,1087,,,1
+Albertsons,Geoff White,Directed,1088,,,1
+Albertsons,"Robert A Gordon ""Bob""",Directed,1089,,,1
+Albertsons,Wayne A Denningham,Directed,1090,,,1
+Albertsons,Shane Dorcheus,Directed,1091,,,1
+Albertsons,"Andrew J Scoggin ""Andy""",Directed,1092,,,1
+Albertsons,Jim Perkins,Directed,1093,,,1
+Albertsons,Justin Ewing,Directed,1094,,,1
+Albertsons,Jerry Tidwell,Directed,1095,,,1
+Albertsons,Narayan Iyengar,Directed,1096,,,1
+Albertsons,Evan Rainwater,Directed,1097,,,1
+Albertsons,Jonathan Mayes,Directed,1098,,,1
+Albertsons,Bryan Verbarendse,Directed,1099,,,1
+Albertsons,Christine Chris Wilcox,Directed,1100,,,1
+Albertsons,Suzanne F Long,Directed,1101,,,1
+Albertsons,Melissa C Plaisance,Directed,1102,,,1
+Walt Disney,"Robert A Iger ""Bob""",Directed,1103,,,1
+Walt Disney,"Robert Chapek ""Bob""",Directed,1104,,,1
+Walt Disney,Alan F Horn,Directed,1105,,,1
+Walt Disney,Kevin A Mayer,Directed,1106,,,1
+Walt Disney,Peter Rice,Directed,1107,,,1
+Walt Disney,"James Pitaro ""Jimmy""",Directed,1108,,,1
+Walt Disney,Justin Connolly,Directed,1109,,,1
+Walt Disney,Jan Koeppen,Directed,1110,,,1
+Walt Disney,George Kalogridis,Directed,1111,,,1
+Walt Disney,Alan N Braverman,Directed,1112,,,1
+Walt Disney,Christine M McCarthy,Directed,1113,,,1
+Walt Disney,Zenia Mucha,Directed,1114,,,1
+Walt Disney,Mary Jayne Parker,Directed,1115,,,1
+Walt Disney,Joe Inzerillo,Directed,1116,,,1
+Walt Disney,Aaron Laberge,Directed,1117,,,1
+Walt Disney,Tilak Mandadi,Directed,1118,,,1
+Walt Disney,Brent A Woodford,Directed,1119,,,1
+Walt Disney,Jonathan S Headley,Directed,1120,,,1
+Walt Disney,Helen Pak,Directed,1121,,,1
+Walt Disney,Lowell J Singer,Directed,1122,,,1
+"Robert A Iger ""Bob""",Walt Disney,Directed,1123,,,1
+Christine M McCarthy,Procter & Gamble,Directed,1124,,,1
+Sysco,"Thomas L Bene ""Tom""",Directed,1125,,,1
+Sysco,"Michael Foster ""Mike""",Directed,1126,,,1
+Sysco,Joel T Grade,Directed,1127,,,1
+Sysco,Greg D Bertrand,Directed,1128,,,1
+Sysco,Robert Scott Charlton,Directed,1129,,,1
+Sysco,Paul T Moskowitz,Directed,1130,,,1
+Sysco,Brian C Beach,Directed,1131,,,1
+Sysco,Ajoy H Karna,Directed,1132,,,1
+Sysco,"Gregory S Keller ""Greg""",Directed,1133,,,1
+Sysco,Brian R Todd,Directed,1134,,,1
+Sysco,Neil A Russell,Directed,1135,,,1
+Sysco,Eve McFadden,Directed,1136,,,1
+"Thomas L Bene ""Tom""",Sysco,Directed,1137,,,1
+HP,Enrique Lores,Directed,1138,,,1
+HP,Steve Fieler,Directed,1139,,,1
+HP,Shane Wall,Directed,1140,,,1
+HP,Richard Bailey,Directed,1141,,,1
+HP,Vikrant Batra,Directed,1142,,,1
+HP,Lesley Slaton Brown,Directed,1143,,,1
+HP,Karen Kahn,Directed,1144,,,1
+HP,Tracy Suitt Keogh,Directed,1145,,,1
+HP,"Stuart Pann ""Stu""",Directed,1146,,,1
+HP,Christoph Schell,Directed,1147,,,1
+HP,Alex Cho,Directed,1148,,,1
+HP,Kim M Rivera,Directed,1149,,,1
+HP,Tuan Tran,Directed,1150,,,1
+HP,Stephanie Dismore,Directed,1151,,,1
+HP,Helena Herrero Starkie,Directed,1152,,,1
+HP,Beth Howe,Directed,1153,,,1
+HP,Ramon Pastor,Directed,1154,,,1
+Enrique Lores,HP,Directed,1155,,,1
+Enrique Lores,Hewlett Packard Enterprise,Directed,1156,,,1
+Humana,Bruce D Broussard,Directed,1157,,,1
+Humana,Brian A Kane,Directed,1158,,,1
+Humana,"Timothy S Huval ""Tim""",Directed,1159,,,1
+Humana,Sam M Deshpande,Directed,1160,,,1
+Humana,Jody L Bilney,Directed,1161,,,1
+Humana,Dr Vishal Agrawal,Directed,1162,,,1
+Humana,Jennifer Bazante,Directed,1163,,,1
+Humana,Heather Cox,Directed,1164,,,1
+Humana,Heidi S Margulis,Directed,1165,,,1
+Humana,Dr William H Shrank,Directed,1166,,,1
+Humana,"Douglas M Stoss ""Doug""",Directed,1167,,,1
+Humana,Betty Assapimonwait,Directed,1168,,,1
+Humana,Susan M Diamond,Directed,1169,,,1
+Humana,Dr William K Fleming,Directed,1170,,,1
+Humana,"Christopher H Hunter ""Chris""",Directed,1171,,,1
+Humana,Timothy Alan Wheatley,Directed,1172,,,1
+Humana,Maria Hughes,Directed,1173,,,1
+Humana,"Joseph C Ventura ""Joe""",Directed,1174,,,1
+Humana,"Cynthia H Zipperle ""Cindy""",Directed,1175,,,1
+Humana,Alan Bailey,Directed,1176,,,1
+Humana,Caraline Coats,Directed,1177,,,1
+Humana,Amy Smith,Directed,1178,,,1
+Bruce D Broussard,Humana,Directed,1179,,,1
+Facebook,Mark Elliot Zuckerberg,Directed,1180,,,1
+Facebook,"David M Wehner ""Dave""",Directed,1181,,,1
+Facebook,Sheryl Kara Sandberg,Directed,1182,,,1
+Facebook,"Michael Todd Schroepfer ""Mike",Directed,1183,,,1
+Facebook,Erin Egan,Directed,1184,,,1
+Facebook,David B Fischer,Directed,1185,,,1
+Facebook,Antonio J Lucio,Directed,1186,,,1
+Facebook,"Susan J S Taylor ""Sue""",Directed,1187,,,1
+Facebook,David Kling,Directed,1188,,,1
+Facebook,Monika Bickert,Directed,1189,,,1
+Facebook,Stan Chudnovsky,Directed,1190,,,1
+Facebook,Deborah T Crawford,Directed,1191,,,1
+Facebook,Mark D'Arcy,Directed,1192,,,1
+Facebook,Marne Levine,Directed,1193,,,1
+Facebook,Justin Osofsky,Directed,1194,,,1
+Facebook,John Pinette,Directed,1195,,,1
+Facebook,"Daniel A Rabinovitsj ""Dan""",Directed,1196,,,1
+Facebook,Jason Rubin,Directed,1197,,,1
+Facebook,Kevin Weil,Directed,1198,,,1
+Facebook,Jennifer G Newstead,Directed,1199,,,1
+Facebook,"James Everingham ""Jim""",Directed,1200,,,1
+Facebook,Michelle Kempner,Directed,1201,,,1
+Facebook,David A Marcus,Directed,1202,,,1
+Facebook,Javier Olivan,Directed,1203,,,1
+Mark Elliot Zuckerberg,Facebook,Directed,1204,,,1
+Sheryl Kara Sandberg,Facebook,Directed,1205,,,1
+Caterpillar,"D James Umpleby III ""Jim""",Directed,1206,,,1
+Caterpillar,Andrew R J Bonfield,Directed,1207,,,1
+Caterpillar,Suzette M Long,Directed,1208,,,1
+Caterpillar,G Michael Marvel,Directed,1209,,,1
+Caterpillar,Cheryl H Johnson,Directed,1210,,,1
+Caterpillar,Jill E Daugherty,Directed,1211,,,1
+Caterpillar,Michael A McGuire,Directed,1212,,,1
+Caterpillar,Barbara Schwarzentraub,Directed,1213,,,1
+Caterpillar,"William P Ainsworth ""Billy""",Directed,1214,,,1
+Caterpillar,Bob De Lange,Directed,1215,,,1
+Caterpillar,Ramin Younessi,Directed,1216,,,1
+Caterpillar,Denise C Johnson,Directed,1217,,,1
+Caterpillar,"Thomas A Pellette ""Tom""",Directed,1218,,,1
+Caterpillar,"Thomas J Bluth ""Tom""",Directed,1219,,,1
+Caterpillar,Qihua Chen,Directed,1220,,,1
+Caterpillar,Kyle J Epley,Directed,1221,,,1
+Caterpillar,Julie A Lagacy,Directed,1222,,,1
+Caterpillar,"Anthony D Fassino ""Tony""",Directed,1223,,,1
+Caterpillar,Kathryn Dickey Karol,Directed,1224,,,1
+Caterpillar,"Steven M Ferguson ""Steve""",Directed,1225,,,1
+Caterpillar,Pablo M Koziner,Directed,1226,,,1
+Caterpillar,"Thomas Edward Frake ""Tom""",Directed,1227,,,1
+Caterpillar,Ogi Redzic,Directed,1228,,,1
+Caterpillar,Frederic Istas,Directed,1229,,,1
+Caterpillar,E Jean Savage,Directed,1230,,,1
+Caterpillar,"Christopher R Snodgrass ""Chri",Directed,1231,,,1
+Caterpillar,Tana L Utley,Directed,1232,,,1
+Caterpillar,"David T Walton ""Dave""",Directed,1233,,,1
+Caterpillar,Rob Hoenes,Directed,1234,,,1
+Caterpillar,"Richard D Moore ""Rich""",Directed,1235,,,1
+Caterpillar,Jennifer Driscoll,Directed,1236,,,1
+Caterpillar,Jennifer K Schott,Directed,1237,,,1
+"D James Umpleby III ""Jim""",Chevron,Directed,1238,,,1
+"D James Umpleby III ""Jim""",Caterpillar,Directed,1239,,,1
+Energy Transfer,Kelcy L Warren,Directed,1240,,,1
+Energy Transfer,"Marshall S McCrea III ""Mackie""",Directed,1241,,,1
+Energy Transfer,"Thomas E Long ""Tom""",Directed,1242,,,1
+Energy Transfer,Matthew S Ramsey,Directed,1243,,,1
+Energy Transfer,Christopher P Curia,Directed,1244,,,1
+Energy Transfer,Thomas P Mason,Directed,1245,,,1
+Energy Transfer,Bradford Dickerson Whitehurst,Directed,1246,,,1
+Energy Transfer,Kevin J Smith,Directed,1247,,,1
+Energy Transfer,A Troy Sturrock,Directed,1248,,,1
+Energy Transfer,Brent Ratliff,Directed,1249,,,1
+Kelcy L Warren,Energy Transfer,Directed,1250,,,1
+"Marshall S McCrea III ""Mackie""",Energy Transfer,Directed,1251,,,1
+"Thomas E Long ""Tom""",Energy Transfer,Directed,1252,,,1
+Matthew S Ramsey,Energy Transfer,Directed,1253,,,1
+Lockheed Martin,Marillyn A Hewson,Directed,1254,,,1
+Lockheed Martin,"Dr Dana Jackson ""Keoki""",Directed,1255,,,1
+Lockheed Martin,Kenneth R Possenriede,Directed,1256,,,1
+Lockheed Martin,"Richard F Ambrose ""Rick""",Directed,1257,,,1
+Lockheed Martin,Michele A Evans,Directed,1258,,,1
+Lockheed Martin,Scott Greene,Directed,1259,,,1
+Lockheed Martin,Frank A St John,Directed,1260,,,1
+Lockheed Martin,Maryanne R Lavan,Directed,1261,,,1
+Lockheed Martin,Timothy Cahill,Directed,1262,,,1
+Lockheed Martin,Dean Acosta,Directed,1263,,,1
+Lockheed Martin,Stephanie C Hill,Directed,1264,,,1
+Lockheed Martin,Robert M Lightfoot Jr,Directed,1265,,,1
+Lockheed Martin,Dr Leo S Mackay Jr,Directed,1266,,,1
+Lockheed Martin,"Rodney A Makoske ""Rod""",Directed,1267,,,1
+Lockheed Martin,"Robert E Mullins ""Rob""",Directed,1268,,,1
+Lockheed Martin,"Robert E Mullins ""Rob""",Directed,1269,,,1
+Lockheed Martin,Robert Rangel,Directed,1270,,,1
+Lockheed Martin,Brian P Colan,Directed,1271,,,1
+Lockheed Martin,John W Mollard,Directed,1272,,,1
+Lockheed Martin,Kerri R Morey,Directed,1273,,,1
+Lockheed Martin,Maria Demaree,Directed,1274,,,1
+Lockheed Martin,Bridget Lauderdale,Directed,1275,,,1
+Lockheed Martin,"Roderick McLean ""Rod""",Directed,1276,,,1
+Lockheed Martin,Greg M Gardner,Directed,1277,,,1
+Lockheed Martin,"Vice Adm Bernard McCullough """,Directed,1278,,,1
+Lockheed Martin,Doug Laurendeau,Directed,1279,,,1
+Lockheed Martin,Erin Moseley,Directed,1280,,,1
+Lockheed Martin,Ken Kota,Directed,1281,,,1
+Lockheed Martin,Mike Smith,Directed,1282,,,1
+Lockheed Martin,Bill Phelps,Directed,1283,,,1
+Lockheed Martin,Adam Sohn,Directed,1284,,,1
+Lockheed Martin,Stephen Denker,Directed,1285,,,1
+Lockheed Martin,Vivek Lall,Directed,1286,,,1
+Marillyn A Hewson,Johnson & Johnson,Directed,1287,,,1
+Marillyn A Hewson,Lockheed Martin,Directed,1288,,,1
+Pfizer,Ian C Read,Directed,1289,,,1
+Pfizer,Dr Albert Bourla,Directed,1290,,,1
+Pfizer,Dr Mikael Dolsten,Directed,1291,,,1
+Pfizer,Michael Goettler,Directed,1292,,,1
+Pfizer,Angela Hwang,Directed,1293,,,1
+Pfizer,Andy Schmeltz,Directed,1294,,,1
+Pfizer,Frank A D'Amelio,Directed,1295,,,1
+Pfizer,Lidia L Fonseca,Directed,1296,,,1
+Pfizer,Rady A Johnson,Directed,1297,,,1
+Pfizer,"Douglas M Lankler ""Doug""",Directed,1298,,,1
+Pfizer,Dr Freda C Lewis-Hall,Directed,1299,,,1
+Pfizer,Dr Alexander Rod Mackenzie,Directed,1300,,,1
+Pfizer,Dawn Rogers,Directed,1301,,,1
+Pfizer,Sally Susman,Directed,1302,,,1
+Pfizer,Dr Seng Hing Cheng,Directed,1303,,,1
+Pfizer,Margaret M Madden,Directed,1304,,,1
+Pfizer,Dr Jeff Settleman,Directed,1305,,,1
+Pfizer,Brian Byala,Directed,1306,,,1
+Pfizer,"Charles E Triano ""Chuck""",Directed,1307,,,1
+Pfizer,Michael Anthony White,Directed,1308,,,1
+Pfizer,Denis Patrick,Directed,1309,,,1
+Pfizer,John D Young,Directed,1310,,,1
+Ian C Read,Pfizer,Directed,1311,,,1
+Dr Albert Bourla,Pfizer,Directed,1312,,,1
+Frank A D'Amelio,Humana,Directed,1313,,,1
+Goldman Sachs Group,David M Solomon,Directed,1314,,,1
+Goldman Sachs Group,John E Waldron,Directed,1315,,,1
+Goldman Sachs Group,"R Martin Chavez ""Marty""",Directed,1316,,,1
+Goldman Sachs Group,Laurence Stein,Directed,1317,,,1
+Goldman Sachs Group,Sheara J Fredman,Directed,1318,,,1
+Goldman Sachs Group,Brian J Lee,Directed,1319,,,1
+Goldman Sachs Group,Stephen M Scherr,Directed,1320,,,1
+Goldman Sachs Group,John F W Rogers,Directed,1321,,,1
+Goldman Sachs Group,Karen Patton Seymour,Directed,1322,,,1
+Goldman Sachs Group,Sarah E Smith,Directed,1323,,,1
+Goldman Sachs Group,Rana Yared,Directed,1324,,,1
+Goldman Sachs Group,Dane E Holmes,Directed,1325,,,1
+Goldman Sachs Group,Heather K Miner,Directed,1326,,,1
+Goldman Sachs Group,"Elizabeth M Hammack ""Beth""",Directed,1327,,,1
+David M Solomon,Goldman Sachs Group,Directed,1328,,,1
+Morgan Stanley,James Patrick Gorman,Directed,1329,,,1
+Morgan Stanley,"Thomas R Nides ""Tom""",Directed,1330,,,1
+Morgan Stanley,Audrey Choi,Directed,1331,,,1
+Morgan Stanley,David Stark,Directed,1332,,,1
+Morgan Stanley,Shelley Suzanne O'Connor,Directed,1333,,,1
+Morgan Stanley,Jonathan M Pruzan,Directed,1334,,,1
+Morgan Stanley,"Jeffrey S Brodsky ""Jeff""",Directed,1335,,,1
+Morgan Stanley,Eric F Grossman,Directed,1336,,,1
+Morgan Stanley,Keishi Hotsuki,Directed,1337,,,1
+Morgan Stanley,Seema R Hingorani,Directed,1338,,,1
+Morgan Stanley,Martin M Cohen,Directed,1339,,,1
+Morgan Stanley,John Ryan,Directed,1340,,,1
+Morgan Stanley,Jean De Miramon,Directed,1341,,,1
+Morgan Stanley,Franck Robert Petitgas,Directed,1342,,,1
+Morgan Stanley,Sam Kellie-Smith,Directed,1343,,,1
+Morgan Stanley,Daniel A Simkowitz,Directed,1344,,,1
+Morgan Stanley,"Edward Pick ""Ted""",Directed,1345,,,1
+Morgan Stanley,Clare Woodman,Directed,1346,,,1
+Morgan Stanley,Sharon Yeshaya,Directed,1347,,,1
+Morgan Stanley,Tatiana Segalas,Directed,1348,,,1
+James Patrick Gorman,Morgan Stanley,Directed,1349,,,1
+Cisco Systems,"Charles H Robbins ""Chuck""",Directed,1350,,,1
+Cisco Systems,"Tim Keanini ""Tk""",Directed,1351,,,1
+Cisco Systems,Dave Ward,Directed,1352,,,1
+Cisco Systems,Kelly A Kramer,Directed,1353,,,1
+Cisco Systems,Mark Chandler,Directed,1354,,,1
+Cisco Systems,"Geraldine T Elliott ""Gerri""",Directed,1355,,,1
+Cisco Systems,Francine Katsoudas,Directed,1356,,,1
+Cisco Systems,Maria Martinez,Directed,1357,,,1
+Cisco Systems,"Tan Tiang Yew ""Irving""",Directed,1358,,,1
+Cisco Systems,David Goeckeler,Directed,1359,,,1
+Cisco Systems,Prat S Bhatt,Directed,1360,,,1
+Cisco Systems,Anuj Kapur,Directed,1361,,,1
+Cisco Systems,Stella Low,Directed,1362,,,1
+Cisco Systems,Steve Martino,Directed,1363,,,1
+Cisco Systems,Oliver Roll,Directed,1364,,,1
+Cisco Systems,John N Stewart,Directed,1365,,,1
+Cisco Systems,Michael Timmeny,Directed,1366,,,1
+Cisco Systems,Roland Acra,Directed,1367,,,1
+Cisco Systems,Mark Patterson,Directed,1368,,,1
+Cisco Systems,Roger Biscay,Directed,1369,,,1
+Cisco Systems,"Elizabeth Centoni ""Liz""",Directed,1370,,,1
+Cisco Systems,Amy L Chang,Directed,1371,,,1
+Cisco Systems,Guillermo Diaz Jr,Directed,1372,,,1
+Cisco Systems,Bill Gartner,Directed,1373,,,1
+Cisco Systems,Frank Palumbo,Directed,1374,,,1
+Cisco Systems,Marilyn Mora,Directed,1375,,,1
+Cisco Systems,Dave Wilson,Directed,1376,,,1
+"Charles H Robbins ""Chuck""",Cisco Systems,Directed,1377,,,1
+Maria Martinez,McKesson,Directed,1378,,,1
+Amy L Chang,Procter & Gamble,Directed,1379,,,1
+Cigna,David M Cordani,Directed,1380,,,1
+Cigna,Gina Papush,Directed,1381,,,1
+Cigna,Jerome Droesch,Directed,1382,,,1
+Cigna,Howard Gough,Directed,1383,,,1
+Cigna,Brian Evanko,Directed,1384,,,1
+Cigna,Jim Hickey,Directed,1385,,,1
+Cigna,Bryan Holgerson,Directed,1386,,,1
+Cigna,"Matthew G Manders ""Matt""",Directed,1387,,,1
+Cigna,"Timothy C Wentworth ""Tim""",Directed,1388,,,1
+Cigna,John Roble,Directed,1389,,,1
+Cigna,Jason D Sadler,Directed,1390,,,1
+Cigna,Wendy Sherry,Directed,1391,,,1
+Cigna,"Michael Triplett ""Mike""",Directed,1392,,,1
+Cigna,Eric P Palmer,Directed,1393,,,1
+Cigna,"Dr Steven Miller ""Steve""",Directed,1394,,,1
+Cigna,Dr Mark L Boxer,Directed,1395,,,1
+Cigna,John M Murabito,Directed,1396,,,1
+Cigna,Nicole S Jones,Directed,1397,,,1
+Cigna,Tom Richards,Directed,1398,,,1
+Cigna,Mary T Agoglia Hoeltzel,Directed,1399,,,1
+Cigna,Ralph Holmes,Directed,1400,,,1
+Cigna,William McDowell,Directed,1401,,,1
+Cigna,Ron Menzin,Directed,1402,,,1
+Cigna,Jeffrey Langsam,Directed,1403,,,1
+David M Cordani,Cigna,Directed,1404,,,1
+AIG,Brian Duperreault,Directed,1405,,,1
+AIG,Sabra Rose Purtill,Directed,1406,,,1
+AIG,Jennifer Waldner,Directed,1407,,,1
+AIG,Tom Parker,Directed,1408,,,1
+AIG,David H McElroy,Directed,1409,,,1
+AIG,Sharon French,Directed,1410,,,1
+AIG,Tony McHarg,Directed,1411,,,1
+AIG,Tony McHarg,Directed,1412,,,1
+AIG,"Kenneth Riegler ""Ken""",Directed,1413,,,1
+AIG,"Alexander Ross Baugh ""Lex""",Directed,1414,,,1
+AIG,Kean D Driscoll,Directed,1415,,,1
+AIG,Mark D Lyons,Directed,1416,,,1
+AIG,Peter Zaffino,Directed,1417,,,1
+AIG,"Douglas A Dachille ""Doug""",Directed,1418,,,1
+AIG,Karen L Ling,Directed,1419,,,1
+AIG,Naohiro Mouri,Directed,1420,,,1
+AIG,"Alessandrea Quane ""Alessa""",Directed,1421,,,1
+AIG,John P Repko,Directed,1422,,,1
+AIG,Kevin T Hogan,Directed,1423,,,1
+AIG,"Seraina Macia ""Maag""",Directed,1424,,,1
+AIG,"Luciana Fato ""Lucy""",Directed,1425,,,1
+AIG,Richard Baich,Directed,1426,,,1
+AIG,Rose Marie E Glazer,Directed,1427,,,1
+AIG,Wendy Daniels,Directed,1428,,,1
+AIG,Gordon Browne,Directed,1429,,,1
+AIG,Allison Barrett,Directed,1430,,,1
+AIG,Steve Eccles,Directed,1431,,,1
+AIG,Shane Fitzsimons,Directed,1432,,,1
+AIG,James Love,Directed,1433,,,1
+AIG,Duncanis Ellis,Directed,1434,,,1
+AIG,"Elizabeth A Werner ""Liz""",Directed,1435,,,1
+Brian Duperreault,AIG,Directed,1436,,,1
+HCA Healthcare,"Samuel N Hazen ""Sam""",Directed,1437,,,1
+HCA Healthcare,Jim Jirjis,Directed,1438,,,1
+HCA Healthcare,Scott Davis,Directed,1439,,,1
+HCA Healthcare,Dr Michael S Cuffe,Directed,1440,,,1
+HCA Healthcare,"Charles J Hall ""Chuck""",Directed,1441,,,1
+HCA Healthcare,A Bruce Moore Jr,Directed,1442,,,1
+HCA Healthcare,Dr Ravi S Chari,Directed,1443,,,1
+HCA Healthcare,Jon M Foster,Directed,1444,,,1
+HCA Healthcare,Michael G Joseph,Directed,1445,,,1
+HCA Healthcare,Charles Gressle,Directed,1446,,,1
+HCA Healthcare,Michael P Joyce,Directed,1447,,,1
+HCA Healthcare,Greg Lowe,Directed,1448,,,1
+HCA Healthcare,Troy A Villarreal,Directed,1449,,,1
+HCA Healthcare,Terence Van Arkel,Directed,1450,,,1
+HCA Healthcare,Chris J Osentowski,Directed,1451,,,1
+HCA Healthcare,William B Rutherford,Directed,1452,,,1
+HCA Healthcare,Dr Jane D Englebright,Directed,1453,,,1
+HCA Healthcare,P Martin Paslick,Directed,1454,,,1
+HCA Healthcare,Jennifer Berres,Directed,1455,,,1
+HCA Healthcare,"Joseph A Sowell III ""Joe""",Directed,1456,,,1
+HCA Healthcare,"Robert A Waterman ""Bob""",Directed,1457,,,1
+HCA Healthcare,Phil Billington,Directed,1458,,,1
+HCA Healthcare,"Jeffrey E Cohen ""Jeff""",Directed,1459,,,1
+HCA Healthcare,J William Morrow,Directed,1460,,,1
+HCA Healthcare,Deborah M Reiner,Directed,1461,,,1
+HCA Healthcare,Kathryn A Torres,Directed,1462,,,1
+HCA Healthcare,Jenn Bowman,Directed,1463,,,1
+HCA Healthcare,Mark W Kimbrough,Directed,1464,,,1
+HCA Healthcare,Christopher F Wyatt,Directed,1465,,,1
+HCA Healthcare,Kathi Whalen,Directed,1466,,,1
+"Samuel N Hazen ""Sam""",HCA Healthcare,Directed,1467,,,1
+American Airlines Group,"William Douglas Parker ""Doug""",Directed,1468,,,1
+American Airlines Group,Robert D Isom Jr,Directed,1469,,,1
+American Airlines Group,Maya Leibman,Directed,1470,,,1
+American Airlines Group,Elise R Eberwein,Directed,1471,,,1
+American Airlines Group,Stephen L Johnson,Directed,1472,,,1
+American Airlines Group,Priya R Aiyar,Directed,1473,,,1
+American Airlines Group,Kevin Brickner,Directed,1474,,,1
+American Airlines Group,"Donald B Casey ""Don""",Directed,1475,,,1
+American Airlines Group,Kerry Philopovich,Directed,1476,,,1
+American Airlines Group,Vasu Raja,Directed,1477,,,1
+American Airlines Group,David Seymour,Directed,1478,,,1
+American Airlines Group,Kurt Stache,Directed,1479,,,1
+American Airlines Group,Alison Taylor,Directed,1480,,,1
+American Airlines Group,"Thomas T Weir ""Tom""",Directed,1481,,,1
+American Airlines Group,Alice Curry,Directed,1482,,,1
+American Airlines Group,Joncarlo Gulbranson,Directed,1483,,,1
+American Airlines Group,Daniel E Cravens,Directed,1484,,,1
+American Airlines Group,Alyssa Heath,Directed,1485,,,1
+American Airlines Group,Alexandre Cavalcanti,Directed,1486,,,1
+American Airlines Group,Caroline B Ray,Directed,1487,,,1
+"William Douglas Parker ""Doug""",American Airlines Group,Directed,1488,,,1
+Delta Air Lines,"Edward H Bastian ""Ed""",Directed,1489,,,1
+Delta Air Lines,Glen W Hauenstein,Directed,1490,,,1
+Delta Air Lines,William C Carroll,Directed,1491,,,1
+Delta Air Lines,"Wayne Gilbert West ""Gil""",Directed,1492,,,1
+Delta Air Lines,Paul A Jacobson,Directed,1493,,,1
+Delta Air Lines,Peter W Carter,Directed,1494,,,1
+Delta Air Lines,Rahul Samant,Directed,1495,,,1
+Delta Air Lines,Joanne D Smith,Directed,1496,,,1
+Delta Air Lines,"William P Lentsch ""Bill""",Directed,1497,,,1
+Delta Air Lines,"Steven M Sear ""Steve""",Directed,1498,,,1
+Delta Air Lines,"Timothy Mapes ""Tim""",Directed,1499,,,1
+Delta Air Lines,Joe Esposito,Directed,1500,,,1
+Delta Air Lines,Sandy Gordon,Directed,1501,,,1
+Delta Air Lines,Jim Graham,Directed,1502,,,1
+Delta Air Lines,Dave Holtz,Directed,1503,,,1
+Delta Air Lines,Gareth Joyce,Directed,1504,,,1
+Delta Air Lines,Henry Kuykendall,Directed,1505,,,1
+Delta Air Lines,Erik Snell,Directed,1506,,,1
+Delta Air Lines,Kenneth Morge,Directed,1507,,,1
+Delta Air Lines,Ranjan Goswami,Directed,1508,,,1
+Delta Air Lines,Jill Sullivan Greer,Directed,1509,,,1
+Delta Air Lines,Gary Hammes,Directed,1510,,,1
+Delta Air Lines,Scott Santoro,Directed,1511,,,1
+Delta Air Lines,Robert Walpole,Directed,1512,,,1
+Delta Air Lines,Rafael Figueroa,Directed,1513,,,1
+Delta Air Lines,Eric Burgeson,Directed,1514,,,1
+"Edward H Bastian ""Ed""",Delta Air Lines,Directed,1515,,,1
+Charter Communications,"Thomas M Rutledge ""Tom""",Directed,1516,,,1
+Charter Communications,John Bickham,Directed,1517,,,1
+Charter Communications,"Christopher L Winfrey ""Chris""",Directed,1518,,,1
+Charter Communications,Danny L Bowman,Directed,1519,,,1
+Charter Communications,Stephanie Mitchko-Beale,Directed,1520,,,1
+Charter Communications,"Richard J Digeronimo ""Rich""",Directed,1521,,,1
+Charter Communications,"Jonathan Hargis ""Jon""",Directed,1522,,,1
+Charter Communications,David Kline,Directed,1523,,,1
+Charter Communications,"Richard R Dykhouse ""Rick""",Directed,1524,,,1
+Charter Communications,"Philip G Meeks ""Phil""",Directed,1525,,,1
+Charter Communications,"Thomas E Adams ""Tom""",Directed,1526,,,1
+Charter Communications,Mike Bair,Directed,1527,,,1
+Charter Communications,James Blackley,Directed,1528,,,1
+Charter Communications,Catherine C Bohigian,Directed,1529,,,1
+Charter Communications,Cliff Hagan,Directed,1530,,,1
+Charter Communications,Paul Marchand,Directed,1531,,,1
+Charter Communications,Tom Montemagno,Directed,1532,,,1
+Charter Communications,James Nuzzo,Directed,1533,,,1
+Charter Communications,Scott Weber,Directed,1534,,,1
+Charter Communications,Kevin D Howard,Directed,1535,,,1
+Charter Communications,David G Ellen,Directed,1536,,,1
+Charter Communications,Cameron Blanchard,Directed,1537,,,1
+Charter Communications,Tom Monaghan,Directed,1538,,,1
+Charter Communications,Rachel Welch,Directed,1539,,,1
+Charter Communications,Jennifer Suzanne Pirozzi,Directed,1540,,,1
+Charter Communications,Dane Knudsen,Directed,1541,,,1
+Charter Communications,Martin Armstrong,Directed,1542,,,1
+"Thomas M Rutledge ""Tom""",Charter Communications,Directed,1543,,,1
+New York Life Insurance,"Theodore A Mathas ""Ted""",Directed,1544,,,1
+New York Life Insurance,Craig Desanto,Directed,1545,,,1
+New York Life Insurance,"Matthew Grove ""Matt""",Directed,1546,,,1
+New York Life Insurance,Michelle Bottomley,Directed,1547,,,1
+New York Life Insurance,Kelli Parsons,Directed,1548,,,1
+New York Life Insurance,Kathleen Navarro,Directed,1549,,,1
+New York Life Insurance,Eric A Feldstein,Directed,1550,,,1
+New York Life Insurance,Anthony Ramsey Malloy,Directed,1551,,,1
+New York Life Insurance,Sheila Keamey Davidson,Directed,1552,,,1
+New York Life Insurance,Mark Madgett,Directed,1553,,,1
+New York Life Insurance,"Donald Desiderato ""Don""",Directed,1554,,,1
+New York Life Insurance,Katherine R O'Brien,Directed,1555,,,1
+New York Life Insurance,Joel M Steinberg,Directed,1556,,,1
+New York Life Insurance,Stephen N Steinig,Directed,1557,,,1
+New York Life Insurance,Susan A Thrope,Directed,1558,,,1
+New York Life Insurance,Alain Maurice Karaoglan,Directed,1559,,,1
+New York Life Insurance,"Elizabeth McCarthy ""Liz""",Directed,1560,,,1
+"Theodore A Mathas ""Ted""",New York Life Insurance,Directed,1561,,,1
+American Express,Stephen Joseph Squeri,Directed,1562,,,1
+American Express,Elizabeth Rutledge,Directed,1563,,,1
+American Express,Dr Mohammed Badi,Directed,1564,,,1
+American Express,Sonia Cargan,Directed,1565,,,1
+American Express,Monique R Herena,Directed,1566,,,1
+American Express,Laureen E Seeger,Directed,1567,,,1
+American Express,Jennifer Skyler,Directed,1568,,,1
+American Express,Douglas E Buckminster,Directed,1569,,,1
+American Express,Raymond Joabar,Directed,1570,,,1
+American Express,Anna Marrs,Directed,1571,,,1
+American Express,Denise Pickett,Directed,1572,,,1
+American Express,Anre D Williams,Directed,1573,,,1
+American Express,"Jeffrey C Campbell ""Jeff""",Directed,1574,,,1
+American Express,Marc D Gordon,Directed,1575,,,1
+American Express,"Richard Petrino ""Rick""",Directed,1576,,,1
+American Express,David Yowan,Directed,1577,,,1
+American Express,Linda K Zukauckas,Directed,1578,,,1
+American Express,Alan P Gallo,Directed,1579,,,1
+American Express,David Fabricant,Directed,1580,,,1
+American Express,Tangela Richter,Directed,1581,,,1
+American Express,Rosie Perez,Directed,1582,,,1
+Stephen Joseph Squeri,American Express,Directed,1583,,,1
+Best Buy,Hubert Joly,Directed,1584,,,1
+Best Buy,Corie S Barry,Directed,1585,,,1
+Best Buy,"R Michael Mohan ""Mike""",Directed,1586,,,1
+Best Buy,Mattew Bilunas,Directed,1587,,,1
+Best Buy,Whit Alexander,Directed,1588,,,1
+Best Buy,Robert L Bass,Directed,1589,,,1
+Best Buy,"Matthew Furman ""Matt""",Directed,1590,,,1
+Best Buy,Jason Bonfig,Directed,1591,,,1
+Best Buy,Allison Peterson,Directed,1592,,,1
+Best Buy,Kamy Scarlett,Directed,1593,,,1
+Best Buy,Brian A Tilzer,Directed,1594,,,1
+Best Buy,Asheesh Saksena,Directed,1595,,,1
+Best Buy,Trish Walker,Directed,1596,,,1
+Best Buy,Ron Wilson,Directed,1597,,,1
+Best Buy,Matthew Watson,Directed,1598,,,1
+Best Buy,Mollie O'Brien,Directed,1599,,,1
+Hubert Joly,Best Buy,Directed,1600,,,1
+Merck,"Kenneth C Frazier ""Ken""",Directed,1601,,,1
+Merck,Dr Roy D Baynes,Directed,1602,,,1
+Merck,"Robert M Davis ""Rob""",Directed,1603,,,1
+Merck,Frank K Clyburn Jr,Directed,1604,,,1
+Merck,Julie Louise Gerberding,Directed,1605,,,1
+Merck,Michael T Nally,Directed,1606,,,1
+Merck,"James Scholefield ""Jim""",Directed,1607,,,1
+Merck,Sanat Chattopadhyay,Directed,1608,,,1
+Merck,Richard R Deluca Jr,Directed,1609,,,1
+Merck,Dr Roger M Perlmutter,Directed,1610,,,1
+Merck,Jennifer Zachary,Directed,1611,,,1
+Merck,"Steven C Mizell ""Steve""",Directed,1612,,,1
+Merck,Michael W Fleming,Directed,1613,,,1
+Merck,Mark E McDonough,Directed,1614,,,1
+Merck,Rita A Karachun,Directed,1615,,,1
+Merck,Peter Dannenbaum,Directed,1616,,,1
+"Kenneth C Frazier ""Ken""",Exxon Mobil,Directed,1617,,,1
+"Kenneth C Frazier ""Ken""",Merck,Directed,1618,,,1
+Honeywell International,Darius Adamczyk,Directed,1619,,,1
+Honeywell International,Suresh Venkatarayalu,Directed,1620,,,1
+Honeywell International,Robert Vislosky,Directed,1621,,,1
+Honeywell International,Que Thanh Dallara,Directed,1622,,,1
+Honeywell International,Dr Rajeev Gautam,Directed,1623,,,1
+Honeywell International,Vimal M Kapur,Directed,1624,,,1
+Honeywell International,Mike Madsen,Directed,1625,,,1
+Honeywell International,John F Waldron,Directed,1626,,,1
+Honeywell International,Shane S Tedjarati,Directed,1627,,,1
+Honeywell International,"Gregory P Lewis ""Greg""",Directed,1628,,,1
+Honeywell International,Jeff Kimbell,Directed,1629,,,1
+Honeywell International,Torsten Pilz,Directed,1630,,,1
+Honeywell International,Anne T Madden,Directed,1631,,,1
+Honeywell International,Mark R James,Directed,1632,,,1
+Honeywell International,"Timothy O Mahoney ""Tim""",Directed,1633,,,1
+Honeywell International,Mark Bendza,Directed,1634,,,1
+Darius Adamczyk,Honeywell International,Directed,1635,,,1
+United Continental Holdings,Oscar Munoz,Directed,1636,,,1
+United Continental Holdings,J Scott Kirby,Directed,1637,,,1
+United Continental Holdings,Jill Kaplan,Directed,1638,,,1
+United Continental Holdings,Janet Lamkin,Directed,1639,,,1
+United Continental Holdings,"Gerald Laderman ""Gerry""",Directed,1640,,,1
+United Continental Holdings,"Gregory L Hart ""Greg""",Directed,1641,,,1
+United Continental Holdings,Brett J Hart,Directed,1642,,,1
+United Continental Holdings,Andrew P Nocella,Directed,1643,,,1
+United Continental Holdings,Linda P Jojo,Directed,1644,,,1
+United Continental Holdings,Kate Gebo,Directed,1645,,,1
+United Continental Holdings,Josh Earnest,Directed,1646,,,1
+United Continental Holdings,"Torbjorn J Enqvist ""Toby""",Directed,1647,,,1
+United Continental Holdings,"Robert S Rivkin ""Bob""",Directed,1648,,,1
+United Continental Holdings,Kris Bauer,Directed,1649,,,1
+United Continental Holdings,Lori Bradley,Directed,1650,,,1
+United Continental Holdings,Jason Birnbaum,Directed,1651,,,1
+United Continental Holdings,Jake Cefolia,Directed,1652,,,1
+United Continental Holdings,"Theresa M Fariello ""Terri""",Directed,1653,,,1
+United Continental Holdings,John Ray Gebo,Directed,1654,,,1
+United Continental Holdings,"P Douglas McKeen ""Doug""",Directed,1655,,,1
+United Continental Holdings,"Jonathan Roitman ""Jon""",Directed,1656,,,1
+United Continental Holdings,John Slater,Directed,1657,,,1
+United Continental Holdings,Bryan Quigley,Directed,1658,,,1
+United Continental Holdings,"Christopher T Kenny ""Chris""",Directed,1659,,,1
+United Continental Holdings,"Michael Leskinen ""Mike""",Directed,1660,,,1
+Oscar Munoz,United Continental Holdings,Directed,1661,,,1
+Brett J Hart,AbbVie,Directed,1662,,,1
+Linda P Jojo,Exelon,Directed,1663,,,1
+Tyson Foods,John H Tyson,Directed,1664,,,1
+Tyson Foods,Noel W White,Directed,1665,,,1
+Tyson Foods,Dean Banks,Directed,1666,,,1
+Tyson Foods,John R Tyson,Directed,1667,,,1
+Tyson Foods,Donnie D King,Directed,1668,,,1
+Tyson Foods,Chad Martin,Directed,1669,,,1
+Tyson Foods,Noelle O'Mara,Directed,1670,,,1
+Tyson Foods,"Douglas Ramsey ""Doug""",Directed,1671,,,1
+Tyson Foods,"Stephen R Stouffer ""Steve""",Directed,1672,,,1
+Tyson Foods,Stewart Fraser Glendinning,Directed,1673,,,1
+Tyson Foods,Scott Spradley,Directed,1674,,,1
+Tyson Foods,Mary A Oleksiuk,Directed,1675,,,1
+Tyson Foods,Scott Rouse,Directed,1676,,,1
+Tyson Foods,Amy Tu,Directed,1677,,,1
+Tyson Foods,Justin Whitmore,Directed,1678,,,1
+Tyson Foods,"Stephen L Gibbs ""Steve""",Directed,1679,,,1
+Tyson Foods,Curt T Calaway,Directed,1680,,,1
+Tyson Foods,Karen Knutson,Directed,1681,,,1
+Tyson Foods,Jon Kathol,Directed,1682,,,1
+John H Tyson,Tyson Foods,Directed,1683,,,1
+Noel W White,Tyson Foods,Directed,1684,,,1
+Dean Banks,Tyson Foods,Directed,1685,,,1
+Oracle,"Lawrence Joseph Ellison ""Larry",Directed,1686,,,1
+Oracle,"Jeffrey Owen Henley ""Jeff""",Directed,1687,,,1
+Oracle,Safra A Catz,Directed,1688,,,1
+Oracle,Edward Screven,Directed,1689,,,1
+Oracle,William Corey West,Directed,1690,,,1
+Oracle,Dorian E Daley,Directed,1691,,,1
+Oracle,"Richard T Geraffo Jr ""Rich""",Directed,1692,,,1
+Oracle,Juan R Loaiza,Directed,1693,,,1
+Oracle,Andrew Mendelsohn,Directed,1694,,,1
+Oracle,Steve Miranda,Directed,1695,,,1
+Oracle,"Robert M Tarkoff ""Rob""",Directed,1696,,,1
+Oracle,Greg Pavlik,Directed,1697,,,1
+Oracle,"Steven J Rosenberg ""Steve""",Directed,1698,,,1
+Oracle,Sonny Singh,Directed,1699,,,1
+Oracle,Rodger E Smith,Directed,1700,,,1
+Oracle,"Mark Webster ""Mike""",Directed,1701,,,1
+Oracle,Ken Bond,Directed,1702,,,1
+Oracle,Wim Coekaerts,Directed,1703,,,1
+Oracle,Steve A Daheb,Directed,1704,,,1
+Oracle,Brian S Higgins,Directed,1705,,,1
+"Jeffrey Owen Henley ""Jeff""",Oracle,Directed,1706,,,1
+Safra A Catz,Walt Disney,Directed,1707,,,1
+Safra A Catz,Oracle,Directed,1708,,,1
+Allstate,Thomas Wilson,Directed,1709,,,1
+Allstate,"Steven E Shebik ""Steve""",Directed,1710,,,1
+Allstate,Eric K Ferren,Directed,1711,,,1
+Allstate,Don Civgin,Directed,1712,,,1
+Allstate,Mary Jane B Fortin,Directed,1713,,,1
+Allstate,John O'Donnell,Directed,1714,,,1
+Allstate,David Prendergast,Directed,1715,,,1
+Allstate,Glenn Shapiro,Directed,1716,,,1
+Allstate,Mario Rizzo,Directed,1717,,,1
+Allstate,Elizabeth A Brady,Directed,1718,,,1
+Allstate,John E Dugenske,Directed,1719,,,1
+Allstate,"Susan L Lees ""Susie""",Directed,1720,,,1
+Allstate,Brian Richard Bohaty,Directed,1721,,,1
+Allstate,Suren K Gupta,Directed,1722,,,1
+Allstate,John Charles Pintozzi,Directed,1723,,,1
+Allstate,John Griek,Directed,1724,,,1
+Thomas Wilson,Allstate,Directed,1725,,,1
+World Fuel Services,Michael J Kasbar,Directed,1726,,,1
+World Fuel Services,Massoud Sedigh,Directed,1727,,,1
+World Fuel Services,Wade N Declaris,Directed,1728,,,1
+World Fuel Services,Ira M Birns,Directed,1729,,,1
+World Fuel Services,"Jeffrey P Smith ""Jeff""",Directed,1730,,,1
+World Fuel Services,R Alexander Lake Jr,Directed,1731,,,1
+World Fuel Services,John P Rau,Directed,1732,,,1
+World Fuel Services,"Michael J Crosby ""Mike""",Directed,1733,,,1
+World Fuel Services,"LEE  BOON Meng ""Francis""",Directed,1734,,,1
+World Fuel Services,Amy Abraham,Directed,1735,,,1
+World Fuel Services,Carlos M Velazquez,Directed,1736,,,1
+World Fuel Services,Glenn Klevitz,Directed,1737,,,1
+Michael J Kasbar,World Fuel Services,Directed,1738,,,1
+TJX,Carol Meyrowitz,Directed,1739,,,1
+TJX,Ernie Herrman,Directed,1740,,,1
+TJX,"Kenneth Canestrari ""Ken""",Directed,1741,,,1
+TJX,Doug Mizzi,Directed,1742,,,1
+TJX,Richard Sherr,Directed,1743,,,1
+TJX,Scott Goldenberg,Directed,1744,,,1
+TJX,Alicia C Kelly,Directed,1745,,,1
+TJX,Jeff Botte,Directed,1746,,,1
+Carol Meyrowitz,TJX,Directed,1747,,,1
+Ernie Herrman,TJX,Directed,1748,,,1
+ConocoPhillips,Ryan M Lance,Directed,1749,,,1
+ConocoPhillips,"Gregory P Leveille ""Greg""",Directed,1750,,,1
+ConocoPhillips,"W L Bullock Jr ""Bill""",Directed,1751,,,1
+ConocoPhillips,Michael D Hatfield,Directed,1752,,,1
+ConocoPhillips,"Donald Evert Wallette Jr ""Don""",Directed,1753,,,1
+ConocoPhillips,"Matthew J Fox ""Matt""",Directed,1754,,,1
+ConocoPhillips,Kelly Brunetti Rose,Directed,1755,,,1
+ConocoPhillips,Ellen R Desanctis,Directed,1756,,,1
+ConocoPhillips,Andrew D Lundquist,Directed,1757,,,1
+ConocoPhillips,Glenda M Schwarz,Directed,1758,,,1
+ConocoPhillips,Catherine A Brooks,Directed,1759,,,1
+ConocoPhillips,James D McMorran,Directed,1760,,,1
+Ryan M Lance,ConocoPhillips,Directed,1761,,,1
+Deere,John C May,Directed,1762,,,1
+Deere,Rajesh Kalathur,Directed,1763,,,1
+Deere,"James M Field ""Jim""",Directed,1764,,,1
+Deere,"Markwart Von Pentz ""Mark""",Directed,1765,,,1
+Deere,Cory J Reed,Directed,1766,,,1
+Deere,Ryan D Campbell,Directed,1767,,,1
+Deere,Marc A Howze,Directed,1768,,,1
+Deere,Mary K W Jones,Directed,1769,,,1
+Deere,Bernhard E Haas,Directed,1770,,,1
+Deere,Joshua Jepsen,Directed,1771,,,1
+John C May,Deere,Directed,1772,,,1
+Tech Data,Robert M Dutkowsky,Directed,1773,,,1
+Tech Data,Richard T Hume,Directed,1774,,,1
+Tech Data,"Joseph H Quaglia Sr ""Joe""",Directed,1775,,,1
+Tech Data,Patrick Zammit,Directed,1776,,,1
+Tech Data,Charles V Dannewitz,Directed,1777,,,1
+Tech Data,John A Tonnison,Directed,1778,,,1
+Tech Data,Beth E Simonetti,Directed,1779,,,1
+Tech Data,David R Vetter,Directed,1780,,,1
+Tech Data,Michael Rabinovitch,Directed,1781,,,1
+Tech Data,Alain Amsellem,Directed,1782,,,1
+Tech Data,Joseph B Trepani,Directed,1783,,,1
+Tech Data,Chuck Bartlett,Directed,1784,,,1
+Tech Data,Sergio Farache,Directed,1785,,,1
+Tech Data,Scott Walker,Directed,1786,,,1
+Tech Data,Wayne Hanewicz,Directed,1787,,,1
+Tech Data,Anne Devine-Pride,Directed,1788,,,1
+Tech Data,Tim Hannon,Directed,1789,,,1
+Tech Data,Kaye McMillan,Directed,1790,,,1
+Tech Data,Tom Kraabel,Directed,1791,,,1
+Tech Data,Arleen Quinones,Directed,1792,,,1
+Tech Data,Raffaelo Piccolo,Directed,1793,,,1
+Robert M Dutkowsky,Tech Data,Directed,1794,,,1
+Richard T Hume,Tech Data,Directed,1795,,,1
+Enterprise Products Partners,"A James Teague ""Jim""",Directed,1796,,,1
+Enterprise Products Partners,"W Randall Fowler ""Randy""",Directed,1797,,,1
+Enterprise Products Partners,Graham W Bacon,Directed,1798,,,1
+Enterprise Products Partners,Brent B Secrest,Directed,1799,,,1
+Enterprise Products Partners,Paul G Flynn,Directed,1800,,,1
+Enterprise Products Partners,"Harry P Weitzel ""Hap""",Directed,1801,,,1
+Enterprise Products Partners,Anthony C Chovanec,Directed,1802,,,1
+Enterprise Products Partners,James A Cisarik,Directed,1803,,,1
+Enterprise Products Partners,F Christopher D'Anna,Directed,1804,,,1
+Enterprise Products Partners,R Daniel Boss,Directed,1805,,,1
+Enterprise Products Partners,Bradley Motal,Directed,1806,,,1
+Enterprise Products Partners,"Robert D Sanders II ""Bob""",Directed,1807,,,1
+Enterprise Products Partners,"Robert E Moss ""Bob""",Directed,1808,,,1
+Enterprise Products Partners,Kevin M Ramsey,Directed,1809,,,1
+Enterprise Products Partners,Natalie K Gayden,Directed,1810,,,1
+Enterprise Products Partners,Tug Hanley,Directed,1811,,,1
+Enterprise Products Partners,Karen D Taylor,Directed,1812,,,1
+Enterprise Products Partners,Michael W Hanson,Directed,1813,,,1
+Enterprise Products Partners,Christian Nelly,Directed,1814,,,1
+Enterprise Products Partners,Carrie L Weaver,Directed,1815,,,1
+Enterprise Products Partners,Yvette M Longonje,Directed,1816,,,1
+Enterprise Products Partners,Randy Burkhalter,Directed,1817,,,1
+"A James Teague ""Jim""",Enterprise Products Partners,Directed,1818,,,1
+"W Randall Fowler ""Randy""",Enterprise Products Partners,Directed,1819,,,1
+"Harry P Weitzel ""Hap""",Enterprise Products Partners,Directed,1820,,,1
+Nike,Dr Mark G Parker,Directed,1821,,,1
+Nike,John J Donahoe II,Directed,1822,,,1
+Nike,Eric D Sprunk,Directed,1823,,,1
+Nike,Ratnakar Lavu,Directed,1824,,,1
+Nike,Kellie Leonard,Directed,1825,,,1
+Nike,Dr Thomas E Clarke,Directed,1826,,,1
+Nike,Elliott J Hill,Directed,1827,,,1
+Nike,Hannah Jones,Directed,1828,,,1
+Nike,Michael Spillane,Directed,1829,,,1
+Nike,Craig Williams,Directed,1830,,,1
+Nike,"Andrew Campion ""Andy""",Directed,1831,,,1
+Nike,Hilary K Krane,Directed,1832,,,1
+Nike,Monique Matheson,Directed,1833,,,1
+Nike,John F Slusher,Directed,1834,,,1
+Nike,Adam Sussman,Directed,1835,,,1
+Nike,Dirk-Jan Van Hameren,Directed,1836,,,1
+Nike,Noel Kinder,Directed,1837,,,1
+Nike,Ann Miller,Directed,1838,,,1
+Nike,Chris Abston,Directed,1839,,,1
+Nike,Rosemary St Clair,Directed,1840,,,1
+Nike,Cesar Garcia,Directed,1841,,,1
+Nike,David Creech,Directed,1842,,,1
+Nike,Gino Fisanotti,Directed,1843,,,1
+Nike,Nicole Hubbard Graham,Directed,1844,,,1
+Nike,Greg Hoffman,Directed,1845,,,1
+Nike,Adrienne Lofton,Directed,1846,,,1
+Nike,Martin Lotti,Directed,1847,,,1
+Nike,Adam Roth,Directed,1848,,,1
+Nike,Nitesh Sharan,Directed,1849,,,1
+Dr Mark G Parker,Walt Disney,Directed,1850,,,1
+Dr Mark G Parker,Nike,Directed,1851,,,1
+John J Donahoe II,Nike,Directed,1852,,,1
+Publix Super Markets,Randall Todd Jones Sr,Directed,1853,,,1
+Publix Super Markets,Kevin S Murphy,Directed,1854,,,1
+Publix Super Markets,David P Phillips,Directed,1855,,,1
+Publix Super Markets,Laurie Z Douglas,Directed,1856,,,1
+Publix Super Markets,"David E Bornmann ""Dave""",Directed,1857,,,1
+Publix Super Markets,Scott E Brubaker,Directed,1858,,,1
+Publix Super Markets,Sandra J Estep,Directed,1859,,,1
+Publix Super Markets,Mark R Irby,Directed,1860,,,1
+Publix Super Markets,Marcy Benton,Directed,1861,,,1
+Publix Super Markets,G Gino Digrazia,Directed,1862,,,1
+Publix Super Markets,Mike Lester,Directed,1863,,,1
+Publix Super Markets,"Joseph A DiBenedetto Jr ""Joe""",Directed,1864,,,1
+Publix Super Markets,John F Provenzano,Directed,1865,,,1
+Publix Super Markets,Dain Rusk,Directed,1866,,,1
+Publix Super Markets,Kris Jonczyk,Directed,1867,,,1
+Randall Todd Jones Sr,Publix Super Markets,Directed,1868,,,1
+David P Phillips,Publix Super Markets,Directed,1869,,,1
+Laurie Z Douglas,Lowe's,Directed,1870,,,1
+General Dynamics,Phebe N Novakovic,Directed,1871,,,1
+General Dynamics,"Christopher Marzilli ""Chris""",Directed,1872,,,1
+General Dynamics,Mark C Roualet,Directed,1873,,,1
+General Dynamics,Robert E Smith,Directed,1874,,,1
+General Dynamics,Jason W Aiken,Directed,1875,,,1
+General Dynamics,M Amy Gilliland,Directed,1876,,,1
+General Dynamics,Gregory S Gallopoulos,Directed,1877,,,1
+General Dynamics,"Thomas W Kirchmaier ""Tom""",Directed,1878,,,1
+General Dynamics,Kimberly A Kuryea,Directed,1879,,,1
+General Dynamics,Christopher J Brady,Directed,1880,,,1
+General Dynamics,Mark L Burns,Directed,1881,,,1
+General Dynamics,David J Carver,Directed,1882,,,1
+General Dynamics,Kevin M Graney,Directed,1883,,,1
+General Dynamics,Firat H Gezen,Directed,1884,,,1
+General Dynamics,Dirk A Lesko,Directed,1885,,,1
+General Dynamics,"David Paddock ""Dave""",Directed,1886,,,1
+General Dynamics,Alfonso J Ramonet,Directed,1887,,,1
+General Dynamics,Gary L Whited,Directed,1888,,,1
+General Dynamics,Daniel G Clare,Directed,1889,,,1
+General Dynamics,David H Fogg,Directed,1890,,,1
+General Dynamics,"William A Moss ""Bill""",Directed,1891,,,1
+General Dynamics,Ira P Berman,Directed,1892,,,1
+General Dynamics,Kenneth R Hayduk,Directed,1893,,,1
+General Dynamics,Howard Alan Rubel,Directed,1894,,,1
+General Dynamics,"Elizabeth L Schmid ""Betsy""",Directed,1895,,,1
+General Dynamics,Sarah Abdow,Directed,1896,,,1
+Phebe N Novakovic,General Dynamics,Directed,1897,,,1
+Phebe N Novakovic,Abbott Laboratories,Directed,1898,,,1
+Exelon,"Christopher M Crane ""Chris""",Directed,1899,,,1
+Exelon,Calvin G Butler Jr,Directed,1900,,,1
+Exelon,Joseph Nigro,Directed,1901,,,1
+Exelon,Kenneth W Cornew,Directed,1902,,,1
+Exelon,William A Von Hoene Jr,Directed,1903,,,1
+Exelon,Paymon Aliabadi,Directed,1904,,,1
+Exelon,Mari Bridget Reidy,Directed,1905,,,1
+Exelon,"James McHugh ""Jim""",Directed,1906,,,1
+Exelon,Amy E Best,Directed,1907,,,1
+Exelon,"Michael Ronald Koehler ""Mike""",Directed,1908,,,1
+Exelon,"Thomas S O'Neill ""Tom""",Directed,1909,,,1
+Exelon,Kathleen L Barron,Directed,1910,,,1
+Exelon,Maggie Fitzpatrick,Directed,1911,,,1
+Exelon,Dan L Eggers,Directed,1912,,,1
+Exelon,Ken Robinson,Directed,1913,,,1
+Exelon,Emily C Duncan,Directed,1914,,,1
+"Christopher M Crane ""Chris""",Exelon,Directed,1915,,,1
+Plains GP Holdings,"Wilfred C W Chiang ""Willie""",Directed,1916,,,1
+Plains GP Holdings,Harry N Pefanis,Directed,1917,,,1
+Plains GP Holdings,Al Swanson,Directed,1918,,,1
+Plains GP Holdings,Chris R Chandler,Directed,1919,,,1
+Plains GP Holdings,Richard Kelly McGee,Directed,1920,,,1
+Plains GP Holdings,Sharon S Spurlin,Directed,1921,,,1
+Plains GP Holdings,Roy I Lamoreaux,Directed,1922,,,1
+"Wilfred C W Chiang ""Willie""",Plains GP Holdings,Directed,1923,,,1
+Harry N Pefanis,Plains GP Holdings,Directed,1924,,,1
+3M,Michael F Roman,Directed,1925,,,1
+3M,Julie L Bushman,Directed,1926,,,1
+3M,Paul A Keel,Directed,1927,,,1
+3M,Dr Ashish K Khandpur,Directed,1928,,,1
+3M,Mojdeh Poul,Directed,1929,,,1
+3M,Dr Michael G Vale,Directed,1930,,,1
+3M,"Nicholas C Gangestad ""Nick""",Directed,1931,,,1
+3M,Dr John P Banovetz,Directed,1932,,,1
+3M,Ivan K Fong,Directed,1933,,,1
+3M,Eric D Hammes,Directed,1934,,,1
+3M,Jon T Lindekugel,Directed,1935,,,1
+3M,Kristen M Ludgate,Directed,1936,,,1
+3M,Denise Rutherford,Directed,1937,,,1
+3M,Ty R Silberhorn,Directed,1938,,,1
+3M,Stephen Shafe,Directed,1939,,,1
+3M,"Theresa E Reinseth ""Teri""",Directed,1940,,,1
+3M,Veena M Lakkundi,Directed,1941,,,1
+3M,Gregg M Larson,Directed,1942,,,1
+3M,Debarati Sen,Directed,1943,,,1
+3M,Karen V Carroll,Directed,1944,,,1
+3M,Sarah Grauze,Directed,1945,,,1
+3M,Bruce Jermeland,Directed,1946,,,1
+3M,Christina Spence,Directed,1947,,,1
+3M,Michael M Dai,Directed,1948,,,1
+3M,Ted K Ringsred,Directed,1949,,,1
+Michael F Roman,3M,Directed,1950,,,1
+AbbVie,Richard Gonzalez,Directed,1951,,,1
+AbbVie,"Michael E Severino ""Mike""",Directed,1952,,,1
+AbbVie,Carlos Alban,Directed,1953,,,1
+AbbVie,Laura J Schumacher,Directed,1954,,,1
+AbbVie,"Robert A Michael ""Rob""",Directed,1955,,,1
+AbbVie,Henry O Gosebruch,Directed,1956,,,1
+AbbVie,Timothy J Richmond,Directed,1957,,,1
+AbbVie,Dr Azita Saleki-Gerhardt,Directed,1958,,,1
+AbbVie,Liz Shea,Directed,1959,,,1
+AbbVie,Kirsten O'Doherty,Directed,1960,,,1
+Richard Gonzalez,AbbVie,Directed,1961,,,1
+Laura J Schumacher,General Dynamics,Directed,1962,,,1
+Capital One Financial,Richard Dana Fairbank,Directed,1963,,,1
+Capital One Financial,Richard Scott Blackley,Directed,1964,,,1
+Capital One Financial,Robert M Alexander,Directed,1965,,,1
+Capital One Financial,John G Finneran Jr,Directed,1966,,,1
+Capital One Financial,Jory A Berson,Directed,1967,,,1
+Capital One Financial,Celia Karam,Directed,1968,,,1
+Capital One Financial,Frank G LaPrade III,Directed,1969,,,1
+Capital One Financial,Jennifer Jackson,Directed,1970,,,1
+Capital One Financial,Christopher T Newkirk,Directed,1971,,,1
+Capital One Financial,Kleber Santos,Directed,1972,,,1
+Capital One Financial,Michael C Slocum,Directed,1973,,,1
+Capital One Financial,"Michael J Wassmer ""Mike""",Directed,1974,,,1
+Capital One Financial,Sanjiv Yajnik,Directed,1975,,,1
+Capital One Financial,Mike Eason,Directed,1976,,,1
+Capital One Financial,George Brady,Directed,1977,,,1
+Capital One Financial,Thomas A Feil,Directed,1978,,,1
+Capital One Financial,Timothy P Golden,Directed,1979,,,1
+Capital One Financial,Michael M Johnson,Directed,1980,,,1
+Capital One Financial,Louis Rosado,Directed,1981,,,1
+Capital One Financial,"Benjamin K Olson ""Ben""",Directed,1982,,,1
+Capital One Financial,Paul Baisley,Directed,1983,,,1
+Capital One Financial,Paul L Westra,Directed,1984,,,1
+Capital One Financial,Jeff Norris,Directed,1985,,,1
+Capital One Financial,Mak Kern,Directed,1986,,,1
+Capital One Financial,Matthew Cooper,Directed,1987,,,1
+Richard Dana Fairbank,Capital One Financial,Directed,1988,,,1
+Progressive,"Susan Patricia Griffith ""Tricia""",Directed,1989,,,1
+Progressive,Steve A Broz,Directed,1990,,,1
+Progressive,"M Jeffrey Charney ""Jeff""",Directed,1991,,,1
+Progressive,"William M Cody ""Bill""",Directed,1992,,,1
+Progressive,Jonathan Bauer,Directed,1993,,,1
+Progressive,Lori Niederst,Directed,1994,,,1
+Progressive,Andrew Quigg,Directed,1995,,,1
+Progressive,John A Barbagallo,Directed,1996,,,1
+Progressive,"Patrick K Callahan ""Pat""",Directed,1997,,,1
+Progressive,John Murphy,Directed,1998,,,1
+Progressive,Michael D Sieger,Directed,1999,,,1
+Progressive,John Peter Sauerland,Directed,2000,,,1
+Progressive,Mariann Wojtkun Marshall,Directed,2001,,,1
+Progressive,Daniel P Mascaro,Directed,2002,,,1
+Progressive,Patrick S Brennan,Directed,2003,,,1
+Progressive,Julia Hornack,Directed,2004,,,1
+"Susan Patricia Griffith ""Tricia""",FedEx,Directed,2005,,,1
+"Susan Patricia Griffith ""Tricia""",Progressive,Directed,2006,,,1
+Coca-Cola,James R Quincey,Directed,2007,,,1
+Coca-Cola,Brian J Smith,Directed,2008,,,1
+Coca-Cola,Gilles Leclerc,Directed,2009,,,1
+Coca-Cola,"Nikolaos Koumettis ""Nikos""",Directed,2010,,,1
+Coca-Cola,Manuel Manolo Arroyo Prieto,Directed,2011,,,1
+Coca-Cola,Alfredo Rivera,Directed,2012,,,1
+Coca-Cola,Jennifer K Mann,Directed,2013,,,1
+Coca-Cola,John Murphy,Directed,2014,,,1
+Coca-Cola,Lisa Chang,Directed,2015,,,1
+Coca-Cola,Francisco Javier Crespo Benite,Directed,2016,,,1
+Coca-Cola,Bernhard Goepelt,Directed,2017,,,1
+Coca-Cola,Julie Hamilton,Directed,2018,,,1
+Coca-Cola,Nancy W Quan,Directed,2019,,,1
+Coca-Cola,"Beatriz R Perez ""Bea""",Directed,2020,,,1
+Coca-Cola,Robert Long,Directed,2021,,,1
+Coca-Cola,Barry Simpson,Directed,2022,,,1
+Coca-Cola,"James L Dinkins ""Jim""",Directed,2023,,,1
+Coca-Cola,"Timothy K Leveridge ""Tim""",Directed,2024,,,1
+Coca-Cola,Larry M Mark,Directed,2025,,,1
+Coca-Cola,Chris Nolan,Directed,2026,,,1
+Coca-Cola,Jennifer Manning,Directed,2027,,,1
+James R Quincey,Coca-Cola,Directed,2028,,,1
+Rite Aid,Bruce G Bodaken,Directed,2029,,,1
+Rite Aid,Heyward R Donigan,Directed,2030,,,1
+Rite Aid,"James J Peters ""Jim""",Directed,2031,,,1
+Rite Aid,Frank G Vitrano,Directed,2032,,,1
+Rite Aid,Jocelyn Zazyczny Konrad,Directed,2033,,,1
+Rite Aid,"Benjamin E Bulkley ""Ben""",Directed,2034,,,1
+Rite Aid,Matthew C Schroeder,Directed,2035,,,1
+Rite Aid,Jessica Kazmaier,Directed,2036,,,1
+Rite Aid,Erik Keptner,Directed,2037,,,1
+Rite Aid,Justin Mennen,Directed,2038,,,1
+Rite Aid,Jim Comitale,Directed,2039,,,1
+Rite Aid,Scott Bernard,Directed,2040,,,1
+Rite Aid,David Kelly,Directed,2041,,,1
+Rite Aid,Rob Mullins,Directed,2042,,,1
+Rite Aid,Ernie Richardsen,Directed,2043,,,1
+Rite Aid,Karen Staniforth,Directed,2044,,,1
+Rite Aid,Brian Hoover,Directed,2045,,,1
+Rite Aid,Nate Newcomer,Directed,2046,,,1
+Rite Aid,"Robert G Oberosler ""Bob""",Directed,2047,,,1
+Rite Aid,Ray G Payne,Directed,2048,,,1
+Rite Aid,Ted Williams,Directed,2049,,,1
+Rite Aid,Byron Purcell,Directed,2050,,,1
+Bruce G Bodaken,Rite Aid,Directed,2051,,,1
+Heyward R Donigan,Rite Aid,Directed,2052,,,1
+Hewlett Packard Enterprise,Enrique Lores,Directed,2053,,,1
+Hewlett Packard Enterprise,Steve Fieler,Directed,2054,,,1
+Hewlett Packard Enterprise,Shane Wall,Directed,2055,,,1
+Hewlett Packard Enterprise,Richard Bailey,Directed,2056,,,1
+Hewlett Packard Enterprise,Vikrant Batra,Directed,2057,,,1
+Hewlett Packard Enterprise,Lesley Slaton Brown,Directed,2058,,,1
+Hewlett Packard Enterprise,Karen Kahn,Directed,2059,,,1
+Hewlett Packard Enterprise,Tracy Suitt Keogh,Directed,2060,,,1
+Hewlett Packard Enterprise,"Stuart Pann ""Stu""",Directed,2061,,,1
+Hewlett Packard Enterprise,Christoph Schell,Directed,2062,,,1
+Hewlett Packard Enterprise,Alex Cho,Directed,2063,,,1
+Hewlett Packard Enterprise,Kim M Rivera,Directed,2064,,,1
+Hewlett Packard Enterprise,Tuan Tran,Directed,2065,,,1
+Hewlett Packard Enterprise,Stephanie Dismore,Directed,2066,,,1
+Hewlett Packard Enterprise,Helena Herrero Starkie,Directed,2067,,,1
+Hewlett Packard Enterprise,Beth Howe,Directed,2068,,,1
+Hewlett Packard Enterprise,Ramon Pastor,Directed,2069,,,1
+Abbott Laboratories,Miles D White,Directed,2070,,,1
+Abbott Laboratories,Robert B Ford,Directed,2071,,,1
+Abbott Laboratories,Brian B Yoor,Directed,2072,,,1
+Abbott Laboratories,Hubert L Allen,Directed,2073,,,1
+Abbott Laboratories,Brian J Blaser,Directed,2074,,,1
+Abbott Laboratories,Dr John M Capek,Directed,2075,,,1
+Abbott Laboratories,John F Ginascol,Directed,2076,,,1
+Abbott Laboratories,Andrew H Lane,Directed,2077,,,1
+Abbott Laboratories,Andrea F Wainer,Directed,2078,,,1
+Abbott Laboratories,Daniel Gesua Sive Salvadori,Directed,2079,,,1
+Abbott Laboratories,Robert E Funck,Directed,2080,,,1
+Abbott Laboratories,Roger M Bird,Directed,2081,,,1
+Abbott Laboratories,"Charles R Brynelsen ""Chuck""",Directed,2082,,,1
+Abbott Laboratories,Jaime Contreras,Directed,2083,,,1
+Abbott Laboratories,Sammy Karam,Directed,2084,,,1
+Abbott Laboratories,Corlis D Murray,Directed,2085,,,1
+Abbott Laboratories,Joseph Manning,Directed,2086,,,1
+Abbott Laboratories,Michael J Pederson,Directed,2087,,,1
+Abbott Laboratories,Christopher J Scoggins,Directed,2088,,,1
+Abbott Laboratories,Jared L Watkin,Directed,2089,,,1
+Abbott Laboratories,Randel W Woodgrift,Directed,2090,,,1
+Abbott Laboratories,Alejandro Diego Wellisch,Directed,2091,,,1
+Abbott Laboratories,Scott Leinenweber,Directed,2092,,,1
+Miles D White,Caterpillar,Directed,2093,,,1
+Miles D White,Abbott Laboratories,Directed,2094,,,1
+Robert B Ford,Abbott Laboratories,Directed,2095,,,1
+Twenty-First Century Fox,Lachlan Keith Murdoch,Directed,2096,,,1
+Twenty-First Century Fox,Keith Rupert Murdoch,Directed,2097,,,1
+Twenty-First Century Fox,Steve Tomsic,Directed,2098,,,1
+Twenty-First Century Fox,John P Nallen,Directed,2099,,,1
+Twenty-First Century Fox,Paul Cheesbrough,Directed,2100,,,1
+Twenty-First Century Fox,Viet D Dinh,Directed,2101,,,1
+Twenty-First Century Fox,Michael Biard,Directed,2102,,,1
+Twenty-First Century Fox,Gary Ehrlich,Directed,2103,,,1
+Twenty-First Century Fox,Marianne Gambelli,Directed,2104,,,1
+Twenty-First Century Fox,Hope Hicks,Directed,2105,,,1
+Twenty-First Century Fox,"Jeffrey A Taylor ""Jeff""",Directed,2106,,,1
+Twenty-First Century Fox,Elizabeth Casey,Directed,2107,,,1
+Twenty-First Century Fox,Danny O'Brien,Directed,2108,,,1
+Twenty-First Century Fox,Raj Shah,Directed,2109,,,1
+Twenty-First Century Fox,Yoel Flohr,Directed,2110,,,1
+Twenty-First Century Fox,Kevin E Lord,Directed,2111,,,1
+Lachlan Keith Murdoch,Twenty-First Century Fox,Directed,2112,,,1
+Keith Rupert Murdoch,Twenty-First Century Fox,Directed,2113,,,1
+Micron Technology,Sanjay Mehrotra,Directed,2114,,,1
+Micron Technology,Trevor Schulze,Directed,2115,,,1
+Micron Technology,Sumit Sadana,Directed,2116,,,1
+Micron Technology,Manish Bhatia,Directed,2117,,,1
+Micron Technology,Scott J Deboer,Directed,2118,,,1
+Micron Technology,David A Zinsner,Directed,2119,,,1
+Micron Technology,Thomas T Eby,Directed,2120,,,1
+Micron Technology,Raj Talluri,Directed,2121,,,1
+Micron Technology,Joel L Poppen,Directed,2122,,,1
+Micron Technology,April S Arnzen,Directed,2123,,,1
+Micron Technology,Wayne R Allan,Directed,2124,,,1
+Micron Technology,Mike Bokan,Directed,2125,,,1
+Micron Technology,Brian M Shirley,Directed,2126,,,1
+Micron Technology,Jeff Verheul,Directed,2127,,,1
+Micron Technology,Paul Marosvari,Directed,2128,,,1
+Sanjay Mehrotra,Micron Technology,Directed,2129,,,1
+Travelers,Alan David Schnitzer,Directed,2130,,,1
+Travelers,"Avrohom J Kess ""AJ""",Directed,2131,,,1
+Travelers,Jay Steven Benet,Directed,2132,,,1
+Travelers,William Heyman,Directed,2133,,,1
+Travelers,Daniel S Frey,Directed,2134,,,1
+Travelers,Mojgan Lefebvre,Directed,2135,,,1
+Travelers,Diane D Bengston,Directed,2136,,,1
+Travelers,"Andrew F Bessette ""Andy""",Directed,2137,,,1
+Travelers,Kevin Christopher Smith,Directed,2138,,,1
+Travelers,Bruce R Jones,Directed,2139,,,1
+Travelers,Christine Kalla,Directed,2140,,,1
+Travelers,David Rowland,Directed,2141,,,1
+Travelers,David Rowland,Directed,2142,,,1
+Travelers,Rick Schug,Directed,2143,,,1
+Travelers,Daniel Yin,Directed,2144,,,1
+Travelers,Behram Dinshaw,Directed,2145,,,1
+Travelers,Scott Higgins,Directed,2146,,,1
+Travelers,Michael F Klein,Directed,2147,,,1
+Travelers,"Thomas M Kunkel ""Tom""",Directed,2148,,,1
+Travelers,William C Malugen Jr,Directed,2149,,,1
+Travelers,"Gregory C Toczydlowski ""Greg",Directed,2150,,,1
+Travelers,Lisa M Caputo,Directed,2151,,,1
+Travelers,Patrick J Kinney,Directed,2152,,,1
+Travelers,Jeffrey P Klenk,Directed,2153,,,1
+Travelers,Nicholas Seminara,Directed,2154,,,1
+Travelers,Joan Kois Woodward,Directed,2155,,,1
+Travelers,Abbe Goldstein,Directed,2156,,,1
+Alan David Schnitzer,Travelers,Directed,2157,,,1
+Lisa M Caputo,Best Buy,Directed,2158,,,1
+"Gregory Boyd Penner ""Greg""",Walmart,Directed,2159,,,1
+"Thomas W Horton ""Tom""",Walmart,Directed,2160,,,1
+"Thomas W Horton ""Tom""",General Electric,Directed,2161,,,1
+Steven S Reinemund,Walmart,Directed,2162,,,1
+Steven S Reinemund,Exxon Mobil,Directed,2163,,,1
+Marissa A Mayer,Walmart,Directed,2164,,,1
+"Timothy P Flynn ""Tim""",Walmart,Directed,2165,,,1
+"Timothy P Flynn ""Tim""",UnitedHealth Group,Directed,2166,,,1
+"Timothy P Flynn ""Tim""",JPMorgan Chase,Directed,2167,,,1
+"Samuel Robson Walton ""Rob""",Walmart,Directed,2168,,,1
+Steuart L Walton,Walmart,Directed,2169,,,1
+Carla Ann Harris,Walmart,Directed,2170,,,1
+Sarah J Friar,Walmart,Directed,2171,,,1
+Ursula M Burns,Exxon Mobil,Directed,2172,,,1
+"Samuel J Palmisano ""Sam""",Exxon Mobil,Directed,2173,,,1
+"William C Weldon ""Bill""",Exxon Mobil,Directed,2174,,,1
+"William C Weldon ""Bill""",CVS Health,Directed,2175,,,1
+"Douglas R Oberhelman ""Doug""",Exxon Mobil,Directed,2176,,,1
+Angela F Braly,Exxon Mobil,Directed,2177,,,1
+Angela F Braly,Lowe's,Directed,2178,,,1
+Angela F Braly,Procter & Gamble,Directed,2179,,,1
+Dr Susan K Avery,Exxon Mobil,Directed,2180,,,1
+Steven A Kandarian,Exxon Mobil,Directed,2181,,,1
+"Dr Arthur D Levinson ""Art""",Apple,Directed,2182,,,1
+"Albert Arnold Gore Jr ""Al""",Apple,Directed,2183,,,1
+"Dr Ronald D Sugar ""Ron""",Apple,Directed,2184,,,1
+"Dr Ronald D Sugar ""Ron""",Chevron,Directed,2185,,,1
+Andrea Jung,Apple,Directed,2186,,,1
+"Susan L Wagner ""Sue""",Apple,Directed,2187,,,1
+James A Bell,Apple,Directed,2188,,,1
+James A Bell,JPMorgan Chase,Directed,2189,,,1
+Walter Scott Jr,Berkshire Hathaway,Directed,2190,,,1
+Howard G Buffett,Berkshire Hathaway,Directed,2191,,,1
+Ronald L Olson,Berkshire Hathaway,Directed,2192,,,1
+Thomas S Murphy,Berkshire Hathaway,Directed,2193,,,1
+Charlotte Guyman,Berkshire Hathaway,Directed,2194,,,1
+"David S Gottesman ""Sandy""",Berkshire Hathaway,Directed,2195,,,1
+"William Henry Gates III ""Bill""",Berkshire Hathaway,Directed,2196,,,1
+"William Henry Gates III ""Bill""",Microsoft,Directed,2197,,,1
+"Susan L Decker ""Sue""",Berkshire Hathaway,Directed,2198,,,1
+"Susan L Decker ""Sue""",Costco Wholesale,Directed,2199,,,1
+Meryl B Witmer,Berkshire Hathaway,Directed,2200,,,1
+"Jonathan Jake Rubinstein ""Jon""",Amazon.com,Directed,2201,,,1
+"Thomas O Ryder ""Tom""",Amazon.com,Directed,2202,,,1
+Jamie S Gorelick,Amazon.com,Directed,2203,,,1
+Judith A McGrath,Amazon.com,Directed,2204,,,1
+Wendell P Weeks,Amazon.com,Directed,2205,,,1
+Wendell P Weeks,Merck,Directed,2206,,,1
+"Dr Daniel P Huttenlocher ""Dan""",Amazon.com,Directed,2207,,,1
+"Patricia Q Stonesifer ""Patty""",Amazon.com,Directed,2208,,,1
+"Rosalind G Brewer ""Roz""",Amazon.com,Directed,2209,,,1
+Indra K Nooyi,Amazon.com,Directed,2210,,,1
+Stephen J Hemsley,UnitedHealth Group,Directed,2211,,,1
+Richard T Burke Sr,UnitedHealth Group,Directed,2212,,,1
+William C Ballard Jr,UnitedHealth Group,Directed,2213,,,1
+Dr Gail R Wilensky,UnitedHealth Group,Directed,2214,,,1
+Michele J Hooper,UnitedHealth Group,Directed,2215,,,1
+Michele J Hooper,United Continental Holdings,Directed,2216,,,1
+Glenn M Renwick,UnitedHealth Group,Directed,2217,,,1
+Valerie C Montgomery Rice,UnitedHealth Group,Directed,2218,,,1
+Frederick William McNabb III,UnitedHealth Group,Directed,2219,,,1
+Frederick William McNabb III,IBM,Directed,2220,,,1
+Dr John H Noseworthy,UnitedHealth Group,Directed,2221,,,1
+Edward Arnold Mueller,McKesson,Directed,2222,,,1
+Marie L Knowles,McKesson,Directed,2223,,,1
+M Christine Jacobs,McKesson,Directed,2224,,,1
+"Dr N Anthony Coles Jr ""Tony""",McKesson,Directed,2225,,,1
+"Donald R Knauss ""Don""",McKesson,Directed,2226,,,1
+"Donald R Knauss ""Don""",Target,Directed,2227,,,1
+Susan R Salka,McKesson,Directed,2228,,,1
+"Bradley E Lerman ""Brad""",McKesson,Directed,2229,,,1
+Dominic J Caruso,McKesson,Directed,2230,,,1
+"David W Dorman ""Dave""",CVS Health,Directed,2231,,,1
+"David W Dorman ""Dave""",Dell Technologies,Directed,2232,,,1
+Richard J Swift,CVS Health,Directed,2233,,,1
+Jean-Pierre Millon,CVS Health,Directed,2234,,,1
+C David Brown II,CVS Health,Directed,2235,,,1
+Tony L White,CVS Health,Directed,2236,,,1
+Nancy-Ann Min Deparle,CVS Health,Directed,2237,,,1
+Nancy-Ann Min Deparle,HCA Healthcare,Directed,2238,,,1
+Richard M Bracken,CVS Health,Directed,2239,,,1
+Alecia A DeCoudreaux,CVS Health,Directed,2240,,,1
+Mary L Schapiro,CVS Health,Directed,2241,,,1
+Mary L Schapiro,Morgan Stanley,Directed,2242,,,1
+"Roger N Farah ""Robert""",CVS Health,Directed,2243,,,1
+"Roger N Farah ""Robert""",Progressive,Directed,2244,,,1
+"Edward J Ludwig ""Ed""",CVS Health,Directed,2245,,,1
+Fernando Aguirre,CVS Health,Directed,2246,,,1
+Mark T Bertolini,CVS Health,Directed,2247,,,1
+Mark T Bertolini,Verizon Communications,Directed,2248,,,1
+"Matthew K Rose ""Matt""",AT&T,Directed,2249,,,1
+Dr Laura D'Andrea Tyson,AT&T,Directed,2250,,,1
+Scott T Ford,AT&T,Directed,2251,,,1
+Michael B McCallister,AT&T,Directed,2252,,,1
+"Cynthia B Taylor ""Cindy""",AT&T,Directed,2253,,,1
+Beth Elaine Mooney,AT&T,Directed,2254,,,1
+Beth Elaine Mooney,Ford Motor,Directed,2255,,,1
+Glenn H Hutchins,AT&T,Directed,2256,,,1
+"William E Kennard ""Bill""",AT&T,Directed,2257,,,1
+"William E Kennard ""Bill""",Ford Motor,Directed,2258,,,1
+"William E Kennard ""Bill""",MetLife,Directed,2259,,,1
+Richard W Fisher,AT&T,Directed,2260,,,1
+Richard W Fisher,PepsiCo,Directed,2261,,,1
+Samuel A Di Piazza Jr,AT&T,Directed,2262,,,1
+"Geoffrey Y Yang ""Geoff""",AT&T,Directed,2263,,,1
+Debra L Lee,AT&T,Directed,2264,,,1
+"Stephen J Luczo ""Steve""",AT&T,Directed,2265,,,1
+"Stephen J Luczo ""Steve""",Morgan Stanley,Directed,2266,,,1
+Dr Jane E Henney,AmerisourceBergen,Directed,2267,,,1
+Henry W McGee,AmerisourceBergen,Directed,2268,,,1
+"Michael J Long ""Mike""",AmerisourceBergen,Directed,2269,,,1
+Richard W Gochnauer,AmerisourceBergen,Directed,2270,,,1
+Kathleen W Hyle,AmerisourceBergen,Directed,2271,,,1
+Lon R Greenberg,AmerisourceBergen,Directed,2272,,,1
+D Mark Durcan,AmerisourceBergen,Directed,2273,,,1
+Enrique Hernandez Jr,Chevron,Directed,2274,,,1
+Charles Wick Moorman IV,Chevron,Directed,2275,,,1
+Charles Wick Moorman IV,Oracle,Directed,2276,,,1
+Dr Prof Alice P Gast,Chevron,Directed,2277,,,1
+Inge G Thulin,Chevron,Directed,2278,,,1
+Inge G Thulin,Merck,Directed,2279,,,1
+Dr Dambisa F Moyo,Chevron,Directed,2280,,,1
+Dr Dambisa F Moyo,3M,Directed,2281,,,1
+Dr Wanda M Austin,Chevron,Directed,2282,,,1
+John Bernkopf Frank,Chevron,Directed,2283,,,1
+"Debra L Reed-Klages ""Debbie""",Chevron,Directed,2284,,,1
+"Debra L Reed-Klages ""Debbie""",Caterpillar,Directed,2285,,,1
+"Debra L Reed-Klages ""Debbie""",Lockheed Martin,Directed,2286,,,1
+Edsel B Ford II,Ford Motor,Directed,2287,,,1
+John Lawson Thornton,Ford Motor,Directed,2288,,,1
+Kimberly Ann Casiano,Ford Motor,Directed,2289,,,1
+Stephen G Butler,Ford Motor,Directed,2290,,,1
+"Anthony F Earley Jr ""Tony""",Ford Motor,Directed,2291,,,1
+"William W Helman IV ""Bill""",Ford Motor,Directed,2292,,,1
+Dr John C Lechleiter,Ford Motor,Directed,2293,,,1
+John S Weinberg,Ford Motor,Directed,2294,,,1
+Lynn M Vojvodich,Ford Motor,Directed,2295,,,1
+Lynn M Vojvodich,Dell Technologies,Directed,2296,,,1
+John Brady Veihmeyer,Ford Motor,Directed,2297,,,1
+"Theodore M Solso ""Tim""",General Motors,Directed,2298,,,1
+Carol M Stephenson,General Motors,Directed,2299,,,1
+Thomas Michael Schoewe,General Motors,Directed,2300,,,1
+"Patricia F Russo ""Pat""",General Motors,Directed,2301,,,1
+"Patricia F Russo ""Pat""",Merck,Directed,2302,,,1
+Linda R Gooden,General Motors,Directed,2303,,,1
+Linda R Gooden,Home Depot,Directed,2304,,,1
+"Joseph Jimenez Jr ""Joe""",General Motors,Directed,2305,,,1
+"Joseph Jimenez Jr ""Joe""",Procter & Gamble,Directed,2306,,,1
+Jane L Mendillo,General Motors,Directed,2307,,,1
+Devin N Wenig,General Motors,Directed,2308,,,1
+"Judith A Miscik ""Jami""",General Motors,Directed,2309,,,1
+"Judith A Miscik ""Jami""",Morgan Stanley,Directed,2310,,,1
+"Wesley G Bush ""Wes""",General Motors,Directed,2311,,,1
+"Wesley G Bush ""Wes""",Cisco Systems,Directed,2312,,,1
+"Hamilton Evans James ""Tony""",Costco Wholesale,Directed,2313,,,1
+John W Meisenbach,Costco Wholesale,Directed,2314,,,1
+"Jeffrey S Raikes ""Jeff""",Costco Wholesale,Directed,2315,,,1
+"Mary Agnes Wilderotter ""Maggie""",Costco Wholesale,Directed,2316,,,1
+John William Stanton,Costco Wholesale,Directed,2317,,,1
+John William Stanton,Microsoft,Directed,2318,,,1
+"Kenneth D Denman ""Ken""",Costco Wholesale,Directed,2319,,,1
+Dr John L Hennessy,Alphabet,Directed,2320,,,1
+L John Doerr,Alphabet,Directed,2321,,,1
+Alan R Mulally,Alphabet,Directed,2322,,,1
+Kavitark Ram Shriram,Alphabet,Directed,2323,,,1
+Ann Mather,Alphabet,Directed,2324,,,1
+Dr Roger W Ferguson Jr,Alphabet,Directed,2325,,,1
+Robin L Washington,Alphabet,Directed,2326,,,1
+Robin L Washington,Honeywell International,Directed,2327,,,1
+"Gregory B Kenny ""Greg""",Cardinal Health,Directed,2328,,,1
+"Calvin Darden ""Cal""",Cardinal Health,Directed,2329,,,1
+"Calvin Darden ""Cal""",Target,Directed,2330,,,1
+Colleen F Arnold,Cardinal Health,Directed,2331,,,1
+Bruce L Downey,Cardinal Health,Directed,2332,,,1
+Carrie Smith Cox,Cardinal Health,Directed,2333,,,1
+"Patricia A Hemingway Hall ""Pat""",Cardinal Health,Directed,2334,,,1
+Nancy Killefer,Cardinal Health,Directed,2335,,,1
+Akhil Johri,Cardinal Health,Directed,2336,,,1
+J Michael Losh,Cardinal Health,Directed,2337,,,1
+John H Weiland,Cardinal Health,Directed,2338,,,1
+Dean A Scarborough,Cardinal Health,Directed,2339,,,1
+William Chapin Foote,Walgreens Boots Alliance,Directed,2340,,,1
+Nancy M Schlichting,Walgreens Boots Alliance,Directed,2341,,,1
+Ginger L Graham,Walgreens Boots Alliance,Directed,2342,,,1
+Dr David J Brailer,Walgreens Boots Alliance,Directed,2343,,,1
+"Janice M Babiak ""Jan""",Walgreens Boots Alliance,Directed,2344,,,1
+Dominic P Murphy,Walgreens Boots Alliance,Directed,2345,,,1
+John A Lederer,Walgreens Boots Alliance,Directed,2346,,,1
+Leonard D Schaeffer,Walgreens Boots Alliance,Directed,2347,,,1
+"Jose E Almeida ""Joe""",Walgreens Boots Alliance,Directed,2348,,,1
+Dr Lee R Raymond,JPMorgan Chase,Directed,2349,,,1
+"James Schine Crown ""Jim""",JPMorgan Chase,Directed,2350,,,1
+"James Schine Crown ""Jim""",General Dynamics,Directed,2351,,,1
+Laban P Jackson Jr,JPMorgan Chase,Directed,2352,,,1
+Linda B Bammann,JPMorgan Chase,Directed,2353,,,1
+"Michael A Neal ""Mike""",JPMorgan Chase,Directed,2354,,,1
+Todd A Combs,JPMorgan Chase,Directed,2355,,,1
+Mellody Hobson,JPMorgan Chase,Directed,2356,,,1
+Clarence Otis Jr,Verizon Communications,Directed,2357,,,1
+Clarence Otis Jr,Travelers,Directed,2358,,,1
+Rodney E Slater,Verizon Communications,Directed,2359,,,1
+Melanie L Healey,Verizon Communications,Directed,2360,,,1
+Melanie L Healey,Target,Directed,2361,,,1
+"Kathryn A Tesija ""Kathee""",Verizon Communications,Directed,2362,,,1
+Shellye L Archambeau,Verizon Communications,Directed,2363,,,1
+"Gregory G Weaver ""Greg""",Verizon Communications,Directed,2364,,,1
+"Daniel H Schulman ""Dan""",Verizon Communications,Directed,2365,,,1
+Vittorio Amedeo Colao,Verizon Communications,Directed,2366,,,1
+Clyde R Moore,Kroger,Directed,2367,,,1
+Bobby S Shackouls,Kroger,Directed,2368,,,1
+Bobby S Shackouls,Plains GP Holdings,Directed,2369,,,1
+James A Runde,Kroger,Directed,2370,,,1
+"Ronald L Sargent ""Ron""",Kroger,Directed,2371,,,1
+"Ronald L Sargent ""Ron""",Wells Fargo,Directed,2372,,,1
+Susan J Kropf,Kroger,Directed,2373,,,1
+Jorge P Montoya,Kroger,Directed,2374,,,1
+Nora A Aufreiter,Kroger,Directed,2375,,,1
+Anne Gates,Kroger,Directed,2376,,,1
+Mark S Sutton,Kroger,Directed,2377,,,1
+Ashok Vemuri,Kroger,Directed,2378,,,1
+"James S Tisch ""Jim""",General Electric,Directed,2379,,,1
+Francisco D'Souza,General Electric,Directed,2380,,,1
+Sebastien M Bazin,General Electric,Directed,2381,,,1
+Dr Risa J Lavizzo-Mourey,General Electric,Directed,2382,,,1
+Dr Risa J Lavizzo-Mourey,Intel,Directed,2383,,,1
+"Edward P Garden ""Ed""",General Electric,Directed,2384,,,1
+Leslie F Seidman,General Electric,Directed,2385,,,1
+Paula Rosput Reynolds,General Electric,Directed,2386,,,1
+"Catherine A Lesjak ""Cathie""",General Electric,Directed,2387,,,1
+Jonathan Plutzik,Fannie Mae,Directed,2388,,,1
+"Robert H Herz ""Bob""",Fannie Mae,Directed,2389,,,1
+"Robert H Herz ""Bob""",Morgan Stanley,Directed,2390,,,1
+Dr Amy E Alving,Fannie Mae,Directed,2391,,,1
+Diane Carol Nordin,Fannie Mae,Directed,2392,,,1
+Renee Lewis Glover,Fannie Mae,Directed,2393,,,1
+"Michael J Heid ""Mike""",Fannie Mae,Directed,2394,,,1
+Antony P Jenkins,Fannie Mae,Directed,2395,,,1
+Ryan A Zanin,Fannie Mae,Directed,2396,,,1
+"Manuel Sanchez Rodriguez ""Manolo""",Fannie Mae,Directed,2397,,,1
+Karin Kimbrough,Fannie Mae,Directed,2398,,,1
+Brian P Brooks,Fannie Mae,Directed,2399,,,1
+Sheila Colleen Bair,Fannie Mae,Directed,2400,,,1
+Glenn F Tilton,Phillips 66,Directed,2401,,,1
+Glenn F Tilton,AbbVie,Directed,2402,,,1
+Glenn F Tilton,Abbott Laboratories,Directed,2403,,,1
+John E Lowe,Phillips 66,Directed,2404,,,1
+Harold W Terry McGraw III,Phillips 66,Directed,2405,,,1
+Harold W Terry McGraw III,United Technologies,Directed,2406,,,1
+J Brian Ferguson,Phillips 66,Directed,2407,,,1
+Victoria J Tschinkel,Phillips 66,Directed,2408,,,1
+Dr Marna C Whittington,Phillips 66,Directed,2409,,,1
+Gary K Adams,Phillips 66,Directed,2410,,,1
+Denise L Ramos,Phillips 66,Directed,2411,,,1
+Denise L Ramos,Bank of America,Directed,2412,,,1
+Denise L Ramos,United Technologies,Directed,2413,,,1
+Charles M Holley Jr,Phillips 66,Directed,2414,,,1
+"Robert A Profusek ""Bob""",Valero Energy,Directed,2415,,,1
+"Donald L Nickles ""Don""",Valero Energy,Directed,2416,,,1
+Stephen M Waters,Valero Energy,Directed,2417,,,1
+"Randall J Weisenburger ""Randy""",Valero Energy,Directed,2418,,,1
+"Rayford Wilkins Jr ""Ray""",Valero Energy,Directed,2419,,,1
+"Rayford Wilkins Jr ""Ray""",Caterpillar,Directed,2420,,,1
+"Rayford Wilkins Jr ""Ray""",Morgan Stanley,Directed,2421,,,1
+"Philip J Pfeiffer ""Phil""",Valero Energy,Directed,2422,,,1
+H Paulett Eberhart,Valero Energy,Directed,2423,,,1
+"Kimberly S Greene ""Kim""",Valero Energy,Directed,2424,,,1
+Jack O Bovender Jr,Bank of America,Directed,2425,,,1
+"Thomas J May ""Tom""",Bank of America,Directed,2426,,,1
+Frank P Bramble Sr,Bank of America,Directed,2427,,,1
+Dr Susan Schmidt Bies,Bank of America,Directed,2428,,,1
+Linda P Hudson,Bank of America,Directed,2429,,,1
+Sharon L Allen,Bank of America,Directed,2430,,,1
+Sharon L Allen,Albertsons,Directed,2431,,,1
+Arnold W Donald,Bank of America,Directed,2432,,,1
+Lionel L Nowell III,Bank of America,Directed,2433,,,1
+Pierre J P De Weck,Bank of America,Directed,2434,,,1
+"Thomas D Woods ""Tom""",Bank of America,Directed,2435,,,1
+"Michael D White ""Mike""",Bank of America,Directed,2436,,,1
+Dr Maria T Zuber,Bank of America,Directed,2437,,,1
+John W Thompson,Microsoft,Directed,2438,,,1
+Teri List-Stoll,Microsoft,Directed,2439,,,1
+Padmasree Y Warrior,Microsoft,Directed,2440,,,1
+"Sandra E Peterson ""Sandi""",Microsoft,Directed,2441,,,1
+Reid Garrett Hoffman,Microsoft,Directed,2442,,,1
+Penny S Pritzker,Microsoft,Directed,2443,,,1
+Arne M Sorenson,Microsoft,Directed,2444,,,1
+Emma Walmsley,Microsoft,Directed,2445,,,1
+Dr Helmut Gunter Wilhelm Panke,Microsoft,Directed,2446,,,1
+"Charles H Noski ""Chuck""",Microsoft,Directed,2447,,,1
+"Charles H Noski ""Chuck""",Wells Fargo,Directed,2448,,,1
+"Gregory D Brenneman ""Greg""",Home Depot,Directed,2449,,,1
+Ari Bousbib,Home Depot,Directed,2450,,,1
+"Albert P Carey ""Al""",Home Depot,Directed,2451,,,1
+Joseph Frank Brown,Home Depot,Directed,2452,,,1
+Helena B Foulkes,Home Depot,Directed,2453,,,1
+Wayne M Hewett,Home Depot,Directed,2454,,,1
+Wayne M Hewett,Wells Fargo,Directed,2455,,,1
+Gerard J Arpey,Home Depot,Directed,2456,,,1
+Jeffery H Boyd,Home Depot,Directed,2457,,,1
+Stephanie C Linnartz,Home Depot,Directed,2458,,,1
+"Manuel Kadre ""Manny""",Home Depot,Directed,2459,,,1
+"David L Calhoun ""Dave""",Boeing,Directed,2460,,,1
+"David L Calhoun ""Dave""",Caterpillar,Directed,2461,,,1
+"Michael S Zafirovski ""Mike""",Boeing,Directed,2462,,,1
+"Arthur D Collins Jr ""Art""",Boeing,Directed,2463,,,1
+Adm Edmund P Giambastiani Jr,Boeing,Directed,2464,,,1
+Prof Dr Susan C Schwab,Boeing,Directed,2465,,,1
+Prof Dr Susan C Schwab,FedEx,Directed,2466,,,1
+Prof Dr Susan C Schwab,Caterpillar,Directed,2467,,,1
+"Edward M Liddy ""Ed""",Boeing,Directed,2468,,,1
+"Edward M Liddy ""Ed""",3M,Directed,2469,,,1
+"Edward M Liddy ""Ed""",AbbVie,Directed,2470,,,1
+"Edward M Liddy ""Ed""",Abbott Laboratories,Directed,2471,,,1
+"Ronald A Williams ""Ron""",Boeing,Directed,2472,,,1
+"Ronald A Williams ""Ron""",Johnson & Johnson,Directed,2473,,,1
+"Ronald A Williams ""Ron""",American Express,Directed,2474,,,1
+"Lawrence W Kellner ""Larry""",Boeing,Directed,2475,,,1
+Lynn J Good,Boeing,Directed,2476,,,1
+Robert A Bradway,Boeing,Directed,2477,,,1
+Caroline B Kennedy,Boeing,Directed,2478,,,1
+Nikki R Haley,Boeing,Directed,2479,,,1
+Adm John M Richardson,Boeing,Directed,2480,,,1
+Adm John M Richardson,Exelon,Directed,2481,,,1
+"Elizabeth Ashburn Duke ""Betsy""",Wells Fargo,Directed,2482,,,1
+"Donald M James ""Don""",Wells Fargo,Directed,2483,,,1
+John D Baker II,Wells Fargo,Directed,2484,,,1
+"James H Quigley ""Jim""",Wells Fargo,Directed,2485,,,1
+"Maj Gen Suzanne M Vautrinot ""Zan""",Wells Fargo,Directed,2486,,,1
+Juan A Pujadas,Wells Fargo,Directed,2487,,,1
+Dr Celeste A Clark,Wells Fargo,Directed,2488,,,1
+"Theodore F Craver Jr ""Ted""",Wells Fargo,Directed,2489,,,1
+Maria R Morris,Wells Fargo,Directed,2490,,,1
+"Richard Payne Jr ""Dick""",Wells Fargo,Directed,2491,,,1
+John C Dugan,Citigroup,Directed,2492,,,1
+Diana Lancaster Taylor,Citigroup,Directed,2493,,,1
+Dr Ernesto Zedillo Ponce De Leon,Citigroup,Directed,2494,,,1
+Gary M Reiner,Citigroup,Directed,2495,,,1
+"James S Turley ""Jim""",Citigroup,Directed,2496,,,1
+Duncan Pratt Hennes,Citigroup,Directed,2497,,,1
+Dr Peter Blair Henry,Citigroup,Directed,2498,,,1
+Dr Peter Blair Henry,Nike,Directed,2499,,,1
+"Eugene M McQuade ""Gene""",Citigroup,Directed,2500,,,1
+Ellen M Costello,Citigroup,Directed,2501,,,1
+Renee J James,Citigroup,Directed,2502,,,1
+Renee J James,Oracle,Directed,2503,,,1
+Deborah C Wright,Citigroup,Directed,2504,,,1
+S Leslie Ireland,Citigroup,Directed,2505,,,1
+"Lew W Jacobs IV ""Jay""",Citigroup,Directed,2506,,,1
+Barbara J Desoer,Citigroup,Directed,2507,,,1
+"Alexander R Wynaendts ""Alex""",Citigroup,Directed,2508,,,1
+Grace E Dailey,Citigroup,Directed,2509,,,1
+James E Rohr,Marathon Petroleum,Directed,2510,,,1
+John P Surma,Marathon Petroleum,Directed,2511,,,1
+B Evan Bayh III,Marathon Petroleum,Directed,2512,,,1
+"Steven A Davis ""Steve""",Marathon Petroleum,Directed,2513,,,1
+"Steven A Davis ""Steve""",Albertsons,Directed,2514,,,1
+Charles E Bunch,Marathon Petroleum,Directed,2515,,,1
+Charles E Bunch,ConocoPhillips,Directed,2516,,,1
+Abdulaziz Fahad Al-Khayyal,Marathon Petroleum,Directed,2517,,,1
+"J Michael Stice ""Mike""",Marathon Petroleum,Directed,2518,,,1
+Susan Tomasky,Marathon Petroleum,Directed,2519,,,1
+"Edward G Galante ""Ed""",Marathon Petroleum,Directed,2520,,,1
+Kim K W Rucker,Marathon Petroleum,Directed,2521,,,1
+Frank M Semple,Marathon Petroleum,Directed,2522,,,1
+Sheldon M Bonovitz,Comcast,Directed,2523,,,1
+"Kenneth J Bacon ""Ken""",Comcast,Directed,2524,,,1
+"Jeffrey A Honickman ""Jeff""",Comcast,Directed,2525,,,1
+Gerald L Hassell,Comcast,Directed,2526,,,1
+Gerald L Hassell,MetLife,Directed,2527,,,1
+Madeline S Bell,Comcast,Directed,2528,,,1
+David C Novak,Comcast,Directed,2529,,,1
+Asuka Nakahara,Comcast,Directed,2530,,,1
+Maritza Gomez Montiel,Comcast,Directed,2531,,,1
+Elizabeth E Tallett,Anthem,Directed,2532,,,1
+"Ramiro G Peru ""Ramey""",Anthem,Directed,2533,,,1
+Julie A Hill,Anthem,Directed,2534,,,1
+Robert L Dixon Jr,Anthem,Directed,2535,,,1
+"Lewis Hay III ""Lew""",Anthem,Directed,2536,,,1
+R Kerry Clark,Anthem,Directed,2537,,,1
+Antonio Fabio Neri,Anthem,Directed,2538,,,1
+Dr Bahija Jallal,Anthem,Directed,2539,,,1
+Ryan M Schneider,Anthem,Directed,2540,,,1
+Michael S Dell,Dell Technologies,Directed,2541,,,1
+Simon Patterson,Dell Technologies,Directed,2542,,,1
+Ellen J Kullman,Dell Technologies,Directed,2543,,,1
+Ellen J Kullman,United Technologies,Directed,2544,,,1
+Ellen J Kullman,Goldman Sachs Group,Directed,2545,,,1
+"William D Green ""Bill""",Dell Technologies,Directed,2546,,,1
+Egon Pierre Durban,Dell Technologies,Directed,2547,,,1
+Alexander M Cutler,DuPont de Nemours,Directed,2548,,,1
+"Rajiv L Gupta ""Raj""",DuPont de Nemours,Directed,2549,,,1
+Steven M Sterin,DuPont de Nemours,Directed,2550,,,1
+"Luther C Kissam IV ""Luke""",DuPont de Nemours,Directed,2551,,,1
+"Raymond J Milchovich ""Ray""",DuPont de Nemours,Directed,2552,,,1
+Eleuthere I Du Pont II,DuPont de Nemours,Directed,2553,,,1
+Ruby R Chandy,DuPont de Nemours,Directed,2554,,,1
+Terrence R Curtin,DuPont de Nemours,Directed,2555,,,1
+Frederick M Lowery,DuPont de Nemours,Directed,2556,,,1
+Franklin K Clyburn Jr,DuPont de Nemours,Directed,2557,,,1
+Amy G Brady,DuPont de Nemours,Directed,2558,,,1
+Anne M Mulcahy,Johnson & Johnson,Directed,2559,,,1
+Charles Prince III,Johnson & Johnson,Directed,2560,,,1
+William D Perez,Johnson & Johnson,Directed,2561,,,1
+Ian E L Davis,Johnson & Johnson,Directed,2562,,,1
+Dr A Eugene Washington,Johnson & Johnson,Directed,2563,,,1
+Dr Mark B McClellan,Johnson & Johnson,Directed,2564,,,1
+Dr Mark B McClellan,Cigna,Directed,2565,,,1
+D Scott Davis,Johnson & Johnson,Directed,2566,,,1
+D Scott Davis,Honeywell International,Directed,2567,,,1
+Dr Mary C Beckerle,Johnson & Johnson,Directed,2568,,,1
+Dr Jennifer A Doudna,Johnson & Johnson,Directed,2569,,,1
+"Michael L Eskew ""Mike""",IBM,Directed,2570,,,1
+"Michael L Eskew ""Mike""",Allstate,Directed,2571,,,1
+"Michael L Eskew ""Mike""",3M,Directed,2572,,,1
+Sidney Taurel,IBM,Directed,2573,,,1
+Dr Shirley Ann Jackson,IBM,Directed,2574,,,1
+Dr Shirley Ann Jackson,FedEx,Directed,2575,,,1
+Andrew N Liveris,IBM,Directed,2576,,,1
+David N Farr,IBM,Directed,2577,,,1
+Peter R Voser,IBM,Directed,2578,,,1
+"Frederick H Waddell II ""Rick""",IBM,Directed,2579,,,1
+"Frederick H Waddell II ""Rick""",AbbVie,Directed,2580,,,1
+"Joseph R Swedish ""Joe""",IBM,Directed,2581,,,1
+Dr Martha E Pollack,IBM,Directed,2582,,,1
+Adm Michelle J Howard,IBM,Directed,2583,,,1
+Thomas Buberl,IBM,Directed,2584,,,1
+Douglas M Baker Jr,Target,Directed,2585,,,1
+Mary Ellen Minnick,Target,Directed,2586,,,1
+Henrique De Castro,Target,Directed,2587,,,1
+"Kenneth Lee Salazar ""Ken""",Target,Directed,2588,,,1
+Roxanne S Austin,Target,Directed,2589,,,1
+Roxanne S Austin,AbbVie,Directed,2590,,,1
+Roxanne S Austin,Abbott Laboratories,Directed,2591,,,1
+Robert L Edwards,Target,Directed,2592,,,1
+Monica C Lozano,Target,Directed,2593,,,1
+Dmitri Lysander Stockton,Target,Directed,2594,,,1
+Dmitri Lysander Stockton,Deere,Directed,2595,,,1
+George S Barrett,Target,Directed,2596,,,1
+S Sara Mathew,Freddie Mac,Directed,2597,,,1
+Eugene B Shanks Jr,Freddie Mac,Directed,2598,,,1
+"Dr Steven W Kohlhagen ""Steve""",Freddie Mac,Directed,2599,,,1
+"Saiyid T Naqvi ""Sy""",Freddie Mac,Directed,2600,,,1
+Lance F Drummond,Freddie Mac,Directed,2601,,,1
+Grace A Huebscher,Freddie Mac,Directed,2602,,,1
+Christopher E Herbert,Freddie Mac,Directed,2603,,,1
+Aleem Gillani,Freddie Mac,Directed,2604,,,1
+"Kathleen L Casey ""Kathy""",Freddie Mac,Directed,2605,,,1
+"William R Johnson ""Bill""",United Parcel Service,Directed,2606,,,1
+"William R Johnson ""Bill""",PepsiCo,Directed,2607,,,1
+Ann M Livermore,United Parcel Service,Directed,2608,,,1
+Carol B Tome,United Parcel Service,Directed,2609,,,1
+Carol B Tome,Cisco Systems,Directed,2610,,,1
+Michael J Burns,United Parcel Service,Directed,2611,,,1
+"Rudolf Harold Peter Markham ""Rudy""",United Parcel Service,Directed,2612,,,1
+"Clark T Randt Jr ""Sandy""",United Parcel Service,Directed,2613,,,1
+Kevin M Warsh,United Parcel Service,Directed,2614,,,1
+"Rodney C Adkins ""Rod""",United Parcel Service,Directed,2615,,,1
+Franck J Moison,United Parcel Service,Directed,2616,,,1
+Christiana Smith Shi,United Parcel Service,Directed,2617,,,1
+"Richard W Dreiling ""Rick""",Lowe's,Directed,2618,,,1
+"Ralph Alvarez ""Raul""",Lowe's,Directed,2619,,,1
+Eric C Wiseman,Lowe's,Directed,2620,,,1
+Eric C Wiseman,Cigna,Directed,2621,,,1
+"James H Morgan Jr ""Jim""",Lowe's,Directed,2622,,,1
+"Bertram L Scott ""Bert""",Lowe's,Directed,2623,,,1
+"Sandra B Cochran ""Sandy""",Lowe's,Directed,2624,,,1
+David H Batchelder,Lowe's,Directed,2625,,,1
+Brian Charles Rogers,Lowe's,Directed,2626,,,1
+Brian Charles Rogers,United Technologies,Directed,2627,,,1
+Lisa W Wardell,Lowe's,Directed,2628,,,1
+Omar S Ishrak,Intel,Directed,2629,,,1
+Reed E Hundt,Intel,Directed,2630,,,1
+Frank D Yeary,Intel,Directed,2631,,,1
+Dr Tsu-Jae King Liu,Intel,Directed,2632,,,1
+Andrew Wilson,Intel,Directed,2633,,,1
+"James J Goetz ""Jim""",Intel,Directed,2634,,,1
+Dr Robert Glenn Hubbard,MetLife,Directed,2635,,,1
+"James Marshall Kilts ""Jim""",MetLife,Directed,2636,,,1
+"James Marshall Kilts ""Jim""",Pfizer,Directed,2637,,,1
+Catherine R Kinney,MetLife,Directed,2638,,,1
+Hon Carlos M Gutierrez,MetLife,Directed,2639,,,1
+Denise M Morrison,MetLife,Directed,2640,,,1
+"Edward J Kelly III ""Ned""",MetLife,Directed,2641,,,1
+David L Herzog,MetLife,Directed,2642,,,1
+Cheryl W Grise,MetLife,Directed,2643,,,1
+Diana McKenzie,MetLife,Directed,2644,,,1
+Mark A Weinberger,MetLife,Directed,2645,,,1
+W James McNerney Jr,Procter & Gamble,Directed,2646,,,1
+Scott D Cook,Procter & Gamble,Directed,2647,,,1
+Patricia Ann Woertz,Procter & Gamble,Directed,2648,,,1
+Patricia Ann Woertz,3M,Directed,2649,,,1
+"Margaret C Whitman ""Meg""",Procter & Gamble,Directed,2650,,,1
+Terry J Lundgren,Procter & Gamble,Directed,2651,,,1
+"Francis Stanton Blake ""Frank""",Procter & Gamble,Directed,2652,,,1
+"Francis Stanton Blake ""Frank""",Delta Air Lines,Directed,2653,,,1
+Nelson Peltz,Procter & Gamble,Directed,2654,,,1
+Nelson Peltz,Sysco,Directed,2655,,,1
+Dr Jean-Pierre Garnier,United Technologies,Directed,2656,,,1
+John Vincent Faraci,United Technologies,Directed,2657,,,1
+John Vincent Faraci,ConocoPhillips,Directed,2658,,,1
+Marshall O Larsen,United Technologies,Directed,2659,,,1
+"Fredric G Reynolds ""Fred""",United Technologies,Directed,2660,,,1
+Gen Lloyd J Austin III,United Technologies,Directed,2661,,,1
+Diane M Bryant,United Technologies,Directed,2662,,,1
+Dr Meghan L O'Sullivan,United Technologies,Directed,2663,,,1
+"Christopher J Kearney ""Chris""",United Technologies,Directed,2664,,,1
+David P Steiner,FedEx,Directed,2665,,,1
+Paul S Walsh,FedEx,Directed,2666,,,1
+John A Edwardson,FedEx,Directed,2667,,,1
+R Brad Martin,FedEx,Directed,2668,,,1
+Joshua Cooper Ramo,FedEx,Directed,2669,,,1
+"Kimberly A Jabal ""Kim""",FedEx,Directed,2670,,,1
+"John C Inglis ""Chris""",FedEx,Directed,2671,,,1
+Ian M Cook,PepsiCo,Directed,2672,,,1
+"Dr Daniel L Vasella ""Dan""",PepsiCo,Directed,2673,,,1
+"Dr Daniel L Vasella ""Dan""",American Express,Directed,2674,,,1
+Dina Dublon,PepsiCo,Directed,2675,,,1
+Shona L Brown,PepsiCo,Directed,2676,,,1
+Alberto Weisser,PepsiCo,Directed,2677,,,1
+Dr David C Page,PepsiCo,Directed,2678,,,1
+"Robert C Pohlad ""Bob""",PepsiCo,Directed,2679,,,1
+Cesar R Conde,PepsiCo,Directed,2680,,,1
+Darren Walker,PepsiCo,Directed,2681,,,1
+Michelle D Gass,PepsiCo,Directed,2682,,,1
+Donald E Felsinger,Archer Daniels Midland,Directed,2683,,,1
+"Patrick J Moore ""Pat""",Archer Daniels Midland,Directed,2684,,,1
+Kelvin R Westbrook,Archer Daniels Midland,Directed,2685,,,1
+Pierre Dufour,Archer Daniels Midland,Directed,2686,,,1
+"Terrell K Crews ""Terry""",Archer Daniels Midland,Directed,2687,,,1
+Francisco J Sanchez,Archer Daniels Midland,Directed,2688,,,1
+Debra A Sandler,Archer Daniels Midland,Directed,2689,,,1
+Suzan F Harrison,Archer Daniels Midland,Directed,2690,,,1
+"Michael S Burke ""Mike""",Archer Daniels Midland,Directed,2691,,,1
+Dr Lei Zhang Schlitz,Archer Daniels Midland,Directed,2692,,,1
+"Thomas Jeremiah Baltimore Jr ""Tom""",Prudential Financial,Directed,2693,,,1
+Gilbert Fran Casellas,Prudential Financial,Directed,2694,,,1
+"Christine A Poon ""Chris""",Prudential Financial,Directed,2695,,,1
+Martina Hund-Mejean,Prudential Financial,Directed,2696,,,1
+Douglas A Scovanner,Prudential Financial,Directed,2697,,,1
+Sandra Pianalto,Prudential Financial,Directed,2698,,,1
+"Michael A Todman ""Mike""",Prudential Financial,Directed,2699,,,1
+Peter Rupert Lighte,Prudential Financial,Directed,2700,,,1
+George Paz,Prudential Financial,Directed,2701,,,1
+George Paz,Honeywell International,Directed,2702,,,1
+Karl John Krapek,Prudential Financial,Directed,2703,,,1
+Robert K Ditmore,Centene,Directed,2704,,,1
+"David L Steward ""Dave""",Centene,Directed,2705,,,1
+John R Roberts,Centene,Directed,2706,,,1
+Hon Tommy G Thompson,Centene,Directed,2707,,,1
+Frederick H Eppinger Jr,Centene,Directed,2708,,,1
+"Richard A Gephardt ""Dick""",Centene,Directed,2709,,,1
+Orlando Ayala,Centene,Directed,2710,,,1
+Jessica L Blume,Centene,Directed,2711,,,1
+Jessica L Blume,Publix Super Markets,Directed,2712,,,1
+Gen Lori J Robinson,Centene,Directed,2713,,,1
+Lenard B Tessler,Albertsons,Directed,2714,,,1
+Brian Kevin Turner,Albertsons,Directed,2715,,,1
+"James L Donald ""Jim""",Albertsons,Directed,2716,,,1
+"Leonard Laufer ""Len""",Albertsons,Directed,2717,,,1
+Jay L Schottenstein,Albertsons,Directed,2718,,,1
+Dean Stewart Adler,Albertsons,Directed,2719,,,1
+Ronald J Kravit,Albertsons,Directed,2720,,,1
+Hersch Klaff,Albertsons,Directed,2721,,,1
+Lisa Ann Gray,Albertsons,Directed,2722,,,1
+Scott R Wille,Albertsons,Directed,2723,,,1
+Kim S Fennebresque,Albertsons,Directed,2724,,,1
+Alan H Schumacher,Albertsons,Directed,2725,,,1
+"Robert G Miller ""Bob""",Albertsons,Directed,2726,,,1
+Allen Gibson,Albertsons,Directed,2727,,,1
+Susan E Arnold,Walt Disney,Directed,2728,,,1
+"Maria Elena Lagomasino ""Mel""",Walt Disney,Directed,2729,,,1
+"Maria Elena Lagomasino ""Mel""",Coca-Cola,Directed,2730,,,1
+Francis A Desouza,Walt Disney,Directed,2731,,,1
+"Michael B Froman ""Mike""",Walt Disney,Directed,2732,,,1
+John M Cassaday,Sysco,Directed,2733,,,1
+Nancy S Newcomb,Sysco,Directed,2734,,,1
+Dr Hans-Joachim Koerber,Sysco,Directed,2735,,,1
+Larry C Glasscock,Sysco,Directed,2736,,,1
+"Joshua D Frank ""Josh""",Sysco,Directed,2737,,,1
+"Edward D Shirley ""Ed""",Sysco,Directed,2738,,,1
+"Edward D Shirley ""Ed""",New York Life Insurance,Directed,2739,,,1
+"Bradley M Halverson ""Brad""",Sysco,Directed,2740,,,1
+"Daniel J Brutto ""Dan""",Sysco,Directed,2741,,,1
+Sheila G Talton,Sysco,Directed,2742,,,1
+Sheila G Talton,Deere,Directed,2743,,,1
+John M Hinshaw,Sysco,Directed,2744,,,1
+"Charles V Bergh ""Chip""",HP,Directed,2745,,,1
+"Charles V Bergh ""Chip""",Hewlett Packard Enterprise,Directed,2746,,,1
+Dr Shumeet Banerji,HP,Directed,2747,,,1
+Dr Shumeet Banerji,Hewlett Packard Enterprise,Directed,2748,,,1
+"Robert R Bennett ""Dob""",HP,Directed,2749,,,1
+"Robert R Bennett ""Dob""",Hewlett Packard Enterprise,Directed,2750,,,1
+Stacey J Mobley,HP,Directed,2751,,,1
+Stacey J Mobley,Hewlett Packard Enterprise,Directed,2752,,,1
+Dr Stephanie Ann Burns,HP,Directed,2753,,,1
+Dr Stephanie Ann Burns,Hewlett Packard Enterprise,Directed,2754,,,1
+Mary Anne Citrino,HP,Directed,2755,,,1
+Mary Anne Citrino,Hewlett Packard Enterprise,Directed,2756,,,1
+Dion J Weisler,HP,Directed,2757,,,1
+Dion J Weisler,Hewlett Packard Enterprise,Directed,2758,,,1
+Dr Subra Suresh,HP,Directed,2759,,,1
+Dr Subra Suresh,Hewlett Packard Enterprise,Directed,2760,,,1
+Stacy Brown-Philpot,HP,Directed,2761,,,1
+Stacy Brown-Philpot,Hewlett Packard Enterprise,Directed,2762,,,1
+Aida M Alvarez,HP,Directed,2763,,,1
+Aida M Alvarez,Hewlett Packard Enterprise,Directed,2764,,,1
+Yoky Matsuoka,HP,Directed,2765,,,1
+Yoky Matsuoka,Hewlett Packard Enterprise,Directed,2766,,,1
+Kurt J Hilzinger,Humana,Directed,2767,,,1
+W Roy Dunbar,Humana,Directed,2768,,,1
+"James J O'Brien ""Jim""",Humana,Directed,2769,,,1
+William J McDonald,Humana,Directed,2770,,,1
+Marissa T Peterson,Humana,Directed,2771,,,1
+David Avren Jones Jr,Humana,Directed,2772,,,1
+Frank J Bisignano,Humana,Directed,2773,,,1
+Dr Karen B Desalvo,Humana,Directed,2774,,,1
+Karen W Katz,Humana,Directed,2775,,,1
+Peter A Thiel,Facebook,Directed,2776,,,1
+Marc Lowell Andreessen,Facebook,Directed,2777,,,1
+"Kenneth I Chenault ""Ken""",Facebook,Directed,2778,,,1
+"Jeffrey D Zients ""Jeff""",Facebook,Directed,2779,,,1
+Peggy Abkemeier Alford,Facebook,Directed,2780,,,1
+Juan Antonio Cortina Gallardo Thurlow,Caterpillar,Directed,2781,,,1
+William A Osborn,Caterpillar,Directed,2782,,,1
+William A Osborn,General Dynamics,Directed,2783,,,1
+William A Osborn,Abbott Laboratories,Directed,2784,,,1
+"Daniel McKenzie Dickinson ""Dan""",Caterpillar,Directed,2785,,,1
+"Edward B Rust Jr ""Ed""",Caterpillar,Directed,2786,,,1
+Kelly A Ayotte,Caterpillar,Directed,2787,,,1
+John W McReynolds,Energy Transfer,Directed,2788,,,1
+Michael K Grimm,Energy Transfer,Directed,2789,,,1
+"Richard D Brannon ""Dick""",Energy Transfer,Directed,2790,,,1
+Steven R Anderson,Energy Transfer,Directed,2791,,,1
+Ray C Davis,Energy Transfer,Directed,2792,,,1
+Ray W Washburne,Energy Transfer,Directed,2793,,,1
+Adm James O Ellis Jr,Lockheed Martin,Directed,2794,,,1
+David Boyd Burritt,Lockheed Martin,Directed,2795,,,1
+"Thomas J Falk ""Tom""",Lockheed Martin,Directed,2796,,,1
+"Daniel Francis Akerson ""Dan""",Lockheed Martin,Directed,2797,,,1
+Brig Gen Bruce A Carlson,Lockheed Martin,Directed,2798,,,1
+Ilene S Gordon,Lockheed Martin,Directed,2799,,,1
+James D Taiclet Jr,Lockheed Martin,Directed,2800,,,1
+Hon Jeh Charles Johnson,Lockheed Martin,Directed,2801,,,1
+Vicki A Hollub,Lockheed Martin,Directed,2802,,,1
+Shantanu Narayen,Pfizer,Directed,2803,,,1
+W Don Cornwell,Pfizer,Directed,2804,,,1
+W Don Cornwell,AIG,Directed,2805,,,1
+Suzanne Nora Johnson,Pfizer,Directed,2806,,,1
+Suzanne Nora Johnson,AIG,Directed,2807,,,1
+Dr Helen H Hobbs,Pfizer,Directed,2808,,,1
+"James Clifton Smith ""Jim""",Pfizer,Directed,2809,,,1
+"Joseph J Echevarria Jr ""Joe""",Pfizer,Directed,2810,,,1
+"Ronald E Blaylock ""Ron""",Pfizer,Directed,2811,,,1
+Dr Dan R Littman,Pfizer,Directed,2812,,,1
+Dr Scott Gottlieb,Pfizer,Directed,2813,,,1
+"Adebayo Olusegu Ogunlesi ""Bayo""",Goldman Sachs Group,Directed,2814,,,1
+Lakshmi N Mittal,Goldman Sachs Group,Directed,2815,,,1
+M Michele Burns,Goldman Sachs Group,Directed,2816,,,1
+M Michele Burns,Cisco Systems,Directed,2817,,,1
+David A Viniar,Goldman Sachs Group,Directed,2818,,,1
+Peter Oppenheimer,Goldman Sachs Group,Directed,2819,,,1
+Mark O Winkelman,Goldman Sachs Group,Directed,2820,,,1
+Mark A Flaherty,Goldman Sachs Group,Directed,2821,,,1
+Dr Drew Gilpin Faust,Goldman Sachs Group,Directed,2822,,,1
+Jan E Tighe,Goldman Sachs Group,Directed,2823,,,1
+"Thomas Henry Glocer ""Tom""",Morgan Stanley,Directed,2824,,,1
+"Thomas Henry Glocer ""Tom""",Merck,Directed,2825,,,1
+Hutham S Olayan,Morgan Stanley,Directed,2826,,,1
+Perry Marques Traquina,Morgan Stanley,Directed,2827,,,1
+Perry Marques Traquina,Allstate,Directed,2828,,,1
+Nobuyuki Hirano,Morgan Stanley,Directed,2829,,,1
+Rt Hon Alistair Maclean Darling,Morgan Stanley,Directed,2830,,,1
+Dennis M Nally,Morgan Stanley,Directed,2831,,,1
+Elizabeth Corley,Morgan Stanley,Directed,2832,,,1
+Takeshi Ogasawara,Morgan Stanley,Directed,2833,,,1
+Michael D Capellas,Cisco Systems,Directed,2834,,,1
+"Roderick C McGeary ""Rod""",Cisco Systems,Directed,2835,,,1
+Arun Sarin,Cisco Systems,Directed,2836,,,1
+Dr Kristina M Johnson,Cisco Systems,Directed,2837,,,1
+"Brenton L Saunders ""Brent""",Cisco Systems,Directed,2838,,,1
+Mark S Garrett,Cisco Systems,Directed,2839,,,1
+Steven M West,Cisco Systems,Directed,2840,,,1
+"Isaiah Harris Jr ""Ike""",Cigna,Directed,2841,,,1
+Donna F Zarcone,Cigna,Directed,2842,,,1
+Roman Martinez IV,Cigna,Directed,2843,,,1
+John M Partridge,Cigna,Directed,2844,,,1
+Eric J Foss,Cigna,Directed,2845,,,1
+"Dr William L Roper ""Bill""",Cigna,Directed,2846,,,1
+"Kathleen M Mazzarella ""Kathy""",Cigna,Directed,2847,,,1
+"William J Delaney ""Bill""",Cigna,Directed,2848,,,1
+Maj Gen Dr Elder Granger,Cigna,Directed,2849,,,1
+Kimberly A Ross,Cigna,Directed,2850,,,1
+Douglas M Steenland,AIG,Directed,2851,,,1
+Christopher S Lynch,AIG,Directed,2852,,,1
+Henry Stephen Miller,AIG,Directed,2853,,,1
+John H Fitzpatrick,AIG,Directed,2854,,,1
+"William G Jurgensen ""Jerry""",AIG,Directed,2855,,,1
+Linda A Mills,AIG,Directed,2856,,,1
+"Thomas F Motamed ""Tom""",AIG,Directed,2857,,,1
+Peter R Porrino,AIG,Directed,2858,,,1
+"Therese E Vaughan ""Terri""",AIG,Directed,2859,,,1
+Amy L Schioldager,AIG,Directed,2860,,,1
+"Thomas F Frist III ""Tommy""",HCA Healthcare,Directed,2861,,,1
+William R Frist,HCA Healthcare,Directed,2862,,,1
+Geoffrey G Meyers,HCA Healthcare,Directed,2863,,,1
+Dr Wayne Joseph Riley,HCA Healthcare,Directed,2864,,,1
+"Robert J Dennis ""Bob""",HCA Healthcare,Directed,2865,,,1
+Dr John Wallis Rowe,HCA Healthcare,Directed,2866,,,1
+"Charles O Holliday Jr ""Chad""",HCA Healthcare,Directed,2867,,,1
+"Charles O Holliday Jr ""Chad""",Deere,Directed,2868,,,1
+Michael W Michelson,HCA Healthcare,Directed,2869,,,1
+Meg Gilbert Crofton,HCA Healthcare,Directed,2870,,,1
+John T Cahill,American Airlines Group,Directed,2871,,,1
+Ray M Robinson Jr,American Airlines Group,Directed,2872,,,1
+Denise M O'Leary,American Airlines Group,Directed,2873,,,1
+Jeffrey D Benjamin,American Airlines Group,Directed,2874,,,1
+Matthew J Hart,American Airlines Group,Directed,2875,,,1
+"James F Albaugh ""Jim""",American Airlines Group,Directed,2876,,,1
+Michael J Embler,American Airlines Group,Directed,2877,,,1
+Susan D Kronick,American Airlines Group,Directed,2878,,,1
+"Martin Hughes Nesbitt ""Marty""",American Airlines Group,Directed,2879,,,1
+"David G Dewalt ""Dave""",Delta Air Lines,Directed,2880,,,1
+George N Mattson,Delta Air Lines,Directed,2881,,,1
+"William H Easter III ""Bill""",Delta Air Lines,Directed,2882,,,1
+Sergio Agapito Lires Rial,Delta Air Lines,Directed,2883,,,1
+Kathy N Waller,Delta Air Lines,Directed,2884,,,1
+Daniel Allen Carp,Delta Air Lines,Directed,2885,,,1
+Jeanne Pellegren Jackson,Delta Air Lines,Directed,2886,,,1
+Dr Ashton Baldwin Carter,Delta Air Lines,Directed,2887,,,1
+Michael P Huerta,Delta Air Lines,Directed,2888,,,1
+Christopher A Hazleton,Delta Air Lines,Directed,2889,,,1
+Eric Zinterhofer,Charter Communications,Directed,2890,,,1
+W Lance Conn,Charter Communications,Directed,2891,,,1
+"John D Markley Jr ""Jay""",Charter Communications,Directed,2892,,,1
+"David C Merritt ""Dave""",Charter Communications,Directed,2893,,,1
+Craig A Jacobson,Charter Communications,Directed,2894,,,1
+"Gregory B Maffei ""Greg""",Charter Communications,Directed,2895,,,1
+Balan Nair,Charter Communications,Directed,2896,,,1
+Mauricio Ramos,Charter Communications,Directed,2897,,,1
+Steven A Miron,Charter Communications,Directed,2898,,,1
+Michael Newhouse,Charter Communications,Directed,2899,,,1
+Kim Crawford Goodman,Charter Communications,Directed,2900,,,1
+"James E Meyer ""Jim""",Charter Communications,Directed,2901,,,1
+"Thomas C Schievelbein ""Tom""",New York Life Insurance,Directed,2902,,,1
+Michele G Buck,New York Life Insurance,Directed,2903,,,1
+David W Mitchell,New York Life Insurance,Directed,2904,,,1
+Patricia T Carbine,New York Life Insurance,Directed,2905,,,1
+Dr Robert J Richardson,New York Life Insurance,Directed,2906,,,1
+William G Burns,New York Life Insurance,Directed,2907,,,1
+Leslie G McCraw,New York Life Insurance,Directed,2908,,,1
+Conrad K Harper,New York Life Insurance,Directed,2909,,,1
+Richard M Kernan Jr,New York Life Insurance,Directed,2910,,,1
+James L Broadhead,New York Life Insurance,Directed,2911,,,1
+Betty C Alewine,New York Life Insurance,Directed,2912,,,1
+Christina A Gold,New York Life Insurance,Directed,2913,,,1
+Alexander M Clark,New York Life Insurance,Directed,2914,,,1
+S Thomas Moser,New York Life Insurance,Directed,2915,,,1
+"William G Walter ""Bill""",New York Life Insurance,Directed,2916,,,1
+"Ronald R Pressman ""Ron""",New York Life Insurance,Directed,2917,,,1
+Gerald B Smith,New York Life Insurance,Directed,2918,,,1
+Donna H Kinnaird,New York Life Insurance,Directed,2919,,,1
+Kent B Foster,New York Life Insurance,Directed,2920,,,1
+"Rafael De La Vega ""Ralph""",New York Life Insurance,Directed,2921,,,1
+"Rafael De La Vega ""Ralph""",American Express,Directed,2922,,,1
+Charlene Barshefsky,American Express,Directed,2923,,,1
+Peter F Chernin,American Express,Directed,2924,,,1
+"Theodore J Leonsis ""Ted""",American Express,Directed,2925,,,1
+Anne Lauvergeon Phd,American Express,Directed,2926,,,1
+"Michael O Leavitt ""Mike""",American Express,Directed,2927,,,1
+"John Joseph Brennan ""Jack""",American Express,Directed,2928,,,1
+"Christopher D Young ""Chris""",American Express,Directed,2929,,,1
+J Patrick Doyle,Best Buy,Directed,2930,,,1
+Kathy J Higgins Victor,Best Buy,Directed,2931,,,1
+David W Kenny,Best Buy,Directed,2932,,,1
+"Thomas L Millner ""Tommy""",Best Buy,Directed,2933,,,1
+Karen A McLoughlin,Best Buy,Directed,2934,,,1
+Claudia Fan Munce,Best Buy,Directed,2935,,,1
+Richelle P Parham,Best Buy,Directed,2936,,,1
+Cindy Kent,Best Buy,Directed,2937,,,1
+"Eugene A Woods ""Gene""",Best Buy,Directed,2938,,,1
+"Russell P Fradin ""Russ""",Best Buy,Directed,2939,,,1
+Leslie A Brun,Merck,Directed,2940,,,1
+Peter C Wendell,Merck,Directed,2941,,,1
+"Rochelle B Lazarus ""Shelly""",Merck,Directed,2942,,,1
+Dr Thomas R Cech,Merck,Directed,2943,,,1
+"Pamela J Craig ""Pam""",Merck,Directed,2944,,,1
+"Pamela J Craig ""Pam""",3M,Directed,2945,,,1
+"Pamela J Craig ""Pam""",Progressive,Directed,2946,,,1
+Dr Paul R Rothman,Merck,Directed,2947,,,1
+Mary Ellen Coe,Merck,Directed,2948,,,1
+Jaime Chico Pardo,Honeywell International,Directed,2949,,,1
+Lord Clive R Hollick,Honeywell International,Directed,2950,,,1
+Linnet F Deily,Honeywell International,Directed,2951,,,1
+Kevin Burke,Honeywell International,Directed,2952,,,1
+Judd Alan Gregg,Honeywell International,Directed,2953,,,1
+Grace D Lieblein,Honeywell International,Directed,2954,,,1
+"William S Ayer ""Bill""",Honeywell International,Directed,2955,,,1
+Duncan B Angove,Honeywell International,Directed,2956,,,1
+Deborah L Flint,Honeywell International,Directed,2957,,,1
+Jane C Garvey,United Continental Holdings,Directed,2958,,,1
+David J Vitale,United Continental Holdings,Directed,2959,,,1
+Walter S Isaacson,United Continental Holdings,Directed,2960,,,1
+Carolyn Corvi,United Continental Holdings,Directed,2961,,,1
+Sito Pantoja,United Continental Holdings,Directed,2962,,,1
+Capt Todd M Insler,United Continental Holdings,Directed,2963,,,1
+James Aloysius Charles Kennedy III,United Continental Holdings,Directed,2964,,,1
+"James M Whitehurst ""Jim""",United Continental Holdings,Directed,2965,,,1
+"Edward Louis Shapiro ""Ed""",United Continental Holdings,Directed,2966,,,1
+Barney Harford,United Continental Holdings,Directed,2967,,,1
+"Edward M Philip ""Ted""",United Continental Holdings,Directed,2968,,,1
+Gaurdie E Banister Jr,Tyson Foods,Directed,2969,,,1
+Barbara A Tyson,Tyson Foods,Directed,2970,,,1
+Kevin M McNamara,Tyson Foods,Directed,2971,,,1
+Robert C Thurber,Tyson Foods,Directed,2972,,,1
+Mikel A Durham,Tyson Foods,Directed,2973,,,1
+Mike Dale Beebe,Tyson Foods,Directed,2974,,,1
+"Jeffrey K Schomburger ""Jeff""",Tyson Foods,Directed,2975,,,1
+Cheryl Scully Miller,Tyson Foods,Directed,2976,,,1
+Jonathan D Mariner,Tyson Foods,Directed,2977,,,1
+"Lawrence Joseph Ellison ""Larry""",Oracle,Directed,2978,,,1
+Dr Michael J Boskin,Oracle,Directed,2979,,,1
+"Jeffrey S Berg ""Jeff""",Oracle,Directed,2980,,,1
+Dr Hector Garcia-Molina,Oracle,Directed,2981,,,1
+Naomi O Seligman,Oracle,Directed,2982,,,1
+George H Conrades,Oracle,Directed,2983,,,1
+Bruce R Chizen,Oracle,Directed,2984,,,1
+Leon Edward Panetta,Oracle,Directed,2985,,,1
+William G Parrett,Oracle,Directed,2986,,,1
+Rona Alison Fairhead,Oracle,Directed,2987,,,1
+"Judith A Sprieser ""Judy""",Allstate,Directed,2988,,,1
+Andrea Redmond,Allstate,Directed,2989,,,1
+"Kermit R Crawford ""Ker""",Allstate,Directed,2990,,,1
+"Siddharth N Mehta ""Bobby""",Allstate,Directed,2991,,,1
+Jacques Pierre Perold,Allstate,Directed,2992,,,1
+Gregg M Sherrill,Allstate,Directed,2993,,,1
+Margaret M Keane,Allstate,Directed,2994,,,1
+Richard A Kassar,World Fuel Services,Directed,2995,,,1
+Ken Bakshi,World Fuel Services,Directed,2996,,,1
+Stephen K Roddenberry,World Fuel Services,Directed,2997,,,1
+John L Manley,World Fuel Services,Directed,2998,,,1
+Paul H Stebbins,World Fuel Services,Directed,2999,,,1
+Jorge L Benitez,World Fuel Services,Directed,3000,,,1
+Stephen J Gold,World Fuel Services,Directed,3001,,,1
+John F O'Brien,TJX,Directed,3002,,,1
+Willow B Shire,TJX,Directed,3003,,,1
+Amy B Lane,TJX,Directed,3004,,,1
+David T Ching,TJX,Directed,3005,,,1
+Michael F Hines,TJX,Directed,3006,,,1
+Alan M Bennett,TJX,Directed,3007,,,1
+Zein Abdalla,TJX,Directed,3008,,,1
+Jackwyn L Nemerov,TJX,Directed,3009,,,1
+Rosemary T Berkery,TJX,Directed,3010,,,1
+Robert A Niblock,ConocoPhillips,Directed,3011,,,1
+Prof Jody L Freeman,ConocoPhillips,Directed,3012,,,1
+Gay Huey Evans,ConocoPhillips,Directed,3013,,,1
+Arjun N Murti,ConocoPhillips,Directed,3014,,,1
+Sharmila Shahani-Mulligan,ConocoPhillips,Directed,3015,,,1
+Caroline Maury Devine,ConocoPhillips,Directed,3016,,,1
+"Jeffrey A Joerres ""Jeff""",ConocoPhillips,Directed,3017,,,1
+"Adm Rt William H McRaven ""Bill""",ConocoPhillips,Directed,3018,,,1
+"Samuel R Allen ""Sam""",Deere,Directed,3019,,,1
+Dr Vance D Coffman,Deere,Directed,3020,,,1
+Prof Dipak Chand Jain,Deere,Directed,3021,,,1
+"Clayton M Jones ""Clay""",Deere,Directed,3022,,,1
+Sherry M Smith,Deere,Directed,3023,,,1
+"Gregory R Page ""Greg""",Deere,Directed,3024,,,1
+"Gregory R Page ""Greg""",3M,Directed,3025,,,1
+Michael Owen Johanns,Deere,Directed,3026,,,1
+Alan C Heuberger,Deere,Directed,3027,,,1
+"Charles E Adair ""Eddie""",Tech Data,Directed,3028,,,1
+"Kathleen Misunas ""Kathy""",Tech Data,Directed,3029,,,1
+Harry J Harczak Jr,Tech Data,Directed,3030,,,1
+"Tung Wai-Hok ""Savio""",Tech Data,Directed,3031,,,1
+Patrick G Sayer,Tech Data,Directed,3032,,,1
+"Thomas I Morgan ""Tom""",Tech Data,Directed,3033,,,1
+Bridgette P Heller,Tech Data,Directed,3034,,,1
+Karen M Dahut,Tech Data,Directed,3035,,,1
+Randa Duncan Williams,Enterprise Products Partners,Directed,3036,,,1
+Richard H Bachmann,Enterprise Products Partners,Directed,3037,,,1
+Charles E McMahen,Enterprise Products Partners,Directed,3038,,,1
+"Richard S Snell ""Dick""",Enterprise Products Partners,Directed,3039,,,1
+"James T Hackett ""Jim""",Enterprise Products Partners,Directed,3040,,,1
+Carin Marcy Barth,Enterprise Products Partners,Directed,3041,,,1
+"William C Montgomery ""Bill""",Enterprise Products Partners,Directed,3042,,,1
+Murray E Brasseux,Enterprise Products Partners,Directed,3043,,,1
+John R Rutherford,Enterprise Products Partners,Directed,3044,,,1
+John R Thompson Jr,Nike,Directed,3045,,,1
+John G Connors,Nike,Directed,3046,,,1
+"Elizabeth J Comstock ""Beth""",Nike,Directed,3047,,,1
+Travis A Knight,Nike,Directed,3048,,,1
+"Cathleen Benko ""Cathy""",Nike,Directed,3049,,,1
+John W Rogers Jr,Nike,Directed,3050,,,1
+"William Edwin Crenshaw ""Ed""",Publix Super Markets,Directed,3051,,,1
+Howard M Jenkins,Publix Super Markets,Directed,3052,,,1
+"Stephen M Knopik ""Steve""",Publix Super Markets,Directed,3053,,,1
+"G Thomas Hough ""Tom""",Publix Super Markets,Directed,3054,,,1
+Charles H Jenkins Jr,Publix Super Markets,Directed,3055,,,1
+Jennifer A Jenkins,Publix Super Markets,Directed,3056,,,1
+"Hoyt R Barnett ""Barney""",Publix Super Markets,Directed,3057,,,1
+Gen Lester L Lyles,General Dynamics,Directed,3058,,,1
+Rudy F De Leon,General Dynamics,Directed,3059,,,1
+Mark M Malcolm,General Dynamics,Directed,3060,,,1
+Gen Sir Peter A Wall,General Dynamics,Directed,3061,,,1
+Catherine B Reynolds,General Dynamics,Directed,3062,,,1
+"C Howard Nye ""Ward""",General Dynamics,Directed,3063,,,1
+"Cecil D Haney ""Cecil""",General Dynamics,Directed,3064,,,1
+"Gen James N Mattis ""Jim""",General Dynamics,Directed,3065,,,1
+Mayo A Shattuck III,Exelon,Directed,3066,,,1
+Mayo A Shattuck III,Capital One Financial,Directed,3067,,,1
+Nicholas Debenedictis,Exelon,Directed,3068,,,1
+Stephen D Steinour,Exelon,Directed,3069,,,1
+Dr Prof Paul L Joskow,Exelon,Directed,3070,,,1
+Adm Richard W Mies,Exelon,Directed,3071,,,1
+Robert J Lawless,Exelon,Directed,3072,,,1
+Ann C Berzin,Exelon,Directed,3073,,,1
+Yves De Balmann,Exelon,Directed,3074,,,1
+"Anthony K Anderson ""Tony""",Exelon,Directed,3075,,,1
+John F Young,Exelon,Directed,3076,,,1
+Mary Laurie Brlas,Exelon,Directed,3077,,,1
+Greg L Armstrong,Plains GP Holdings,Directed,3078,,,1
+"Christopher M Temple ""Chris""",Plains GP Holdings,Directed,3079,,,1
+Robert V Sinnott,Plains GP Holdings,Directed,3080,,,1
+Everardo Goyanes,Plains GP Holdings,Directed,3081,,,1
+John T Raymond,Plains GP Holdings,Directed,3082,,,1
+Victor Burk,Plains GP Holdings,Directed,3083,,,1
+Gary R Petersen,Plains GP Holdings,Directed,3084,,,1
+J Taft Symonds,Plains GP Holdings,Directed,3085,,,1
+Oscar K Brown,Plains GP Holdings,Directed,3086,,,1
+Alexandra Garbers Pruner,Plains GP Holdings,Directed,3087,,,1
+"Herbert L Henkel ""Herb""",3M,Directed,3088,,,1
+Muhtar Kent,3M,Directed,3089,,,1
+"Thomas K Brown ""Tony""",3M,Directed,3090,,,1
+"David B Dillon ""Dave""",3M,Directed,3091,,,1
+"Edward J Rapp ""Ed""",AbbVie,Directed,3092,,,1
+Dr Robert J Alpern,AbbVie,Directed,3093,,,1
+Dr Robert J Alpern,Abbott Laboratories,Directed,3094,,,1
+William H L Burnside,AbbVie,Directed,3095,,,1
+Melody B Meyer,AbbVie,Directed,3096,,,1
+"Rebecca B Roberts ""Becky""",AbbVie,Directed,3097,,,1
+Ann Fritz Hackett,Capital One Financial,Directed,3098,,,1
+Pierre E Leroy,Capital One Financial,Directed,3099,,,1
+Bradford H Warner,Capital One Financial,Directed,3100,,,1
+Peter E Raskind,Capital One Financial,Directed,3101,,,1
+Catherine G West,Capital One Financial,Directed,3102,,,1
+"Peter Thomas Killalea ""Tom""",Capital One Financial,Directed,3103,,,1
+Aparna Chennapragada,Capital One Financial,Directed,3104,,,1
+"Cornelis J Leenaars ""Eli""",Capital One Financial,Directed,3105,,,1
+Francois Locoh-Donou,Capital One Financial,Directed,3106,,,1
+Lawton Wehle Fitt,Progressive,Directed,3107,,,1
+"Charles A Davis ""Chuck""",Progressive,Directed,3108,,,1
+Dr Patrick H Nettles Jr,Progressive,Directed,3109,,,1
+Stuart B Burgdoerfer,Progressive,Directed,3110,,,1
+"Jeffrey D Kelly ""Jeff""",Progressive,Directed,3111,,,1
+Barbara R Snyder,Progressive,Directed,3112,,,1
+Philip F Bleser,Progressive,Directed,3113,,,1
+Kahina Van Dyke,Progressive,Directed,3114,,,1
+Herbert Anthony Allen Jr,Coca-Cola,Directed,3115,,,1
+"Ronald W Allen ""Ron""",Coca-Cola,Directed,3116,,,1
+Barry Diller,Coca-Cola,Directed,3117,,,1
+Alexis M Herman,Coca-Cola,Directed,3118,,,1
+"Robert A Kotick ""Bobby""",Coca-Cola,Directed,3119,,,1
+Dr Helene D Gayle,Coca-Cola,Directed,3120,,,1
+Ana Botin,Coca-Cola,Directed,3121,,,1
+Marc J Bolland,Coca-Cola,Directed,3122,,,1
+David B Weinberg,Coca-Cola,Directed,3123,,,1
+Christopher C Davis,Coca-Cola,Directed,3124,,,1
+Caroline J Tsay,Coca-Cola,Directed,3125,,,1
+Marcy Syms,Rite Aid,Directed,3126,,,1
+Kevin E Lofton,Rite Aid,Directed,3127,,,1
+Robert E Knowling Jr,Rite Aid,Directed,3128,,,1
+Arun Nayar,Rite Aid,Directed,3129,,,1
+Louis Miramontes,Rite Aid,Directed,3130,,,1
+"Katherine B Quinn ""Kate""",Rite Aid,Directed,3131,,,1
+"Elizabeth Burr ""Busy""",Rite Aid,Directed,3132,,,1
+Samuel C Scott III,Abbott Laboratories,Directed,3133,,,1
+Nancy McKinstry,Abbott Laboratories,Directed,3134,,,1
+Sally E Blount,Abbott Laboratories,Directed,3135,,,1
+"Daniel J Starks ""Dan""",Abbott Laboratories,Directed,3136,,,1
+John G Stratton,Abbott Laboratories,Directed,3137,,,1
+Michelle A Kumbier,Abbott Laboratories,Directed,3138,,,1
+Lt Gen Darren McDew,Abbott Laboratories,Directed,3139,,,1
+"Jacques A Nasser ""Jac""",Twenty-First Century Fox,Directed,3140,,,1
+Roland A Hernandez,Twenty-First Century Fox,Directed,3141,,,1
+"Charles G Carey ""Chase""",Twenty-First Century Fox,Directed,3142,,,1
+Anne Dias,Twenty-First Century Fox,Directed,3143,,,1
+Paul D Ryan,Twenty-First Century Fox,Directed,3144,,,1
+"Robert E Switz ""Bob""",Micron Technology,Directed,3145,,,1
+"Robert L Bailey ""Bob""",Micron Technology,Directed,3146,,,1
+"Richard M Beyer ""Rich""",Micron Technology,Directed,3147,,,1
+"Steven J Gomo ""Steve""",Micron Technology,Directed,3148,,,1
+Mary Pat McCarthy,Micron Technology,Directed,3149,,,1
+Mary Ann Wright,Micron Technology,Directed,3150,,,1
+Janet M Dolan,Travelers,Directed,3151,,,1
+Laurie J Thomsen,Travelers,Directed,3152,,,1
+Alan L Beller,Travelers,Directed,3153,,,1
+Patricia L Higgins,Travelers,Directed,3154,,,1
+Donald James Shepard,Travelers,Directed,3155,,,1
+William J Kane,Travelers,Directed,3156,,,1
+"Philip T Ruegger III ""Pete""",Travelers,Directed,3157,,,1
+Todd C Schermerhorn,Travelers,Directed,3158,,,1

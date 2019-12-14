@@ -1,0 +1,161 @@
+Source,Target,Type,Id,Label,timeset,Weight
+3M,AbbVie,Undirected,3160,,,1
+3M,Progressive,Undirected,3161,,,1
+3M,IBM,Undirected,3162,,,1
+3M,Abbott Laboratories,Undirected,3163,,,1
+3M,Allstate,Undirected,3164,,,1
+3M,Chevron,Undirected,3165,,,1
+3M,Merck,Undirected,3166,,,1
+3M,Deere,Undirected,3167,,,1
+3M,Boeing,Undirected,3168,,,1
+3M,Procter & Gamble,Undirected,3169,,,1
+3M,Microsoft,Undirected,3170,,,1
+AbbVie,Phillips 66,Undirected,3172,,,1
+AbbVie,IBM,Undirected,3173,,,1
+AbbVie,Abbott Laboratories,Undirected,3174,,,1
+AbbVie,General Dynamics,Undirected,3175,,,1
+AbbVie,United Continental Holdings,Undirected,3176,,,1
+AbbVie,Boeing,Undirected,3177,,,1
+AbbVie,Target,Undirected,3178,,,1
+Progressive,Coca-Cola,Undirected,3180,,,1
+Progressive,FedEx,Undirected,3181,,,1
+Progressive,Merck,Undirected,3182,,,1
+Progressive,CVS Health,Undirected,3183,,,1
+IBM,Johnson & Johnson,Undirected,3185,,,1
+IBM,Allstate,Undirected,3186,,,1
+IBM,Nike,Undirected,3187,,,1
+IBM,FedEx,Undirected,3188,,,1
+IBM,UnitedHealth Group,Undirected,3189,,,1
+Abbott Laboratories,Caterpillar,Undirected,3190,,,1
+Abbott Laboratories,Phillips 66,Undirected,3191,,,1
+Abbott Laboratories,General Dynamics,Undirected,3193,,,1
+Abbott Laboratories,Boeing,Undirected,3194,,,1
+Abbott Laboratories,Target,Undirected,3195,,,1
+Allstate,Morgan Stanley,Undirected,3196,,,1
+Chevron,Lockheed Martin,Undirected,3198,,,1
+Chevron,Caterpillar,Undirected,3199,,,1
+Chevron,Oracle,Undirected,3200,,,1
+Chevron,Merck,Undirected,3202,,,1
+Chevron,Apple,Undirected,3203,,,1
+Merck,Exxon Mobil,Undirected,3204,,,1
+Merck,Morgan Stanley,Undirected,3205,,,1
+Merck,Amazon.com,Undirected,3206,,,1
+Merck,General Motors,Undirected,3207,,,1
+Deere,Sysco,Undirected,3209,,,1
+Deere,HCA Healthcare,Undirected,3210,,,1
+Deere,Target,Undirected,3212,,,1
+Boeing,Caterpillar,Undirected,3213,,,1
+Boeing,Johnson & Johnson,Undirected,3214,,,1
+Boeing,Intel,Undirected,3215,,,1
+Boeing,FedEx,Undirected,3216,,,1
+Boeing,Exelon,Undirected,3217,,,1
+Boeing,American Express,Undirected,3219,,,1
+Procter & Gamble,Walt Disney,Undirected,3220,,,1
+Procter & Gamble,Exxon Mobil,Undirected,3221,,,1
+Procter & Gamble,Cisco Systems,Undirected,3222,,,1
+Procter & Gamble,Sysco,Undirected,3223,,,1
+Procter & Gamble,Delta Air Lines,Undirected,3224,,,1
+Procter & Gamble,General Motors,Undirected,3225,,,1
+Procter & Gamble,Valero Energy,Undirected,3226,,,1
+Procter & Gamble,Lowe's,Undirected,3227,,,1
+Microsoft,PepsiCo,Undirected,3229,,,1
+Microsoft,Berkshire Hathaway,Undirected,3230,,,1
+Microsoft,Costco Wholesale,Undirected,3231,,,1
+Microsoft,Wells Fargo,Undirected,3232,,,1
+Comcast,Berkshire Hathaway,Undirected,3235,,,1
+Comcast,DuPont de Nemours,Undirected,3236,,,1
+Comcast,JPMorgan Chase,Undirected,3237,,,1
+Comcast,MetLife,Undirected,3238,,,1
+Berkshire Hathaway,JPMorgan Chase,Undirected,3240,,,1
+Berkshire Hathaway,Costco Wholesale,Undirected,3241,,,1
+JPMorgan Chase,General Dynamics,Undirected,3243,,,1
+JPMorgan Chase,Nike,Undirected,3244,,,1
+JPMorgan Chase,Walmart,Undirected,3245,,,1
+JPMorgan Chase,Apple,Undirected,3247,,,1
+JPMorgan Chase,UnitedHealth Group,Undirected,3248,,,1
+MetLife,Pfizer,Undirected,3249,,,1
+MetLife,Ford Motor,Undirected,3250,,,1
+MetLife,AT&T,Undirected,3251,,,1
+Walt Disney,Coca-Cola,Undirected,3254,,,1
+Walt Disney,Oracle,Undirected,3255,,,1
+Walt Disney,Nike,Undirected,3256,,,1
+Walt Disney,General Motors,Undirected,3257,,,1
+Walt Disney,CVS Health,Undirected,3258,,,1
+Oracle,Citigroup,Undirected,3261,,,1
+Nike,FedEx,Undirected,3263,,,1
+Nike,Citigroup,Undirected,3264,,,1
+Nike,Apple,Undirected,3265,,,1
+General Motors,Cisco Systems,Undirected,3266,,,1
+General Motors,Morgan Stanley,Undirected,3267,,,1
+General Motors,Home Depot,Undirected,3268,,,1
+CVS Health,Exxon Mobil,Undirected,3270,,,1
+CVS Health,HCA Healthcare,Undirected,3271,,,1
+CVS Health,Morgan Stanley,Undirected,3272,,,1
+CVS Health,Verizon Communications,Undirected,3273,,,1
+CVS Health,Bank of America,Undirected,3274,,,1
+CVS Health,Dell Technologies,Undirected,3276,,,1
+Phillips 66,Bank of America,Undirected,3278,,,1
+Phillips 66,United Technologies,Undirected,3279,,,1
+General Dynamics,Caterpillar,Undirected,3280,,,1
+United Continental Holdings,Exelon,Undirected,3283,,,1
+United Continental Holdings,UnitedHealth Group,Undirected,3284,,,1
+Target,Sysco,Undirected,3285,,,1
+Target,Verizon Communications,Undirected,3286,,,1
+Target,Cardinal Health,Undirected,3287,,,1
+Target,McKesson,Undirected,3288,,,1
+FedEx,Caterpillar,Undirected,3290,,,1
+FedEx,New York Life Insurance,Undirected,3291,,,1
+FedEx,Lowe's,Undirected,3293,,,1
+Lockheed Martin,Caterpillar,Undirected,3295,,,1
+Lockheed Martin,Johnson & Johnson,Undirected,3296,,,1
+Caterpillar,Morgan Stanley,Undirected,3298,,,1
+Caterpillar,Valero Energy,Undirected,3299,,,1
+Johnson & Johnson,Honeywell International,Undirected,3301,,,1
+Johnson & Johnson,Cigna,Undirected,3302,,,1
+Johnson & Johnson,American Express,Undirected,3303,,,1
+Fannie Mae,Morgan Stanley,Undirected,3305,,,1
+Morgan Stanley,AT&T,Undirected,3307,,,1
+Morgan Stanley,Valero Energy,Undirected,3308,,,1
+Exxon Mobil,Walmart,Undirected,3311,,,1
+Exxon Mobil,Lowe's,Undirected,3312,,,1
+Walmart,General Electric,Undirected,3313,,,1
+Walmart,UnitedHealth Group,Undirected,3315,,,1
+Lowe's,Publix Super Markets,Undirected,3316,,,1
+Lowe's,Cigna,Undirected,3317,,,1
+Lowe's,United Technologies,Undirected,3318,,,1
+AIG,Pfizer,Undirected,3321,,,1
+Pfizer,Humana,Undirected,3323,,,1
+Cisco Systems,McKesson,Undirected,3326,,,1
+Cisco Systems,United Parcel Service,Undirected,3327,,,1
+Cisco Systems,Goldman Sachs Group,Undirected,3328,,,1
+McKesson,Ford Motor,Undirected,3330,,,1
+United Parcel Service,PepsiCo,Undirected,3331,,,1
+United Parcel Service,AT&T,Undirected,3333,,,1
+Goldman Sachs Group,United Technologies,Undirected,3334,,,1
+Goldman Sachs Group,Dell Technologies,Undirected,3335,,,1
+Publix Super Markets,Centene,Undirected,3338,,,1
+Bank of America,United Technologies,Undirected,3342,,,1
+Bank of America,Albertsons,Undirected,3343,,,1
+United Technologies,New York Life Insurance,Undirected,3344,,,1
+United Technologies,Dell Technologies,Undirected,3346,,,1
+United Technologies,ConocoPhillips,Undirected,3347,,,1
+Sysco,New York Life Insurance,Undirected,3350,,,1
+New York Life Insurance,American Express,Undirected,3352,,,1
+American Express,PepsiCo,Undirected,3353,,,1
+Marathon Petroleum,Albertsons,Undirected,3358,,,1
+Marathon Petroleum,ConocoPhillips,Undirected,3359,,,1
+Alphabet,Honeywell International,Undirected,3363,,,1
+Honeywell International,Prudential Financial,Undirected,3364,,,1
+PepsiCo,AT&T,Undirected,3367,,,1
+AT&T,Ford Motor,Undirected,3368,,,1
+Travelers,Verizon Communications,Undirected,3372,,,1
+Travelers,Best Buy,Undirected,3373,,,1
+Walgreens Boots Alliance,AmerisourceBergen,Undirected,3382,,,1
+Plains GP Holdings,Kroger,Undirected,3385,,,1
+Kroger,Wells Fargo,Undirected,3387,,,1
+Home Depot,Wells Fargo,Undirected,3389,,,1
+Intel,General Electric,Undirected,3392,,,1
+General Electric,Micron Technology,Undirected,3393,,,1
+Exelon,Capital One Financial,Undirected,3396,,,1
+Ford Motor,Dell Technologies,Undirected,3404,,,1
+HP,Hewlett Packard Enterprise,Undirected,3411,,,1
